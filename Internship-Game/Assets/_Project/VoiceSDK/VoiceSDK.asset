@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae5a46bda3295124c99b0e6537ac7252, type: 3}
+  m_Name: VoiceSDK
+  m_EditorClassIdentifier: 
+  application:
+    witConfiguration: {fileID: 11400000}
+    name: table_talk
+    id: 976198310456938
+    lang: en
+    isPrivate: 1
+    createdAt: 2023-02-14T00:59:22-0800
+  configId: 91dcd3499681b864eb308bc0c85db129
+  clientAccessToken: U7ETL2CGIOWJ5E2HBXDOTCJEGRLUXPGU
+  timeoutMS: 10000
+  endpointConfiguration:
+    uriScheme: 
+    authority: 
+    port: 0
+    witApiVersion: 
+    speech: 
+    message: 
+    dictation: 
+  entities: []
+  intents:
+  - witConfiguration: {fileID: 11400000}
+    id: 716349389938999
+    name: Hallo_hoe_gaat_het_
+    entities: []
+  traits:
+  - witConfiguration: {fileID: 11400000}
+    id: 5900cc2e-09ed-4764-800c-11e7566acfac
+    name: wit$bye
+    values:
+    - id: 955a38ae-f188-46ba-ab6d-4988c5a4bea6
+      value: true
+  - witConfiguration: {fileID: 11400000}
+    id: 5900cc2d-41b7-45b2-b21f-b950d3ae3c5c
+    name: wit$greetings
+    values:
+    - id: 547401529279585
+      value: true
+  - witConfiguration: {fileID: 11400000}
+    id: 5900cc2d-867c-4bf0-beb6-ef6e6bf45ca5
+    name: wit$thanks
+    values:
+    - id: e5cce196-9948-420c-a9fb-9c2fd201adaf
+      value: true
+  isDemoOnly: 0
+  useConduit: 0
+  manifestLocalPath: ConduitManifest-67fada8b-cdec-4e18-89a3-13d2de6d5596.json
+  openManifestOnGeneration: 0

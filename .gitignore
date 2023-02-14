@@ -26,6 +26,8 @@
 # Visual Studio cache directory
 .vs/
 
+HowToGuides/
+
 # Gradle cache directory
 .gradle/
 
