@@ -32,7 +32,7 @@ Business, sustainable and ethical factors = you take into consideration business
 Manage execution = you create a project plan and monitor your project including the research activities, time, money, risks and the quality of the solution which is valuable for the organisation.
 
 
-## [Investigative Problem Solving] You take a critical look at your project from different perspectives, identify problems, find an effective approach and arrive at appropriate solutions.
+## Investigative Problem Solving You take a critical look at your project from different perspectives, identify problems, find an effective approach and arrive at appropriate solutions.
 Identify problems = Throughout all phases of the project, initially by identifying the problem/opportunity of the client, defining the main scope of the project and formulating the related research questions, and during the project by identifying newly encountered problems/challenges and formulating more in-depth or detailed research questions.
 
 Different perspectives and effective approach = you use a variety of research strategies, methods and activities (reference: https://ictresearchmethods.nl/The_DOT_FrameworkLinks to an external site. ) in a structured way in order to find justified answers to your research questions.
