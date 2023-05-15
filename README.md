@@ -7,7 +7,7 @@
 | ------------- | ------------- |
 | Student Name:  | Rens Vooswijk  |
 | Student Nummer  | 466388  |
-| Project Period | 6-02-2023 - |
+| Project Period | 6-02-2023 - 13-06-2023|
 | Company Name | ROC Tilbrug |
 | Company Department | Practoraat Interactieve Technologie |
 | Adress | Locomotiefboulevard 101-119, 5041SE Tilburg |
@@ -44,18 +44,12 @@
 You carry out the professional duties on a junior bachelor level resulting in professional products in line with the IT-area you are working in.
 Professional duties on a junior bachelor level = All or a subset of the activities Analysis, Design, Realize, Advise, Manage&Control. As a reference use: 1) the HBO-I framework on proficiency level 2, 2) the level as required in OE3 or OE4
 
-Professional products = end products and intermediate products as a result of the professional duties
-
-In line with the IT-area =  You deliver professional products that are characteristic for the IT area of your project. As a reference use: 1) the HBO-I framework on proficiency level 2, 2) the professional products required in OE3 or OE4
-
 ### Situation Orientation
 You apply your previously acquired knowledge and skills in an authentic context to deliver relevant results for the project and company.
-Apply = You work in a methodological and structured way, adapted to the processes and way of working of the company
 
-Relevant  = Your work is relevant for one or more persons
-
-Authentic context = you are embedded in an IT environment and work on a given IT problem with multiple stakeholders
-
+### Future-Oriented Organisation
+You explore the organisational context of your project, make business, sustainable and ethical considerations and manage all aspects of the execution of the project.
+Organisational context = you identify the business domain and stakeholders of the project and know its business legitimisation
 
 ### Built With
 
