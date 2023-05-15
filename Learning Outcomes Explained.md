@@ -18,6 +18,7 @@ In line with the IT-area =  You deliver professional products that are character
 
 ## Situation-orientation 
 You apply your previously acquired knowledge and skills in an authentic context to deliver relevant results for the project and company.
+
 Apply = You work in a methodological and structured way, adapted to the processes and way of working of the company
 
 Relevant  = Your work is relevant for one or more persons
