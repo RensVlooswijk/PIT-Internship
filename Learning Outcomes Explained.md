@@ -1,5 +1,13 @@
 # Learning Outcomes Explained
 
+- [Learning Outcomes](#learning-outcomes)
+- [Professional duties](#professional-duties)
+- [Situation-orientation](#situation-orientation)
+- [Future-Oriented Organisation](#future-oriented-organisation)
+- [Investigative Problem Solving](#investigative-problem-solving)
+- [Personal Leadership](#personal-leadership)
+- [Targeted Interaction](#targeted-interaction)
+
 ## [Professional duties] You carry out the professional duties on a junior bachelor level resulting in professional products in line with the IT-area you are working in.
 Professional duties on a junior bachelor level = All or a subset of the activities Analysis, Design, Realize, Advise, Manage&Control. As a reference use: 1) the HBO-I framework on proficiency level 2, 2) the level as required in OE3 or OE4
 
