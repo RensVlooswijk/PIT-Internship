@@ -17,11 +17,11 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Learning Outcomes](#1.-learning-outcomes)
-     - [Professional duties](#2.-professional-duties)
+- [Learning Outcomes](#1-learning-outcomes)
+     - [Professional duties](#2-professional-duties)
      - [Situation-orientation](#situation-orientation)
      - [Future-Oriented Organisation](#future-oriented-organisation)
-     - [Investigative Problem Solving](#investigative-problem-solving)
+     - [Investigative Problem Solving](#4-investigative-problem-solving)
      - [Personal Leadership](#personal-leadership)
      - [Targeted Interaction](#targeted-interaction)
 - [Built With](#built-with)
