@@ -58,8 +58,8 @@ Main Question: How effective is virtual reality technology in teaching Dutch lan
 To see more detailed / explained versions of the learning outcomes check out [Learning Outcomes Explained](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/Learning%20Outcomes%20Explained.md#learning-outcomes-explained)
 
 ### 1. Professional Duties
-You carry out the professional duties on a junior bachelor level resulting in professional products in line with the IT-area you are working in.
-Professional duties on a junior bachelor level = All or a subset of the activities Analysis, Design, Realize, Advise, Manage&Control. As a reference use: 1) the HBO-I framework on proficiency level 2, 2) the level as required in OE3 or OE4
+> You carry out the professional duties on a junior bachelor level resulting in professional products in line with the IT-area you are working in.
+> Professional duties on a junior bachelor level = All or a subset of the activities Analysis, Design, Realize, Advise, Manage&Control. As a reference use: 1) the HBO-I framework on proficiency level 2, 2) the level as >required in OE3 or OE4
 
 ### 2. Situation Orientation
 You apply your previously acquired knowledge and skills in an authentic context to deliver relevant results for the project and company.
