@@ -77,6 +77,8 @@ You are entrepreneurial around your projects and personal development, you pay a
 ### 6. Targeted Interaction 
 You determine which partners play a role in your project, collaborate constructively with them and communicate appropriately to achieve the desired impact.
 
+[Back to table of contents](#table-of-contents) 
+
 ### Built With
 
 <!-- TODO: List any MAJOR libraries/frameworks (e.g. React, Tailwind) with links to their homepages. -->
