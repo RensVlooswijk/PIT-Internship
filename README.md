@@ -39,6 +39,12 @@
 
 ## Research Questions
 
+Main Question: How effective is virtual reality technology in teaching Dutch language to the students, and what are the best practices for designing and developing a virtual reality game for this purpose?
+1.	What is the current state of research on the use of virtual reality technology in language learning, and how does it compare to traditional language learning methods in terms of effectiveness and engagement?
+2.	What are the specific challenges and considerations when using virtual reality technology for language learning, particularly for the students?
+3.	How can we evaluate the effectiveness of the virtual reality game in terms of language proficiency and engagement, and what are the best practices for gathering feedback from the students?
+4.	What are the key steps and best practices for creating a successful proof of concept for a new product or technology?
+
 ## Learning Outcomes
 
 ### 1. Professional Duties
@@ -68,6 +74,10 @@ You determine which partners play a role in your project, collaborate constructi
 ## Features
 
 <!-- TODO: List what specific 'user problems' that this application solves. -->
+
+## Conclusion
+
+## Review
 
 ## Contact
 
