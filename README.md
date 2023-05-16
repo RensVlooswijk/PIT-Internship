@@ -17,8 +17,8 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Learning Outcomes](#learning-outcomes)
-     - [Professional duties](#professional-duties)
+- [Learning Outcomes](#1.-learning-outcomes)
+     - [Professional duties](#2.-professional-duties)
      - [Situation-orientation](#situation-orientation)
      - [Future-Oriented Organisation](#future-oriented-organisation)
      - [Investigative Problem Solving](#investigative-problem-solving)
@@ -29,27 +29,37 @@
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
-## Overview
+## The Assignment
 
-<!-- TODO: Add a screenshot of the live project.
-    1. Link to a 'live demo.'
-    2. Describe your overall experience in a couple of sentences.
-    3. List a few specific technical things that you learned or improved on.
-    4. Share any other tips or guidance for others attempting this or something similar.
- -->
+### Context
+
+### Goal of the project
+
+### The Assignemnt
+
+## Research Questions
 
 ## Learning Outcomes
 
-### Professional Duties
+### 1. Professional Duties
 You carry out the professional duties on a junior bachelor level resulting in professional products in line with the IT-area you are working in.
 Professional duties on a junior bachelor level = All or a subset of the activities Analysis, Design, Realize, Advise, Manage&Control. As a reference use: 1) the HBO-I framework on proficiency level 2, 2) the level as required in OE3 or OE4
 
-### Situation Orientation
+### 2. Situation Orientation
 You apply your previously acquired knowledge and skills in an authentic context to deliver relevant results for the project and company.
 
-### Future-Oriented Organisation
+### 3. Future-Oriented Organisation
 You explore the organisational context of your project, make business, sustainable and ethical considerations and manage all aspects of the execution of the project.
 Organisational context = you identify the business domain and stakeholders of the project and know its business legitimisation
+
+### 4. Investigative Problem Solving
+You take a critical look at your project from different perspectives, identify problems, find an effective approach and arrive at appropriate solutions.
+
+### 5. Personal Leadership 
+You are entrepreneurial around your projects and personal development, you pay attention to your own learning ability and keep in mind what kind of IT professional and/or what type of positions you aspire to.
+
+### 6. Targeted Interaction 
+You determine which partners play a role in your project, collaborate constructively with them and communicate appropriately to achieve the desired impact.
 
 ### Built With
 
