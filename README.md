@@ -85,6 +85,9 @@ You determine which partners play a role in your project, collaborate constructi
 
 ## Features
 
+## Research
+To see my tool option research check out my [Option Research documents](https://github.com/RensVlooswijk/PIT-Internship/tree/Dev/Research%20Documents)
+
 <!-- TODO: List what specific 'user problems' that this application solves. -->
 
 ## Conclusion
