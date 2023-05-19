@@ -1,25 +1,25 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/School/Stage/Game/PIT-Internship/Internship-Game/Packages/manifest.json
+    m_FilePath: C:/School/Stage/Pit/PIT-Internship/Internship-Game/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638113763815883702
-    m_Hash: 966044695
+      ticks: 638199065151671317
+    m_Hash: 563526969
   m_LockFileStatus:
-    m_FilePath: C:/School/Stage/Game/PIT-Internship/Internship-Game/Packages/packages-lock.json
+    m_FilePath: C:/School/Stage/Pit/PIT-Internship/Internship-Game/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638113763815936134
-    m_Hash: 3806973947
+      ticks: 638199065151671317
+    m_Hash: 221674590
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/School/Stage/Game/PIT-Internship/Internship-Game/Packages
+m_ProjectPath: C:/School/Stage/Pit/PIT-Internship/Internship-Game/Packages
 m_EditorVersion: 2021.3.13f1 (9e7d58001ecf)
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@1.17.6
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.17.6
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.collab-proxy@1.17.6
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.collab-proxy@1.17.6
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -105,6 +105,9 @@ m_ResolvedPackages:
     - 2.0.0-preview.21
     - 2.0.0-preview.22
     - 2.0.0
+    - 2.0.1
+    - 2.0.3
+    - 2.0.4
     - 2.1.0-preview.3
     - 2.1.0-preview.5
     - 2.1.0-preview.6
@@ -119,6 +122,9 @@ m_ResolvedPackages:
     - 2.0.0-preview.21
     - 2.0.0-preview.22
     - 2.0.0
+    - 2.0.1
+    - 2.0.3
+    - 2.0.4
     - 2.1.0-preview.3
     - 2.1.0-preview.5
     - 2.1.0-preview.6
@@ -175,7 +181,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.editorcoroutines@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.editorcoroutines@1.0.0
   assetPath: Packages/com.unity.editorcoroutines
   name: com.unity.editorcoroutines
   displayName: Editor Coroutines
@@ -234,7 +240,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.1
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.feature.development@1.0.1
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.feature.development@1.0.1
   assetPath: Packages/com.unity.feature.development
   name: com.unity.feature.development
   displayName: Engineering
@@ -321,7 +327,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.feature.vr@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.feature.vr@1.0.0
   assetPath: Packages/com.unity.feature.vr
   name: com.unity.feature.vr
   displayName: VR
@@ -405,7 +411,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.15
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.ide.rider@3.0.15
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.ide.rider@3.0.15
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -456,12 +462,16 @@ m_ResolvedPackages:
     - 3.0.16
     - 3.0.17
     - 3.0.18
+    - 3.0.20
+    - 3.0.21
     compatible:
     - 3.0.15
     - 3.0.16
     - 3.0.17
     - 3.0.18
-    verified: 3.0.18
+    - 3.0.20
+    - 3.0.21
+    verified: 3.0.21
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -495,7 +505,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.16
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.ide.visualstudio@2.0.16
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.ide.visualstudio@2.0.16
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -532,10 +542,12 @@ m_ResolvedPackages:
     - 2.0.15
     - 2.0.16
     - 2.0.17
+    - 2.0.18
     compatible:
     - 2.0.16
     - 2.0.17
-    verified: 2.0.17
+    - 2.0.18
+    verified: 2.0.18
   dependencies:
   - name: com.unity.test-framework
     version: 1.1.9
@@ -575,7 +587,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.2.5
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.ide.vscode@1.2.5
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.ide.vscode@1.2.5
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -637,7 +649,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.2.2
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.learn.iet-framework@2.2.2
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.learn.iet-framework@2.2.2
   assetPath: Packages/com.unity.learn.iet-framework
   name: com.unity.learn.iet-framework
   displayName: Tutorial Framework
@@ -751,7 +763,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.1.31
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.test-framework@1.1.31
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.test-framework@1.1.31
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -803,6 +815,8 @@ m_ResolvedPackages:
     - 1.3.0
     - 1.3.1
     - 1.3.2
+    - 1.3.3
+    - 1.3.4
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
@@ -813,6 +827,8 @@ m_ResolvedPackages:
     - 1.3.0
     - 1.3.1
     - 1.3.2
+    - 1.3.3
+    - 1.3.4
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
@@ -861,7 +877,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.textmeshpro@3.0.6
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -980,6 +996,7 @@ m_ResolvedPackages:
     - 3.2.0-pre.3
     - 3.2.0-pre.4
     - 4.0.0-pre.1
+    - 4.0.0-pre.2
     compatible:
     - 3.0.6
     - 3.2.0-pre.1
@@ -1029,7 +1046,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.6.4
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.timeline@1.6.4
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.timeline@1.6.4
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1113,21 +1130,31 @@ m_ResolvedPackages:
     - 1.6.2
     - 1.6.3
     - 1.6.4
+    - 1.6.5
     - 1.7.0-pre.1
     - 1.7.0-pre.2
     - 1.7.0
     - 1.7.1
     - 1.7.2
+    - 1.7.3
+    - 1.7.4
     - 1.8.0
+    - 1.8.1
+    - 1.8.2
     compatible:
     - 1.6.4
+    - 1.6.5
     - 1.7.0-pre.1
     - 1.7.0-pre.2
     - 1.7.0
     - 1.7.1
     - 1.7.2
+    - 1.7.3
+    - 1.7.4
     - 1.8.0
-    verified: 1.6.4
+    - 1.8.1
+    - 1.8.2
+    verified: 1.6.5
   dependencies:
   - name: com.unity.modules.director
     version: 1.0.0
@@ -1178,7 +1205,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.ugui@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1197,6 +1224,7 @@ m_ResolvedPackages:
   versions:
     all:
     - 1.0.0
+    - 3.0.0-exp.1
     compatible:
     - 1.0.0
     verified: 1.0.0
@@ -1241,7 +1269,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.7.8
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.visualscripting@1.7.8
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.visualscripting@1.7.8
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1329,7 +1357,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 4.2.0
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.xr.management@4.2.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.xr.management@4.2.0
   assetPath: Packages/com.unity.xr.management
   name: com.unity.xr.management
   displayName: XR Plugin Management
@@ -1396,10 +1424,12 @@ m_ResolvedPackages:
     - 4.2.0
     - 4.2.1
     - 4.3.1
+    - 4.3.3
     compatible:
     - 4.2.0
     - 4.2.1
     - 4.3.1
+    - 4.3.3
     verified: 4.2.1
   dependencies:
   - name: com.unity.modules.subsystems
@@ -1461,7 +1491,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.2.2
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.xr.oculus@3.2.2
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.xr.oculus@3.2.2
   assetPath: Packages/com.unity.xr.oculus
   name: com.unity.xr.oculus
   displayName: Oculus XR Plugin
@@ -1525,12 +1555,17 @@ m_ResolvedPackages:
     - 1.12.0
     - 1.12.1
     - 1.13.0
+    - 1.13.1-preview.1
+    - 1.13.1-preview.2
+    - 1.13.1
     - 2.0.0-preview.1
     - 2.0.0-preview.2
     - 2.0.0-preview.4
     - 2.0.0-preview.5
     - 2.0.2-preview.1
     - 2.2.0-preview.1
+    - 2.2.3-preview.1
+    - 2.2.3-preview.2
     - 3.0.0-pre.1
     - 3.0.0-pre.2
     - 3.0.0-pre.4
@@ -1541,11 +1576,18 @@ m_ResolvedPackages:
     - 3.2.1
     - 3.2.2-pre.1
     - 3.2.2
+    - 3.2.3-pre.1
+    - 3.2.3
+    - 3.3.0
+    - 4.0.0
     compatible:
     - 3.2.1
     - 3.2.2-pre.1
     - 3.2.2
-    verified: 3.2.2
+    - 3.2.3-pre.1
+    - 3.2.3
+    - 3.3.0
+    verified: 3.2.3
   dependencies:
   - name: com.unity.xr.management
     version: 4.2.0
@@ -1600,7 +1642,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.4
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.camerarigs.trackedalias.unity@2.0.4
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.camerarigs.trackedalias.unity@2.0.4
   assetPath: Packages/io.extendreality.tilia.camerarigs.trackedalias.unity
   name: io.extendreality.tilia.camerarigs.trackedalias.unity
   displayName: Tilia CameraRigs TrackedAlias Unity
@@ -1682,6 +1724,21 @@ m_ResolvedPackages:
     - 2.0.3
     - 2.0.4
     - 2.0.5
+    - 2.0.6
+    - 2.0.7
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 2.1.3
+    - 2.2.0
+    - 2.2.1
+    - 2.3.0
+    - 2.3.1
+    - 2.4.0
+    - 2.4.1
+    - 2.4.2
+    - 2.4.3
+    - 2.4.4
     compatible:
     - 1.0.0
     - 1.0.1
@@ -1749,6 +1806,21 @@ m_ResolvedPackages:
     - 2.0.3
     - 2.0.4
     - 2.0.5
+    - 2.0.6
+    - 2.0.7
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 2.1.3
+    - 2.2.0
+    - 2.2.1
+    - 2.3.0
+    - 2.3.1
+    - 2.4.0
+    - 2.4.1
+    - 2.4.2
+    - 2.4.3
+    - 2.4.4
     verified: 
   dependencies:
   - name: io.extendreality.zinnia.unity
@@ -1792,7 +1864,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.4
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.camerarigs.unityxr@2.0.4
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.camerarigs.unityxr@2.0.4
   assetPath: Packages/io.extendreality.tilia.camerarigs.unityxr
   name: io.extendreality.tilia.camerarigs.unityxr
   displayName: Tilia CameraRigs UnityXR
@@ -1879,6 +1951,17 @@ m_ResolvedPackages:
     - 2.0.3
     - 2.0.4
     - 2.0.5
+    - 2.0.6
+    - 2.0.7
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 2.1.3
+    - 2.1.4
+    - 2.1.5
+    - 2.1.6
+    - 2.1.7
+    - 2.1.8
     compatible:
     - 1.0.0
     - 1.0.1
@@ -1951,6 +2034,17 @@ m_ResolvedPackages:
     - 2.0.3
     - 2.0.4
     - 2.0.5
+    - 2.0.6
+    - 2.0.7
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 2.1.3
+    - 2.1.4
+    - 2.1.5
+    - 2.1.6
+    - 2.1.7
+    - 2.1.8
     verified: 
   dependencies:
   - name: io.extendreality.zinnia.unity
@@ -1992,7 +2086,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.4
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.input.unityinputmanager@2.0.4
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.input.unityinputmanager@2.0.4
   assetPath: Packages/io.extendreality.tilia.input.unityinputmanager
   name: io.extendreality.tilia.input.unityinputmanager
   displayName: Tilia Input UnityInputManager
@@ -2079,6 +2173,19 @@ m_ResolvedPackages:
     - 2.0.3
     - 2.0.4
     - 2.0.5
+    - 2.0.6
+    - 2.0.7
+    - 2.0.8
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 2.1.3
+    - 2.1.4
+    - 2.1.5
+    - 2.1.6
+    - 2.1.7
+    - 2.1.8
+    - 2.1.9
     compatible:
     - 1.0.0
     - 1.0.1
@@ -2151,6 +2258,19 @@ m_ResolvedPackages:
     - 2.0.3
     - 2.0.4
     - 2.0.5
+    - 2.0.6
+    - 2.0.7
+    - 2.0.8
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 2.1.3
+    - 2.1.4
+    - 2.1.5
+    - 2.1.6
+    - 2.1.7
+    - 2.1.8
+    - 2.1.9
     verified: 
   dependencies:
   - name: io.extendreality.zinnia.unity
@@ -2193,7 +2313,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.1.0
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.input.unityinputsystem@2.1.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.input.unityinputsystem@2.1.0
   assetPath: Packages/io.extendreality.tilia.input.unityinputsystem
   name: io.extendreality.tilia.input.unityinputsystem
   displayName: Tilia Input UnityInputSystem
@@ -2242,6 +2362,20 @@ m_ResolvedPackages:
     - 2.0.4
     - 2.1.0
     - 2.1.1
+    - 2.1.2
+    - 2.1.3
+    - 2.1.4
+    - 2.2.0
+    - 2.3.0
+    - 2.3.1
+    - 2.3.2
+    - 2.3.3
+    - 2.3.4
+    - 2.4.0
+    - 2.4.1
+    - 2.4.2
+    - 2.4.3
+    - 2.4.4
     compatible:
     - 1.0.0
     - 1.0.1
@@ -2276,6 +2410,20 @@ m_ResolvedPackages:
     - 2.0.4
     - 2.1.0
     - 2.1.1
+    - 2.1.2
+    - 2.1.3
+    - 2.1.4
+    - 2.2.0
+    - 2.3.0
+    - 2.3.1
+    - 2.3.2
+    - 2.3.3
+    - 2.3.4
+    - 2.4.0
+    - 2.4.1
+    - 2.4.2
+    - 2.4.3
+    - 2.4.4
     verified: 
   dependencies:
   - name: io.extendreality.zinnia.unity
@@ -2332,7 +2480,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.7.0
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.interactions.interactables.unity@2.7.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.interactions.interactables.unity@2.7.0
   assetPath: Packages/io.extendreality.tilia.interactions.interactables.unity
   name: io.extendreality.tilia.interactions.interactables.unity
   displayName: Tilia Interactions Interactables Unity
@@ -2444,6 +2592,32 @@ m_ResolvedPackages:
     - 2.7.0
     - 2.7.1
     - 2.8.0
+    - 2.8.1
+    - 2.8.2
+    - 2.9.0
+    - 2.9.1
+    - 2.9.2
+    - 2.9.3
+    - 2.10.0
+    - 2.10.1
+    - 2.11.0
+    - 2.11.1
+    - 2.11.2
+    - 2.11.3
+    - 2.11.4
+    - 2.11.5
+    - 2.11.6
+    - 2.11.7
+    - 2.11.8
+    - 2.12.0
+    - 2.13.0
+    - 2.13.1
+    - 2.14.0
+    - 2.15.0
+    - 2.15.1
+    - 2.16.0
+    - 2.16.1
+    - 2.16.2
     compatible:
     - 1.0.0
     - 1.1.0
@@ -2541,6 +2715,32 @@ m_ResolvedPackages:
     - 2.7.0
     - 2.7.1
     - 2.8.0
+    - 2.8.1
+    - 2.8.2
+    - 2.9.0
+    - 2.9.1
+    - 2.9.2
+    - 2.9.3
+    - 2.10.0
+    - 2.10.1
+    - 2.11.0
+    - 2.11.1
+    - 2.11.2
+    - 2.11.3
+    - 2.11.4
+    - 2.11.5
+    - 2.11.6
+    - 2.11.7
+    - 2.11.8
+    - 2.12.0
+    - 2.13.0
+    - 2.13.1
+    - 2.14.0
+    - 2.15.0
+    - 2.15.1
+    - 2.16.0
+    - 2.16.1
+    - 2.16.2
     verified: 
   dependencies:
   - name: io.extendreality.zinnia.unity
@@ -2579,7 +2779,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.1.21
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.interactions.pointerinteractors.unity@2.1.21
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.interactions.pointerinteractors.unity@2.1.21
   assetPath: Packages/io.extendreality.tilia.interactions.pointerinteractors.unity
   name: io.extendreality.tilia.interactions.pointerinteractors.unity
   displayName: Tilia Interactions PointerInteractors Unity
@@ -2783,6 +2983,60 @@ m_ResolvedPackages:
     - 2.1.23
     - 2.1.24
     - 2.1.25
+    - 2.1.26
+    - 2.1.27
+    - 2.1.28
+    - 2.1.29
+    - 2.1.30
+    - 2.1.31
+    - 2.1.32
+    - 2.1.33
+    - 2.1.34
+    - 2.1.35
+    - 2.1.36
+    - 2.1.37
+    - 2.1.38
+    - 2.1.39
+    - 2.1.40
+    - 2.1.41
+    - 2.1.42
+    - 2.1.43
+    - 2.1.44
+    - 2.1.45
+    - 2.1.46
+    - 2.1.47
+    - 2.1.48
+    - 2.1.49
+    - 2.1.50
+    - 2.1.51
+    - 2.1.52
+    - 2.1.53
+    - 2.1.54
+    - 2.1.55
+    - 2.1.56
+    - 2.1.57
+    - 2.1.58
+    - 2.1.59
+    - 2.1.60
+    - 2.1.61
+    - 2.1.62
+    - 2.1.63
+    - 2.1.64
+    - 2.1.65
+    - 2.1.66
+    - 2.1.67
+    - 2.1.68
+    - 2.1.69
+    - 2.1.70
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+    - 2.2.3
+    - 2.2.4
+    - 2.2.5
+    - 2.3.0
+    - 2.3.1
+    - 2.3.2
     compatible:
     - 1.0.0
     - 1.0.1
@@ -2972,6 +3226,60 @@ m_ResolvedPackages:
     - 2.1.23
     - 2.1.24
     - 2.1.25
+    - 2.1.26
+    - 2.1.27
+    - 2.1.28
+    - 2.1.29
+    - 2.1.30
+    - 2.1.31
+    - 2.1.32
+    - 2.1.33
+    - 2.1.34
+    - 2.1.35
+    - 2.1.36
+    - 2.1.37
+    - 2.1.38
+    - 2.1.39
+    - 2.1.40
+    - 2.1.41
+    - 2.1.42
+    - 2.1.43
+    - 2.1.44
+    - 2.1.45
+    - 2.1.46
+    - 2.1.47
+    - 2.1.48
+    - 2.1.49
+    - 2.1.50
+    - 2.1.51
+    - 2.1.52
+    - 2.1.53
+    - 2.1.54
+    - 2.1.55
+    - 2.1.56
+    - 2.1.57
+    - 2.1.58
+    - 2.1.59
+    - 2.1.60
+    - 2.1.61
+    - 2.1.62
+    - 2.1.63
+    - 2.1.64
+    - 2.1.65
+    - 2.1.66
+    - 2.1.67
+    - 2.1.68
+    - 2.1.69
+    - 2.1.70
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+    - 2.2.3
+    - 2.2.4
+    - 2.2.5
+    - 2.3.0
+    - 2.3.1
+    - 2.3.2
     verified: 
   dependencies:
   - name: io.extendreality.zinnia.unity
@@ -3027,7 +3335,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.1.17
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.interactions.snapzone.unity@2.1.17
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.interactions.snapzone.unity@2.1.17
   assetPath: Packages/io.extendreality.tilia.interactions.snapzone.unity
   name: io.extendreality.tilia.interactions.snapzone.unity
   displayName: Tilia Interactions SnapZone Unity
@@ -3229,6 +3537,56 @@ m_ResolvedPackages:
     - 2.1.19
     - 2.1.20
     - 2.1.21
+    - 2.1.22
+    - 2.1.23
+    - 2.1.24
+    - 2.1.25
+    - 2.1.26
+    - 2.1.27
+    - 2.1.28
+    - 2.1.29
+    - 2.1.30
+    - 2.1.31
+    - 2.1.32
+    - 2.1.33
+    - 2.1.34
+    - 2.1.35
+    - 2.1.36
+    - 2.1.37
+    - 2.1.38
+    - 2.1.39
+    - 2.1.40
+    - 2.1.41
+    - 2.1.42
+    - 2.1.43
+    - 2.1.44
+    - 2.1.45
+    - 2.1.46
+    - 2.1.47
+    - 2.1.48
+    - 2.1.49
+    - 2.1.50
+    - 2.1.51
+    - 2.1.52
+    - 2.1.53
+    - 2.1.54
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+    - 2.2.3
+    - 2.2.4
+    - 2.2.5
+    - 2.2.6
+    - 2.2.7
+    - 2.2.8
+    - 2.2.9
+    - 2.2.10
+    - 2.2.11
+    - 2.2.12
+    - 2.2.13
+    - 2.2.14
+    - 2.2.15
+    - 2.3.0
     compatible:
     - 1.0.0
     - 1.0.1
@@ -3416,6 +3774,56 @@ m_ResolvedPackages:
     - 2.1.19
     - 2.1.20
     - 2.1.21
+    - 2.1.22
+    - 2.1.23
+    - 2.1.24
+    - 2.1.25
+    - 2.1.26
+    - 2.1.27
+    - 2.1.28
+    - 2.1.29
+    - 2.1.30
+    - 2.1.31
+    - 2.1.32
+    - 2.1.33
+    - 2.1.34
+    - 2.1.35
+    - 2.1.36
+    - 2.1.37
+    - 2.1.38
+    - 2.1.39
+    - 2.1.40
+    - 2.1.41
+    - 2.1.42
+    - 2.1.43
+    - 2.1.44
+    - 2.1.45
+    - 2.1.46
+    - 2.1.47
+    - 2.1.48
+    - 2.1.49
+    - 2.1.50
+    - 2.1.51
+    - 2.1.52
+    - 2.1.53
+    - 2.1.54
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+    - 2.2.3
+    - 2.2.4
+    - 2.2.5
+    - 2.2.6
+    - 2.2.7
+    - 2.2.8
+    - 2.2.9
+    - 2.2.10
+    - 2.2.11
+    - 2.2.12
+    - 2.2.13
+    - 2.2.14
+    - 2.2.15
+    - 2.3.0
     verified: 
   dependencies:
   - name: io.extendreality.zinnia.unity
@@ -3468,7 +3876,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.2.0
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.interactions.spatialbuttons.unity@2.2.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.interactions.spatialbuttons.unity@2.2.0
   assetPath: Packages/io.extendreality.tilia.interactions.spatialbuttons.unity
   name: io.extendreality.tilia.interactions.spatialbuttons.unity
   displayName: Tilia Interactions SpatialButtons Unity
@@ -3556,6 +3964,42 @@ m_ResolvedPackages:
     - 2.1.0
     - 2.2.0
     - 2.2.1
+    - 2.2.2
+    - 2.2.3
+    - 2.2.4
+    - 2.2.5
+    - 2.2.6
+    - 2.2.7
+    - 2.2.8
+    - 2.2.9
+    - 2.2.10
+    - 2.2.11
+    - 2.2.12
+    - 2.2.13
+    - 2.2.14
+    - 2.2.15
+    - 2.2.16
+    - 2.2.17
+    - 2.2.18
+    - 2.2.19
+    - 2.2.20
+    - 2.2.21
+    - 2.2.22
+    - 2.2.23
+    - 2.2.24
+    - 2.2.25
+    - 2.3.0
+    - 2.3.1
+    - 2.3.2
+    - 2.3.3
+    - 2.3.4
+    - 2.3.5
+    - 2.3.6
+    - 2.3.7
+    - 2.3.8
+    - 2.3.9
+    - 2.3.10
+    - 2.3.11
     compatible:
     - 1.0.0
     - 1.0.1
@@ -3629,6 +4073,42 @@ m_ResolvedPackages:
     - 2.1.0
     - 2.2.0
     - 2.2.1
+    - 2.2.2
+    - 2.2.3
+    - 2.2.4
+    - 2.2.5
+    - 2.2.6
+    - 2.2.7
+    - 2.2.8
+    - 2.2.9
+    - 2.2.10
+    - 2.2.11
+    - 2.2.12
+    - 2.2.13
+    - 2.2.14
+    - 2.2.15
+    - 2.2.16
+    - 2.2.17
+    - 2.2.18
+    - 2.2.19
+    - 2.2.20
+    - 2.2.21
+    - 2.2.22
+    - 2.2.23
+    - 2.2.24
+    - 2.2.25
+    - 2.3.0
+    - 2.3.1
+    - 2.3.2
+    - 2.3.3
+    - 2.3.4
+    - 2.3.5
+    - 2.3.6
+    - 2.3.7
+    - 2.3.8
+    - 2.3.9
+    - 2.3.10
+    - 2.3.11
     verified: 
   dependencies:
   - name: io.extendreality.tilia.indicators.spatialtargets.unity
@@ -3686,7 +4166,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.10
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.locomotors.axismove.unity@2.0.10
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.locomotors.axismove.unity@2.0.10
   assetPath: Packages/io.extendreality.tilia.locomotors.axismove.unity
   name: io.extendreality.tilia.locomotors.axismove.unity
   displayName: Tilia Locomotors AxisMove Unity
@@ -3803,6 +4283,29 @@ m_ResolvedPackages:
     - 2.0.10
     - 2.0.11
     - 2.0.12
+    - 2.0.13
+    - 2.0.14
+    - 2.0.15
+    - 2.0.16
+    - 2.0.17
+    - 2.0.18
+    - 2.0.19
+    - 2.0.20
+    - 2.0.21
+    - 2.0.22
+    - 2.0.23
+    - 2.0.24
+    - 2.0.25
+    - 2.0.26
+    - 2.0.27
+    - 2.0.28
+    - 2.0.29
+    - 2.0.30
+    - 2.0.31
+    - 2.0.32
+    - 2.0.33
+    - 2.0.34
+    - 2.0.35
     compatible:
     - 1.0.0
     - 1.0.1
@@ -3905,6 +4408,29 @@ m_ResolvedPackages:
     - 2.0.10
     - 2.0.11
     - 2.0.12
+    - 2.0.13
+    - 2.0.14
+    - 2.0.15
+    - 2.0.16
+    - 2.0.17
+    - 2.0.18
+    - 2.0.19
+    - 2.0.20
+    - 2.0.21
+    - 2.0.22
+    - 2.0.23
+    - 2.0.24
+    - 2.0.25
+    - 2.0.26
+    - 2.0.27
+    - 2.0.28
+    - 2.0.29
+    - 2.0.30
+    - 2.0.31
+    - 2.0.32
+    - 2.0.33
+    - 2.0.34
+    - 2.0.35
     verified: 
   dependencies:
   - name: io.extendreality.zinnia.unity
@@ -3953,7 +4479,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.1.2
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.output.interactorhaptics.unity@2.1.2
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.output.interactorhaptics.unity@2.1.2
   assetPath: Packages/io.extendreality.tilia.output.interactorhaptics.unity
   name: io.extendreality.tilia.output.interactorhaptics.unity
   displayName: Tilia Output InteractorHaptics Unity
@@ -4070,6 +4596,58 @@ m_ResolvedPackages:
     - 2.1.4
     - 2.1.5
     - 2.1.6
+    - 2.1.7
+    - 2.1.8
+    - 2.1.9
+    - 2.1.10
+    - 2.1.11
+    - 2.1.12
+    - 2.1.13
+    - 2.1.14
+    - 2.1.15
+    - 2.1.16
+    - 2.1.17
+    - 2.1.18
+    - 2.1.19
+    - 2.1.20
+    - 2.1.21
+    - 2.1.22
+    - 2.1.23
+    - 2.1.24
+    - 2.1.25
+    - 2.1.26
+    - 2.1.27
+    - 2.1.28
+    - 2.1.29
+    - 2.1.30
+    - 2.1.31
+    - 2.1.32
+    - 2.1.33
+    - 2.1.34
+    - 2.1.35
+    - 2.1.36
+    - 2.1.37
+    - 2.1.38
+    - 2.1.39
+    - 2.1.40
+    - 2.1.41
+    - 2.1.42
+    - 2.1.43
+    - 2.1.44
+    - 2.1.45
+    - 2.1.46
+    - 2.1.47
+    - 2.1.48
+    - 2.1.49
+    - 2.1.50
+    - 2.1.51
+    - 2.1.52
+    - 2.1.53
+    - 2.1.54
+    - 2.1.55
+    - 2.1.56
+    - 2.1.57
+    - 2.1.58
     compatible:
     - 1.0.0
     - 1.0.1
@@ -4172,6 +4750,58 @@ m_ResolvedPackages:
     - 2.1.4
     - 2.1.5
     - 2.1.6
+    - 2.1.7
+    - 2.1.8
+    - 2.1.9
+    - 2.1.10
+    - 2.1.11
+    - 2.1.12
+    - 2.1.13
+    - 2.1.14
+    - 2.1.15
+    - 2.1.16
+    - 2.1.17
+    - 2.1.18
+    - 2.1.19
+    - 2.1.20
+    - 2.1.21
+    - 2.1.22
+    - 2.1.23
+    - 2.1.24
+    - 2.1.25
+    - 2.1.26
+    - 2.1.27
+    - 2.1.28
+    - 2.1.29
+    - 2.1.30
+    - 2.1.31
+    - 2.1.32
+    - 2.1.33
+    - 2.1.34
+    - 2.1.35
+    - 2.1.36
+    - 2.1.37
+    - 2.1.38
+    - 2.1.39
+    - 2.1.40
+    - 2.1.41
+    - 2.1.42
+    - 2.1.43
+    - 2.1.44
+    - 2.1.45
+    - 2.1.46
+    - 2.1.47
+    - 2.1.48
+    - 2.1.49
+    - 2.1.50
+    - 2.1.51
+    - 2.1.52
+    - 2.1.53
+    - 2.1.54
+    - 2.1.55
+    - 2.1.56
+    - 2.1.57
+    - 2.1.58
     verified: 
   dependencies:
   - name: io.extendreality.zinnia.unity
@@ -4218,7 +4848,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.4
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.sdk.oculusintegration.unity@2.0.4
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.sdk.oculusintegration.unity@2.0.4
   assetPath: Packages/io.extendreality.tilia.sdk.oculusintegration.unity
   name: io.extendreality.tilia.sdk.oculusintegration.unity
   displayName: Tilia SDK OculusIntegration Unity
@@ -4295,6 +4925,21 @@ m_ResolvedPackages:
     - 2.0.3
     - 2.0.4
     - 2.0.5
+    - 2.0.6
+    - 2.0.7
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 2.1.3
+    - 2.1.4
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+    - 2.3.0
+    - 2.3.1
+    - 2.3.2
+    - 2.3.3
+    - 2.3.4
     compatible:
     - 1.0.0
     - 1.0.1
@@ -4358,6 +5003,21 @@ m_ResolvedPackages:
     - 2.0.3
     - 2.0.4
     - 2.0.5
+    - 2.0.6
+    - 2.0.7
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 2.1.3
+    - 2.1.4
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+    - 2.3.0
+    - 2.3.1
+    - 2.3.2
+    - 2.3.3
+    - 2.3.4
     verified: 
   dependencies:
   - name: io.extendreality.zinnia.unity
@@ -4395,7 +5055,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.1.6
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.trackers.pseudobody.unity@2.1.6
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.trackers.pseudobody.unity@2.1.6
   assetPath: Packages/io.extendreality.tilia.trackers.pseudobody.unity
   name: io.extendreality.tilia.trackers.pseudobody.unity
   displayName: Tilia Trackers PseudoBody Unity
@@ -4598,6 +5258,52 @@ m_ResolvedPackages:
     - 2.1.8
     - 2.1.9
     - 2.1.10
+    - 2.1.11
+    - 2.1.12
+    - 2.1.13
+    - 2.1.14
+    - 2.1.15
+    - 2.1.16
+    - 2.1.17
+    - 2.1.18
+    - 2.1.19
+    - 2.1.20
+    - 2.1.21
+    - 2.1.22
+    - 2.1.23
+    - 2.1.24
+    - 2.1.25
+    - 2.1.26
+    - 2.1.27
+    - 2.1.28
+    - 2.1.29
+    - 2.1.30
+    - 2.1.31
+    - 2.1.32
+    - 2.1.33
+    - 2.1.34
+    - 2.1.35
+    - 2.1.36
+    - 2.1.37
+    - 2.1.38
+    - 2.1.39
+    - 2.1.40
+    - 2.1.41
+    - 2.1.42
+    - 2.1.43
+    - 2.1.44
+    - 2.1.45
+    - 2.1.46
+    - 2.1.47
+    - 2.1.48
+    - 2.1.49
+    - 2.1.50
+    - 2.1.51
+    - 2.1.52
+    - 2.1.53
+    - 2.1.54
+    - 2.1.55
+    - 2.1.56
     compatible:
     - 1.0.0
     - 1.0.1
@@ -4786,6 +5492,52 @@ m_ResolvedPackages:
     - 2.1.8
     - 2.1.9
     - 2.1.10
+    - 2.1.11
+    - 2.1.12
+    - 2.1.13
+    - 2.1.14
+    - 2.1.15
+    - 2.1.16
+    - 2.1.17
+    - 2.1.18
+    - 2.1.19
+    - 2.1.20
+    - 2.1.21
+    - 2.1.22
+    - 2.1.23
+    - 2.1.24
+    - 2.1.25
+    - 2.1.26
+    - 2.1.27
+    - 2.1.28
+    - 2.1.29
+    - 2.1.30
+    - 2.1.31
+    - 2.1.32
+    - 2.1.33
+    - 2.1.34
+    - 2.1.35
+    - 2.1.36
+    - 2.1.37
+    - 2.1.38
+    - 2.1.39
+    - 2.1.40
+    - 2.1.41
+    - 2.1.42
+    - 2.1.43
+    - 2.1.44
+    - 2.1.45
+    - 2.1.46
+    - 2.1.47
+    - 2.1.48
+    - 2.1.49
+    - 2.1.50
+    - 2.1.51
+    - 2.1.52
+    - 2.1.53
+    - 2.1.54
+    - 2.1.55
+    - 2.1.56
     verified: 
   dependencies:
   - name: io.extendreality.zinnia.unity
@@ -4833,7 +5585,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.3.6
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.visuals.basichand.unity@2.3.6
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.visuals.basichand.unity@2.3.6
   assetPath: Packages/io.extendreality.tilia.visuals.basichand.unity
   name: io.extendreality.tilia.visuals.basichand.unity
   displayName: Tilia Visuals BasicHand Unity
@@ -4862,6 +5614,29 @@ m_ResolvedPackages:
     - 2.3.6
     - 2.3.7
     - 2.3.8
+    - 2.3.9
+    - 2.3.10
+    - 2.3.11
+    - 2.3.12
+    - 2.3.13
+    - 2.3.14
+    - 2.3.15
+    - 2.3.16
+    - 2.3.17
+    - 2.3.18
+    - 2.3.19
+    - 2.3.20
+    - 2.3.21
+    - 2.3.22
+    - 2.3.23
+    - 2.3.24
+    - 2.4.0
+    - 2.4.1
+    - 2.4.2
+    - 2.4.3
+    - 2.4.4
+    - 2.4.5
+    - 2.4.6
     compatible:
     - 1.0.0
     - 2.0.0
@@ -4877,6 +5652,29 @@ m_ResolvedPackages:
     - 2.3.6
     - 2.3.7
     - 2.3.8
+    - 2.3.9
+    - 2.3.10
+    - 2.3.11
+    - 2.3.12
+    - 2.3.13
+    - 2.3.14
+    - 2.3.15
+    - 2.3.16
+    - 2.3.17
+    - 2.3.18
+    - 2.3.19
+    - 2.3.20
+    - 2.3.21
+    - 2.3.22
+    - 2.3.23
+    - 2.3.24
+    - 2.4.0
+    - 2.4.1
+    - 2.4.2
+    - 2.4.3
+    - 2.4.4
+    - 2.4.5
+    - 2.4.6
     verified: 
   dependencies:
   - name: io.extendreality.zinnia.unity
@@ -4923,7 +5721,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.1.2
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.visuals.interactablehighlighter.unity@2.1.2
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.visuals.interactablehighlighter.unity@2.1.2
   assetPath: Packages/io.extendreality.tilia.visuals.interactablehighlighter.unity
   name: io.extendreality.tilia.visuals.interactablehighlighter.unity
   displayName: Tilia Visuals InteractableHighlighter Unity
@@ -5008,6 +5806,43 @@ m_ResolvedPackages:
     - 2.1.3
     - 2.1.4
     - 2.1.5
+    - 2.1.6
+    - 2.1.7
+    - 2.1.8
+    - 2.1.9
+    - 2.1.10
+    - 2.1.11
+    - 2.1.12
+    - 2.1.13
+    - 2.1.14
+    - 2.1.15
+    - 2.1.16
+    - 2.1.17
+    - 2.1.18
+    - 2.1.19
+    - 2.1.20
+    - 2.1.21
+    - 2.1.22
+    - 2.1.23
+    - 2.1.24
+    - 2.1.25
+    - 2.1.26
+    - 2.1.27
+    - 2.1.28
+    - 2.1.29
+    - 2.1.30
+    - 2.1.31
+    - 2.1.32
+    - 2.1.33
+    - 2.1.34
+    - 2.1.35
+    - 2.1.36
+    - 2.1.37
+    - 2.1.38
+    - 2.1.39
+    - 2.1.40
+    - 2.1.41
+    - 2.1.42
     compatible:
     - 1.0.0
     - 1.0.1
@@ -5078,6 +5913,43 @@ m_ResolvedPackages:
     - 2.1.3
     - 2.1.4
     - 2.1.5
+    - 2.1.6
+    - 2.1.7
+    - 2.1.8
+    - 2.1.9
+    - 2.1.10
+    - 2.1.11
+    - 2.1.12
+    - 2.1.13
+    - 2.1.14
+    - 2.1.15
+    - 2.1.16
+    - 2.1.17
+    - 2.1.18
+    - 2.1.19
+    - 2.1.20
+    - 2.1.21
+    - 2.1.22
+    - 2.1.23
+    - 2.1.24
+    - 2.1.25
+    - 2.1.26
+    - 2.1.27
+    - 2.1.28
+    - 2.1.29
+    - 2.1.30
+    - 2.1.31
+    - 2.1.32
+    - 2.1.33
+    - 2.1.34
+    - 2.1.35
+    - 2.1.36
+    - 2.1.37
+    - 2.1.38
+    - 2.1.39
+    - 2.1.40
+    - 2.1.41
+    - 2.1.42
     verified: 
   dependencies:
   - name: io.extendreality.zinnia.unity
@@ -5122,7 +5994,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.ai@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -5171,7 +6043,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -5219,7 +6091,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.animation@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -5268,7 +6140,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -5317,7 +6189,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.audio@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -5366,7 +6238,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.cloth@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -5419,7 +6291,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.director@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -5476,7 +6348,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -5526,7 +6398,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.imgui@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -5575,7 +6447,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -5624,7 +6496,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -5673,7 +6545,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.physics@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -5722,7 +6594,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -5771,7 +6643,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -5824,7 +6696,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.terrain@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -5873,7 +6745,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -5930,7 +6802,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -5982,7 +6854,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.ui@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -6031,7 +6903,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.uielements@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -6096,7 +6968,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.umbra@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -6145,7 +7017,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -6202,7 +7074,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -6251,7 +7123,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -6308,7 +7180,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -6365,7 +7237,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -6422,7 +7294,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -6495,7 +7367,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -6548,7 +7420,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.video@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -6609,7 +7481,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.vr@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -6672,7 +7544,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.wind@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -6721,7 +7593,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.xr@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -6782,7 +7654,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -6835,7 +7707,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
   assetPath: Packages/com.unity.modules.uielementsnative
   name: com.unity.modules.uielementsnative
   displayName: UIElements Native
@@ -6895,7 +7767,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.3.0
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.zinnia.unity@2.3.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.zinnia.unity@2.3.0
   assetPath: Packages/io.extendreality.zinnia.unity
   name: io.extendreality.zinnia.unity
   displayName: Zinnia.Unity
@@ -6989,6 +7861,17 @@ m_ResolvedPackages:
     - 2.2.0
     - 2.3.0
     - 2.4.0
+    - 2.5.0
+    - 2.6.0
+    - 2.7.0
+    - 2.7.1
+    - 2.7.2
+    - 2.8.0
+    - 2.9.0
+    - 2.10.0
+    - 2.11.0
+    - 2.12.0
+    - 2.12.1
     compatible:
     - 1.0.1
     - 1.0.2
@@ -7068,6 +7951,17 @@ m_ResolvedPackages:
     - 2.2.0
     - 2.3.0
     - 2.4.0
+    - 2.5.0
+    - 2.6.0
+    - 2.7.0
+    - 2.7.1
+    - 2.7.2
+    - 2.8.0
+    - 2.9.0
+    - 2.10.0
+    - 2.11.0
+    - 2.12.0
+    - 2.12.1
     verified: 
   dependencies: []
   resolvedDependencies: []
@@ -7105,7 +7999,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.3.1
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.utilities.shaders.unity@1.3.1
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.utilities.shaders.unity@1.3.1
   assetPath: Packages/io.extendreality.tilia.utilities.shaders.unity
   name: io.extendreality.tilia.utilities.shaders.unity
   displayName: Tilia Utilities Shaders Unity
@@ -7167,7 +8061,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.4
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.mutators.objectfollower.unity@2.0.4
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.mutators.objectfollower.unity@2.0.4
   assetPath: Packages/io.extendreality.tilia.mutators.objectfollower.unity
   name: io.extendreality.tilia.mutators.objectfollower.unity
   displayName: Tilia Mutators ObjectFollower Unity
@@ -7240,6 +8134,17 @@ m_ResolvedPackages:
     - 2.0.3
     - 2.0.4
     - 2.0.5
+    - 2.0.6
+    - 2.0.7
+    - 2.0.8
+    - 2.0.9
+    - 2.0.10
+    - 2.0.11
+    - 2.0.12
+    - 2.0.13
+    - 2.0.14
+    - 2.0.15
+    - 2.0.16
     compatible:
     - 1.0.0
     - 1.0.1
@@ -7298,6 +8203,17 @@ m_ResolvedPackages:
     - 2.0.3
     - 2.0.4
     - 2.0.5
+    - 2.0.6
+    - 2.0.7
+    - 2.0.8
+    - 2.0.9
+    - 2.0.10
+    - 2.0.11
+    - 2.0.12
+    - 2.0.13
+    - 2.0.14
+    - 2.0.15
+    - 2.0.16
     verified: 
   dependencies:
   - name: io.extendreality.zinnia.unity
@@ -7336,7 +8252,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.4
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.mutators.collisionignorer.unity@2.0.4
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.mutators.collisionignorer.unity@2.0.4
   assetPath: Packages/io.extendreality.tilia.mutators.collisionignorer.unity
   name: io.extendreality.tilia.mutators.collisionignorer.unity
   displayName: Tilia Mutators CollisionIgnorer Unity
@@ -7406,6 +8322,17 @@ m_ResolvedPackages:
     - 2.0.3
     - 2.0.4
     - 2.0.5
+    - 2.0.6
+    - 2.0.7
+    - 2.0.8
+    - 2.0.9
+    - 2.0.10
+    - 2.0.11
+    - 2.0.12
+    - 2.0.13
+    - 2.0.14
+    - 2.0.15
+    - 2.0.16
     compatible:
     - 1.0.0
     - 1.1.0
@@ -7461,6 +8388,17 @@ m_ResolvedPackages:
     - 2.0.3
     - 2.0.4
     - 2.0.5
+    - 2.0.6
+    - 2.0.7
+    - 2.0.8
+    - 2.0.9
+    - 2.0.10
+    - 2.0.11
+    - 2.0.12
+    - 2.0.13
+    - 2.0.14
+    - 2.0.15
+    - 2.0.16
     verified: 
   dependencies:
   - name: io.extendreality.zinnia.unity
@@ -7499,7 +8437,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.4
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.input.combinedactions.unity@2.0.4
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.input.combinedactions.unity@2.0.4
   assetPath: Packages/io.extendreality.tilia.input.combinedactions.unity
   name: io.extendreality.tilia.input.combinedactions.unity
   displayName: Tilia Input CombinedActions Unity
@@ -7579,6 +8517,18 @@ m_ResolvedPackages:
     - 2.0.3
     - 2.0.4
     - 2.0.5
+    - 2.0.6
+    - 2.0.7
+    - 2.0.8
+    - 2.0.9
+    - 2.0.10
+    - 2.0.11
+    - 2.0.12
+    - 2.0.13
+    - 2.0.14
+    - 2.0.15
+    - 2.0.16
+    - 2.0.17
     compatible:
     - 1.0.0
     - 1.0.1
@@ -7644,6 +8594,18 @@ m_ResolvedPackages:
     - 2.0.3
     - 2.0.4
     - 2.0.5
+    - 2.0.6
+    - 2.0.7
+    - 2.0.8
+    - 2.0.9
+    - 2.0.10
+    - 2.0.11
+    - 2.0.12
+    - 2.0.13
+    - 2.0.14
+    - 2.0.15
+    - 2.0.16
+    - 2.0.17
     verified: 
   dependencies:
   - name: io.extendreality.zinnia.unity
@@ -7681,7 +8643,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.11
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.indicators.spatialtargets.unity@2.0.11
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.indicators.spatialtargets.unity@2.0.11
   assetPath: Packages/io.extendreality.tilia.indicators.spatialtargets.unity
   name: io.extendreality.tilia.indicators.spatialtargets.unity
   displayName: Tilia Indicators SpatialTargets Unity
@@ -7813,6 +8775,33 @@ m_ResolvedPackages:
     - 2.0.11
     - 2.0.12
     - 2.0.13
+    - 2.0.14
+    - 2.0.15
+    - 2.0.16
+    - 2.0.17
+    - 2.0.18
+    - 2.0.19
+    - 2.0.20
+    - 2.0.21
+    - 2.0.22
+    - 2.0.23
+    - 2.0.24
+    - 2.0.25
+    - 2.0.26
+    - 2.0.27
+    - 2.0.28
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+    - 2.2.3
+    - 2.2.4
+    - 2.2.5
+    - 2.2.6
+    - 2.2.7
+    - 2.2.8
     compatible:
     - 1.0.0
     - 1.0.1
@@ -7930,6 +8919,33 @@ m_ResolvedPackages:
     - 2.0.11
     - 2.0.12
     - 2.0.13
+    - 2.0.14
+    - 2.0.15
+    - 2.0.16
+    - 2.0.17
+    - 2.0.18
+    - 2.0.19
+    - 2.0.20
+    - 2.0.21
+    - 2.0.22
+    - 2.0.23
+    - 2.0.24
+    - 2.0.25
+    - 2.0.26
+    - 2.0.27
+    - 2.0.28
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+    - 2.2.3
+    - 2.2.4
+    - 2.2.5
+    - 2.2.6
+    - 2.2.7
+    - 2.2.8
     verified: 
   dependencies:
   - name: io.extendreality.zinnia.unity
@@ -7975,7 +8991,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.1.7
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.indicators.objectpointers.unity@2.1.7
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\io.extendreality.tilia.indicators.objectpointers.unity@2.1.7
   assetPath: Packages/io.extendreality.tilia.indicators.objectpointers.unity
   name: io.extendreality.tilia.indicators.objectpointers.unity
   displayName: Tilia Indicators ObjectPointers Unity
@@ -8116,6 +9132,30 @@ m_ResolvedPackages:
     - 2.1.7
     - 2.1.8
     - 2.1.9
+    - 2.1.10
+    - 2.1.11
+    - 2.1.12
+    - 2.1.13
+    - 2.1.14
+    - 2.1.15
+    - 2.1.16
+    - 2.1.17
+    - 2.1.18
+    - 2.1.19
+    - 2.1.20
+    - 2.1.21
+    - 2.1.22
+    - 2.1.23
+    - 2.1.24
+    - 2.1.25
+    - 2.1.26
+    - 2.1.27
+    - 2.1.28
+    - 2.1.29
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+    - 2.2.3
     compatible:
     - 1.0.0
     - 1.0.1
@@ -8242,6 +9282,30 @@ m_ResolvedPackages:
     - 2.1.7
     - 2.1.8
     - 2.1.9
+    - 2.1.10
+    - 2.1.11
+    - 2.1.12
+    - 2.1.13
+    - 2.1.14
+    - 2.1.15
+    - 2.1.16
+    - 2.1.17
+    - 2.1.18
+    - 2.1.19
+    - 2.1.20
+    - 2.1.21
+    - 2.1.22
+    - 2.1.23
+    - 2.1.24
+    - 2.1.25
+    - 2.1.26
+    - 2.1.27
+    - 2.1.28
+    - 2.1.29
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+    - 2.2.3
     verified: 
   dependencies:
   - name: io.extendreality.zinnia.unity
@@ -8287,7 +9351,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.4.3
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.inputsystem@1.4.3
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.inputsystem@1.4.3
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -8340,10 +9404,12 @@ m_ResolvedPackages:
     - 1.4.3
     - 1.4.4
     - 1.5.0
+    - 1.5.1
     compatible:
     - 1.4.3
     - 1.4.4
     - 1.5.0
+    - 1.5.1
     verified: 1.4.4
   dependencies:
   - name: com.unity.modules.uielements
@@ -8394,7 +9460,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.1.10
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.10
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.10
   assetPath: Packages/com.unity.xr.legacyinputhelpers
   name: com.unity.xr.legacyinputhelpers
   displayName: XR Legacy Input Helpers
@@ -8490,7 +9556,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.1.0
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.subsystemregistration@1.1.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.subsystemregistration@1.1.0
   assetPath: Packages/com.unity.subsystemregistration
   name: com.unity.subsystemregistration
   displayName: Subsystem Registration
@@ -8556,7 +9622,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.6
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.ext.nunit@1.0.6
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.ext.nunit@1.0.6
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -8617,7 +9683,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.3
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.settings-manager@1.0.3
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.settings-manager@1.0.3
   assetPath: Packages/com.unity.settings-manager
   name: com.unity.settings-manager
   displayName: Settings Manager
@@ -8675,7 +9741,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.5.3
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.xr.openxr@1.5.3
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.xr.openxr@1.5.3
   assetPath: Packages/com.unity.xr.openxr
   name: com.unity.xr.openxr
   displayName: OpenXR Plugin
@@ -8712,9 +9778,11 @@ m_ResolvedPackages:
     - 1.5.1
     - 1.5.3
     - 1.6.0
+    - 1.7.0
     compatible:
     - 1.5.3
     - 1.6.0
+    - 1.7.0
     verified: 1.5.3
   dependencies:
   - name: com.unity.xr.management
@@ -8781,7 +9849,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.1.1
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.performance.profile-analyzer@1.1.1
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.performance.profile-analyzer@1.1.1
   assetPath: Packages/com.unity.performance.profile-analyzer
   name: com.unity.performance.profile-analyzer
   displayName: Profile Analyzer
@@ -8847,7 +9915,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.1
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.testtools.codecoverage@1.0.1
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.testtools.codecoverage@1.0.1
   assetPath: Packages/com.unity.testtools.codecoverage
   name: com.unity.testtools.codecoverage
   displayName: Code Coverage
@@ -8893,6 +9961,7 @@ m_ResolvedPackages:
     - 1.2.0
     - 1.2.1
     - 1.2.2
+    - 1.2.3
     compatible:
     - 1.0.1
     - 1.1.0
@@ -8907,6 +9976,7 @@ m_ResolvedPackages:
     - 1.2.0
     - 1.2.1
     - 1.2.2
+    - 1.2.3
     verified: 1.0.1
   dependencies:
   - name: com.unity.test-framework
@@ -8955,7 +10025,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.5.2
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.services.core@1.5.2
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.services.core@1.5.2
   assetPath: Packages/com.unity.services.core
   name: com.unity.services.core
   displayName: Services Core
@@ -8993,11 +10063,17 @@ m_ResolvedPackages:
     - 1.6.0
     - 1.7.0
     - 1.7.1
+    - 1.8.1
+    - 1.8.2
+    - 1.9.0
     compatible:
     - 1.5.2
     - 1.6.0
     - 1.7.0
     - 1.7.1
+    - 1.8.1
+    - 1.8.2
+    - 1.9.0
     verified: 1.5.2
   dependencies:
   - name: com.unity.modules.unitywebrequest
@@ -9040,7 +10116,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.0.2
   source: 1
-  resolvedPath: C:\School\Stage\Game\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\Internship-Game\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2
   assetPath: Packages/com.unity.nuget.newtonsoft-json
   name: com.unity.nuget.newtonsoft-json
   displayName: Newtonsoft Json
@@ -9077,8 +10153,14 @@ m_ResolvedPackages:
     - 2.0.2
     - 3.0.1
     - 3.0.2
+    - 3.1.0
+    - 3.2.0
+    - 3.2.1
     compatible:
     - 3.0.2
+    - 3.1.0
+    - 3.2.0
+    - 3.2.1
     verified: 3.0.2
   dependencies: []
   resolvedDependencies: []
