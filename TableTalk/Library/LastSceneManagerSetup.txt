@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/GPT AI Integration/Demo Scenes/Voice Chat Demo.unity
+- path: Assets/_Project/Scenes/StartMenu.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
