@@ -153,6 +153,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_SendPointerHoverToParent: 1
   m_HorizontalAxis: Horizontal
   m_VerticalAxis: Vertical
   m_SubmitButton: Submit
@@ -359,7 +360,7 @@ RectTransform:
   m_Children:
   - {fileID: 1139337816}
   m_Father: {fileID: 516691524}
-  m_RootOrder: -1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -553,14 +554,8 @@ MonoBehaviour:
   model: gpt-3.5-turbo
   prompt: {fileID: 1471980543}
   response: {fileID: 1332804622}
-  instructions: Ahoy, me mateys! Ye be actin' as a female pirate video game character,
-    savvy? Yer job is to give players quests that reward treasure maps. Ye be talkin'
-    like a true pirate, and never break character or be chattin' 'bout things yer
-    character wouldn't know. Me hearties, let's sail the high seas and seek out the
-    treasure hidden within! Ye'll be givin' players challenging tasks, and in return,
-    they'll receive maps that'll lead 'em to pirate booty beyond their wildest dreams.
-    So batten down the hatches, hoist the Jolly Roger, and get ready to embark on
-    a swashbuckling adventure! Arrr! Respond only as if you were this character.
+  instructions: you are a dutch waiter in a restaurant trying to help a customer
+    order
   max_tokens: 2048
   temperature: 0.7
   top_p: 1
@@ -694,7 +689,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 516691524}
-  m_RootOrder: -1
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
@@ -875,7 +870,6 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 25
-  m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
@@ -910,67 +904,79 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 5490449287616113856, guid: f28446e696573d2418d2a68633c4a3b3, type: 3}
+    - target: {fileID: 5490449287616113856, guid: f28446e696573d2418d2a68633c4a3b3,
+        type: 3}
       propertyPath: Engine
       value: 5
       objectReference: {fileID: 0}
-    - target: {fileID: 8905070302076984395, guid: f28446e696573d2418d2a68633c4a3b3, type: 3}
+    - target: {fileID: 8905070302076984395, guid: f28446e696573d2418d2a68633c4a3b3,
+        type: 3}
       propertyPath: m_Name
       value: OpenAiCompleterV1
       objectReference: {fileID: 0}
-    - target: {fileID: 9000805303073374261, guid: f28446e696573d2418d2a68633c4a3b3, type: 3}
+    - target: {fileID: 9000805303073374261, guid: f28446e696573d2418d2a68633c4a3b3,
+        type: 3}
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 9000805303073374261, guid: f28446e696573d2418d2a68633c4a3b3, type: 3}
+    - target: {fileID: 9000805303073374261, guid: f28446e696573d2418d2a68633c4a3b3,
+        type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9000805303073374261, guid: f28446e696573d2418d2a68633c4a3b3, type: 3}
+    - target: {fileID: 9000805303073374261, guid: f28446e696573d2418d2a68633c4a3b3,
+        type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9000805303073374261, guid: f28446e696573d2418d2a68633c4a3b3, type: 3}
+    - target: {fileID: 9000805303073374261, guid: f28446e696573d2418d2a68633c4a3b3,
+        type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9000805303073374261, guid: f28446e696573d2418d2a68633c4a3b3, type: 3}
+    - target: {fileID: 9000805303073374261, guid: f28446e696573d2418d2a68633c4a3b3,
+        type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 9000805303073374261, guid: f28446e696573d2418d2a68633c4a3b3, type: 3}
+    - target: {fileID: 9000805303073374261, guid: f28446e696573d2418d2a68633c4a3b3,
+        type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9000805303073374261, guid: f28446e696573d2418d2a68633c4a3b3, type: 3}
+    - target: {fileID: 9000805303073374261, guid: f28446e696573d2418d2a68633c4a3b3,
+        type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9000805303073374261, guid: f28446e696573d2418d2a68633c4a3b3, type: 3}
+    - target: {fileID: 9000805303073374261, guid: f28446e696573d2418d2a68633c4a3b3,
+        type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9000805303073374261, guid: f28446e696573d2418d2a68633c4a3b3, type: 3}
+    - target: {fileID: 9000805303073374261, guid: f28446e696573d2418d2a68633c4a3b3,
+        type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9000805303073374261, guid: f28446e696573d2418d2a68633c4a3b3, type: 3}
+    - target: {fileID: 9000805303073374261, guid: f28446e696573d2418d2a68633c4a3b3,
+        type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9000805303073374261, guid: f28446e696573d2418d2a68633c4a3b3, type: 3}
+    - target: {fileID: 9000805303073374261, guid: f28446e696573d2418d2a68633c4a3b3,
+        type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: f28446e696573d2418d2a68633c4a3b3, type: 3}
 --- !u!114 &620953610 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 5490449287616113856, guid: f28446e696573d2418d2a68633c4a3b3, type: 3}
+  m_CorrespondingSourceObject: {fileID: 5490449287616113856, guid: f28446e696573d2418d2a68633c4a3b3,
+    type: 3}
   m_PrefabInstance: {fileID: 620953609}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
@@ -1128,7 +1134,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1139337816}
-  m_RootOrder: -1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -1250,7 +1256,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 516691524}
-  m_RootOrder: -1
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1385,7 +1391,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 516691524}
-  m_RootOrder: -1
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1462,7 +1468,7 @@ RectTransform:
   - {fileID: 691850899}
   - {fileID: 1471980545}
   m_Father: {fileID: 100447802}
-  m_RootOrder: -1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -1514,7 +1520,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 516691524}
-  m_RootOrder: -1
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
@@ -1746,7 +1752,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1139337816}
-  m_RootOrder: -1
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -1784,7 +1790,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 516691524}
-  m_RootOrder: -1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
