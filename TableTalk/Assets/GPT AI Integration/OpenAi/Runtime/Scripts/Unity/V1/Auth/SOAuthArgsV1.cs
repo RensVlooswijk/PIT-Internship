@@ -27,12 +27,12 @@ namespace OpenAi.Unity.V1
         /// <summary>
         /// The private key provided by OpenAi. You private api key can be found at <see href="https://beta.openai.com/docs/developer-quickstart/your-api-keys"/> if you have an account.
         /// </summary>
-        public string PrivateApiKey = "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";
+        public string PrivateApiKey;
 
         /// <summary>
         /// The organization id provided by OpenAi. This is optional. It is only required when a user belongs to multiple organizations and they want to specifiy the organization who's quota should be consumed. 
         /// </summary>
-        public string Organization = "Personal";
+        public string Organization;
 
         /// <summary>
         /// Based on the <see cref="AuthType"> resolves and provides the <see cref="SAuthArgsV1"> instance
