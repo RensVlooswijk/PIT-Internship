@@ -4,6 +4,8 @@
 ##  Portfolio HBO-ICT
 ### Fontys Hogeschool
 
+![fontys-39-logo-png-transparent (Smaller)](https://github.com/RensVlooswijk/PIT-Internship/assets/73878099/8fe01e90-0c82-432f-902b-62310e27a4ac)
+
 | Student + Company Info | |
 | ------------- | ------------- |
 | Student Name:  | Rens Vooswijk  |
