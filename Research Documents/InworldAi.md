@@ -49,3 +49,8 @@ I have personally experimented with Inworld.AI and created a demo environment to
 # Conclusion
 
 Inworld.AI is an innovative tool that offers advanced NLP capabilities, character customization, dialogue tree features, and Unity integration, making it easy to create conversational NPCs. However, its limitation to only understanding the English language may make it unsuitable for projects that require support for other languages. Despite this limitation, Inworld.AI is an excellent tool for developers seeking to create engaging and immersive conversational experiences for users.
+
+---
+
+#### Return to [Portfolio](../README.md)
+
