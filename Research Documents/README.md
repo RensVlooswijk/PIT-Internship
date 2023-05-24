@@ -11,3 +11,7 @@ Wit.ai is a natural language processing tool that can help create a conversation
 Another option would be to use different API's and link them together to create the flow. The best options that I found is creating a voice recording which you can send to the Whisper API, Whisper is a platform made by OpenAi that can transcribe speech to text. Then I would send the text that I get to the [ChatGPT API](/Research%20Documents/ChatGPT%20API.md) for an answer. And then follow that up by sending the answer to the [11Labs API](/Research%20Documents/11Labs.md) to read it in a human voice.
 
 The final option was to create it myself completely using the bare bones [[windows speech recognition]]. this would give me more control of the conversation and lets me easily perform actions mid conversation. It would also allow me to give the user feedback on his or her english which would be very helpfull. The main issue with this sollution is that all the conversations would have to be scripted. This would make it way less dynamic and less fun.
+
+---
+
+#### Return to [Portfolio](../README.md)
