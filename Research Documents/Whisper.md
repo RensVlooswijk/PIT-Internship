@@ -64,3 +64,8 @@ Creating a conversational NPC with Whisper involves speech recognition, NLU, dia
 
 1.  OpenAI Whisper documentation: [https://openai.com/research/whisper](https://openai.com/research/whisper)
 2.  Google Text-to-Speech API documentation: [https://cloud.google.com/text-to-speech](https://cloud.google.com/text-to-speech)
+
+--- 
+return to (Research Documents)
+Return to [Portfolio](README.md)
+
