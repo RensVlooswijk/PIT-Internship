@@ -62,20 +62,20 @@ To see more detailed / explained versions of the learning outcomes check out [Le
 > Professional duties on a junior bachelor level = All or a subset of the activities Analysis, Design, Realize, Advise, Manage&Control. As a reference use: 1) the HBO-I framework on proficiency level 2, 2) the level as >required in OE3 or OE4
 
 ### 2. Situation Orientation
-You apply your previously acquired knowledge and skills in an authentic context to deliver relevant results for the project and company.
+> You apply your previously acquired knowledge and skills in an authentic context to deliver relevant results for the project and company.
 
 ### 3. Future-Oriented Organisation
-You explore the organisational context of your project, make business, sustainable and ethical considerations and manage all aspects of the execution of the project.
-Organisational context = you identify the business domain and stakeholders of the project and know its business legitimisation
+> You explore the organisational context of your project, make business, sustainable and ethical considerations and manage all aspects of the execution of the project.
+> Organisational context = you identify the business domain and stakeholders of the project and know its business legitimisation
 
 ### 4. Investigative Problem Solving
-You take a critical look at your project from different perspectives, identify problems, find an effective approach and arrive at appropriate solutions.
+> You take a critical look at your project from different perspectives, identify problems, find an effective approach and arrive at appropriate solutions.
 
 ### 5. Personal Leadership 
-You are entrepreneurial around your projects and personal development, you pay attention to your own learning ability and keep in mind what kind of IT professional and/or what type of positions you aspire to.
+> You are entrepreneurial around your projects and personal development, you pay attention to your own learning ability and keep in mind what kind of IT professional and/or what type of >positions you aspire to.
 
 ### 6. Targeted Interaction 
-You determine which partners play a role in your project, collaborate constructively with them and communicate appropriately to achieve the desired impact.
+> You determine which partners play a role in your project, collaborate constructively with them and communicate appropriately to achieve the desired impact.
 
 [Back to table of contents](#table-of-contents) 
 
