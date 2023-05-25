@@ -32,5 +32,5 @@ In Table Talk, players sit as a customer in a virtual restaurant. The game begin
 
 Table talk is going to be a different approach to language learning. Mainly designed to help refugees improve Dutch. by providing an immersive and dynamic environment where you can have a conversation with a waiter.
 
-#### Return to [Documents](Documents)
+#### Return to [Documents](../Documents)
 #### Return to [Portfolio](../README.md)
