@@ -21,7 +21,7 @@ For my project I would like to know how well 11labs' text-to-speech technology i
 ### Text-to-Speech Quality
 The evaluation of 11labs' TTS system revealed a high level of quality and naturalness in the generated speech across the supported languages, such as English, French, and German. The synthesized voices exhibited good prosody and pronunciation, making them suitable for various applications.
 
-<img width="934" alt="image" src="https://github.com/RensVlooswijk/PIT-Internship/assets/73878099/96fbc22a-e9a7-449c-ad6b-e046bd0d96e8">
+<img width="631" alt="11Labs (Medium)" src="https://github.com/RensVlooswijk/PIT-Internship/assets/73878099/8a476185-fed7-49d9-8f1b-0ac001e41228">
 
 ### Limitations in Dutch Language Support
 Unfortunately, a significant limitation of 11labs' text-to-speech technology is its lack of support for the Dutch language. This poses a challenge for projects that require Dutch speech synthesis, as the system is unable to accurately render Dutch text into human-like speech.
