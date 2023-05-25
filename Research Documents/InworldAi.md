@@ -31,7 +31,8 @@ While Inworld.AI offers several impressive features, one significant limitation 
 ## Use Cases
 
 Inworld.AI can be used in various applications, including:
-![[Use Cases.png]]
+<img width="1073" alt="Use Cases" src="https://github.com/RensVlooswijk/PIT-Internship/assets/73878099/157eecb5-46b8-4f70-b8a0-74b1b46177fb">
+
 ### Games
 
 Developers can use Inworld.AI to create conversational NPCs in games. These NPCs can provide players with information, quests, and other interactions, creating a more engaging and immersive gaming experience.
