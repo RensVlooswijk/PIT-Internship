@@ -1,3 +1,5 @@
+# Inworld.AI Research
+
 ## Introduction
 
 Inworld.AI is a tool that lets game developers create characters and dialogue with AI. It allows users to import the characters they create into unity to create a conversational NPC. It was launched in 2020 and has been updated a lot since then as it now is a fully functioning product.
@@ -14,7 +16,7 @@ For my Inworld.Ai's best feature is its advanced understanding of natural langua
 
 ### Character Customization
 
-There is also a character customization feature in Inworld.Ai, you can create a character and then give it a unique personality and backstory. This means you can create different NPC's that respond different to the same input. And thus allowing you to create a proper game world with all kinds of people walking around. Or in my case a very specific character, like an enthusiastic waiter asking your order in a restaurant.
+There is also a character customization feature in Inworld.AI, you can create a character and then give it a unique personality and backstory. This means you can create different NPC's that respond different to the same input. And thus allowing you to create a proper game world with all kinds of people walking around. Or in my case a very specific character, like an enthusiastic waiter asking your order in a restaurant.
 
 ### Dialogue Tree
 
