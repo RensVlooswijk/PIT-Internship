@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a5b1312a0fafc7d5",
+        "id": "1dec9f549b04450d",
         "type": "tabs",
         "children": [
           {
-            "id": "0f4907e4d5a18913",
+            "id": "73b2c7dec721e2b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Documents/InworldAi.md",
+                "file": "Documents/One Page Design Document.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research Documents/InworldAi.md",
+                "file": "Documents/One Page Design Document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research Documents/InworldAi.md",
+                "file": "Documents/One Page Design Document.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research Documents/InworldAi.md"
+                "file": "Documents/One Page Design Document.md"
               }
             }
           }
@@ -146,9 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f4907e4d5a18913",
+  "active": "73b2c7dec721e2b4",
   "lastOpenFiles": [
-    "Research Documents/Whisper.md",
-    "Research Documents/InworldAi.md"
+    "Documents/11Labs.md",
+    "Documents/One Page Design Document.md",
+    "Documents/Wit.Ai.md",
+    "Documents/InworldAi.md",
+    "Documents/Whisper.md",
+    "Documents/README.md",
+    "README.md",
+    "Documents/ChatGPT API.md"
   ]
 }

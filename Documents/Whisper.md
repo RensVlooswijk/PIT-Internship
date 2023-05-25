@@ -20,3 +20,5 @@ Whisper works very well and can be used to create a proper dynamic conversationa
 Whisper is a great and powerful ASR system that can be used to create conversational NPCs. By integrating Whisper with generative large language models, and text to speech tools, you can build an interactive NPC. However you should keep in mind the speed tradeoff of this method.
 
 1.  Whisper documentation: [https://openai.com/research/whisper](https://openai.com/research/whisper)
+
+#### Return to [Portfolio](../README.md)
