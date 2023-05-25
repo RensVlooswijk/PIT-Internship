@@ -2,6 +2,8 @@
 
 Inworld.AI is a tool that lets game developers create characters and dialogue with AI. It allows users to import the characters they create into unity to create a conversational NPC. It was launched in 2020 and has been updated a lot since then as it now is a fully functioning product.
 
+---
+
 ## Features
 
 Inworld.AI offers several features that make it easy to create conversational NPCs, including:
@@ -12,7 +14,7 @@ For my Inworld.Ai's best feature is its advanced understanding of natural langua
 
 ### Character Customization
 
-There is also a character customization feature in inworld.Ai, you can create a character and then give it a unique personality and backstory. This means you can create different NPC's that respond different to the same input. And thus allowing you to create a proper game world with all kinds of people walking around. Or in my case a very specific character, like an enthusiastic waiter asking your order in a restaurant.
+There is also a character customization feature in Inworld.Ai, you can create a character and then give it a unique personality and backstory. This means you can create different NPC's that respond different to the same input. And thus allowing you to create a proper game world with all kinds of people walking around. Or in my case a very specific character, like an enthusiastic waiter asking your order in a restaurant.
 
 ### Dialogue Tree
 
@@ -24,9 +26,13 @@ Since Inworld.AI is made mainly with games in mind you can easily import it into
 
 Inworld.AI characters can easily be imported into Unity, making it possible to create conversational NPCs in games and other applications.
 
+---
+
 ## Limitations
 
 While Inworld.AI offers several impressive features, one significant limitation is that it only understands the English language. Therefore, it may not be a suitable tool for projects that require support for other languages, such as Dutch.
+
+--- 
 
 ## Use Cases
 
@@ -35,20 +41,20 @@ Inworld.AI can be used in various applications, including:
 
 ### Games
 
-Developers can use Inworld.AI to create conversational NPCs in games. These NPCs can provide players with information, quests, and other interactions, creating a more engaging and immersive gaming experience.
+Since it is made for NPC's the main use case is of course games. Developers can use Inworld.AI's NPC's to provide a player with quests or information to make the game more engaging. Hopefully Inworld.AI's NPC's will make their way into a lot more games.
 
 ### Virtual Assistants
 
-Inworld.AI can be used to create virtual assistants that can provide users with information and assistance, improving overall user experience.
+Another use case would be using it as a virtual assistant. Since inworld ai created characters are connected to a large language model and made to be conversational, you can have a nice chat with a virtual assistant that knows almost anything.
 
-### Education
-
-Educators can use Inworld.AI to create conversational experiences that help students learn and engage with educational material. This feature makes learning more interactive and engaging for students.
+---
 
 ## Personal Experience
 
-I have personally experimented with Inworld.AI and created a demo environment to showcase how the product could work in my project. However, I discovered that the tool only supports the English language, which is a significant limitation that undermines the purpose of my project. My project requires NPC behavior and unscripted dialogue in multiple languages. Therefore, while Inworld.AI may be useful for English-language applications, it is not suitable for my project.
+I have personally experimented with Inworld.AI and created a demo environment to showcase how the product could work in my project. However, I discovered that the tool only supports the English, which is a significant limitation that undermines the purpose of my project. Since my main objective was to help students learn Dutch. However since it is still very cool and can be used to teach students English, I have left it in the project as an option for the teachers as a demo. Plus there is the possibility that they will add other language support in the future.
+
+---
 
 ## Conclusion
 
-Inworld.AI is an innovative tool that offers advanced NLP capabilities, character customization, dialogue tree features, and Unity integration, making it easy to create conversational NPCs. However, its limitation to only understanding the English language may make it unsuitable for projects that require support for other languages. Despite this limitation, Inworld.AI is an excellent tool for developers seeking to create engaging and immersive conversational experiences for users.
+Inworld.AI is an amazing tool that has natural language capabilities, character customization, dialogue tree features and unity integration which make it easy to create a conversational NPC. But since it currently only understands English it is not suitable as the main focus of my project. But a very viable solution for other projects.
