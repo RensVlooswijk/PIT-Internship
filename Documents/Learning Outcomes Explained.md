@@ -56,3 +56,6 @@ You determine which partners play a role in your project, collaborate constructi
 Communicate appropriately = you make sure that your communication has the right impact and execution.
 
 Partners = the different stakeholders in the project to which you pay attention to and whose interest in the project are clear to you.
+
+#### Return to [Documents](../Documents)
+#### Return to [Portfolio](../README.md)

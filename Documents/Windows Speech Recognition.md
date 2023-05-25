@@ -29,3 +29,6 @@ In this example, the script listens for three voice commands ("hello", "how are 
 # Conclusion
 
 Integrating Windows Speech Recognition into Unity can be a powerful tool for creating conversational NPCs that can understand and respond to user voice input. By using the Windows Speech Recognition API, you can listen for voice commands and trigger specific actions or responses based on those commands. However, it's important to note that the accuracy of Windows Speech Recognition may vary depending on the quality of the microphone and the clarity of the user's speech.
+
+#### Return to [Documents](../Documents)
+#### Return to [Portfolio](../README.md)

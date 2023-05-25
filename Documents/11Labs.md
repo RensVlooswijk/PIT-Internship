@@ -31,12 +31,12 @@ Unfortunately, a significant limitation of 11labs' text-to-speech technology is 
 ---
 
 ## Discussion
-The findings demonstrate that 11 labs is very effective and the quality is amzing in multiple languages. However, not in dutch. Which is a major concern for my project
+The findings demonstrate that 11 labs is very effective and the quality is amazing in multiple languages. However, not in Dutch. Which is a major concern for my project
 
 ---
 
 ## Conclusion
-In conclusion, 11Labs' text to speech system is amazing for high quality/natural sounding voices. This is why I am going to use it to create a version of my project to demonstrate. However it cant be the solution that will used for my final product since I really need my text to speech to be able to speak dutch.
+In conclusion, 11Labs' text to speech system is amazing for high quality/natural sounding voices. This is why I am going to use it to create a version of my project to demonstrate. However it cant be the solution that will used for my final product since I really need my text to speech to be able to speak Dutch.
 
 ---
 
@@ -45,5 +45,6 @@ In conclusion, 11Labs' text to speech system is amazing for high quality/natural
 
 ---
 
+#### Return to [Documents](../Documents)
 #### Return to [Portfolio](../README.md)
 

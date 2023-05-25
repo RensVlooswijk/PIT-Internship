@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documents/One Page Design Document.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/One Page Design Document.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/One Page Design Document.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/One Page Design Document.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,13 +148,15 @@
   },
   "active": "73b2c7dec721e2b4",
   "lastOpenFiles": [
-    "Documents/Whisper.md",
-    "Documents/One Page Design Document.md",
-    "Documents/11Labs.md",
     "Documents/Wit.Ai.md",
-    "Documents/InworldAi.md",
+    "Documents/Windows Speech Recognition.md",
+    "Documents/Whisper.md",
     "Documents/README.md",
-    "README.md",
-    "Documents/ChatGPT API.md"
+    "Documents/One Page Design Document.md",
+    "Documents/Learning Outcomes Explained.md",
+    "Documents/InworldAi.md",
+    "Documents/ChatGPT API.md",
+    "Documents/11Labs.md",
+    "README.md"
   ]
 }

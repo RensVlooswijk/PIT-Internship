@@ -53,3 +53,6 @@ Wit.ai can be used to build personal assistants that can perform tasks like sett
 # Conclusion
 
 Wit.ai is a powerful NLP tool that enables developers to build intelligent bots and applications. Its NLP capabilities, entity extraction, and intent detection features make it easy to build conversational interfaces that can understand and respond to user requests. Its training interface and integration with popular platforms and programming languages make it accessible to developers of all skill levels. Wit.ai's versatility makes it an ideal tool for building a wide range of conversational interfaces, from chatbots to voice assistants.
+
+#### Return to [Documents](../Documents)
+#### Return to [Portfolio](../README.md)
