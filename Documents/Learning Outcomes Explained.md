@@ -59,3 +59,64 @@ Partners = the different stakeholders in the project to which you pay attention 
 
 #### Return to [Documents](../Documents)
 #### Return to [Portfolio](../README.md)
+
+# learning outcomes breakdown
+
+1. Professional Duties:
+    
+    - Analysis: Show your ability to analyze requirements, problems, or data related to your IT area. Provide examples of how you conducted analysis to inform decision-making or design processes.
+    - Design: Demonstrate your skills in designing solutions or systems within your IT area. Present any design documents, diagrams, or prototypes you created during your internship.
+    - Realize: Showcase your ability to implement or develop IT solutions. Highlight any projects or tasks where you were involved in the actual implementation or development process.
+    - Advise: Demonstrate your capability to provide advice or recommendations within your IT area. Provide examples of instances where you provided guidance or suggestions to colleagues or stakeholders.
+    - Manage & Control: Showcase your ability to manage and control IT projects or processes. Discuss any experiences where you took on responsibilities related to project management, coordination, or quality control.
+2. Situation Orientation:
+    
+    - Explain how you applied your previously acquired knowledge and skills to address real-world challenges within your project. Describe the specific context and how you adapted your knowledge to deliver relevant results.
+3. Future-Oriented Organization:
+    
+    - Identify the business domain and stakeholders of your project. Understand the business legitimization or rationale behind the project. Discuss how you incorporated business, sustainability, and ethical considerations into your work.
+4. Investigative Problem Solving:
+    
+    - Demonstrate your critical thinking skills by analyzing your project from different perspectives. Identify and describe any problems or challenges you encountered, and explain how you approached them to find effective solutions. Present the outcomes and the impact of your solutions.
+5. Personal Leadership:
+    
+    - Show your entrepreneurial mindset and initiative by taking ownership of your projects and personal development. Discuss how you proactively sought opportunities for growth, how you reflected on your learning, and how you aligned your development with your aspirations as an IT professional.
+6. Targeted Interaction:
+    
+    - Identify the relevant partners or stakeholders involved in your project. Describe how you collaborated with them in a constructive manner, highlighting effective communication and teamwork skills. Explain how your interactions contributed to achieving the desired impact of your project.
+
+To demonstrate that you have achieved these learning outcomes, you can provide evidence such as project documentation, reports, presentations, examples of deliverables, feedback from supervisors or stakeholders, and personal reflections on your experiences. It's important to reflect on your internship and provide specific examples and concrete evidence to support your claims.
+
+# how to prove them
+1. Professional Duties:
+    
+    - Analysis: Documentation of requirements analysis, user research, or data analysis. This can include requirement specifications, user personas, data analysis reports, or user research findings.
+    - Design: Design documents, wireframes, mock-ups, prototypes, or architecture diagrams.
+    - Realize: Code repositories, code samples, project demos, or software documentation.
+    - Advise: Documentation of advisory sessions, recommendations provided, or feedback received from colleagues or stakeholders.
+    - Manage & Control: Project plans, task lists, progress reports, or quality assurance documentation.
+2. Situation Orientation:
+    
+    - Project brief or description outlining the project context, goals, and stakeholders.
+    - Reports or presentations demonstrating how you applied your knowledge and skills to address specific challenges within the project.
+3. Future-Oriented Organization:
+    
+    - Business domain analysis or stakeholder analysis reports.
+    - Documentation of sustainability considerations, ethical frameworks, or compliance measures incorporated into the project.
+    - Reports or presentations on how you managed the execution of the project, considering organizational aspects and business legitimization.
+4. Investigative Problem Solving:
+    
+    - Problem analysis reports, issue logs, or problem-solving frameworks used during the project.
+    - Reports, presentations, or case studies highlighting the identified problems, approaches taken, and implemented solutions. Include any measurable outcomes or impacts.
+5. Personal Leadership:
+    
+    - Personal development plans or reflections on your learning goals and progress.
+    - Records of activities you undertook to enhance your skills or knowledge during the internship, such as attending workshops, courses, or conferences.
+    - Evidence of proactive contributions, initiatives, or innovations you made during the internship.
+6. Targeted Interaction:
+    
+    - Communication logs, meeting minutes, or email correspondence with project partners or stakeholders.
+    - Feedback received from partners or stakeholders regarding your collaborative and communication skills.
+    - Examples of collaborative work, such as joint deliverables or presentations, demonstrating effective teamwork and partnership.
+
+Remember, these are just examples, and the specific types of documentation and reports may vary depending on the nature of your internship and the projects you worked on. It's important to select the most relevant artifacts that showcase your achievements and provide concrete evidence of your abilities and contributions.
