@@ -66,8 +66,25 @@ To see more detailed / explained versions of the learning outcomes check out [Le
 I have actively worked on this learning outcome, and I have categorized it into different aspects:
 
 #### Analysis
-#### Design
+For the analysis part of my professional duties I started by creating a [project plan](Project Plan) which included multiple aspects of preparation like my requirements"
+![[Pasted image 20230526124257.png]]
+And an idea of the finished product:
+![[Pasted image 20230526124609.png]]
+
 #### Realize
+To see my realization of the project you can of course see the entire project within this GitHub page. But for my portfolio I will give a short summary of the things I have done.
+It starts with the multiple options I had to realize the project. Check out this link [too see all my research](/documents.md) . But when I started with this project I found a tool called Inworld.Ai. which I then used to create a demo scene.
+![[Pasted image 20230526130611.png]]
+
+This however was not optimal as a final product as you can read in my [inworld.ai research](documents/Inworld.Ai.md) . So I set out to find a different method. Which ended up being a combination of different API's.
+It works as followed: When the player starts to speak I start an audio recording which ends when the players stops speaking. I then save this file and send it to the [Whisper API](docuements/Whisper.md) which transcribes what is said. This API then sends back a text file that I in turn send to the [ChatGPT API](documents/ChatGPT API.md) . This then formulates an answer based on how I prompted the GPT chat beforehand. Finally I will send this answer to the [11Labs API](documents/11Labs.md) which will speak the text in a voice to my choosing.
+![[Pasted image 20230526133223.png]]
+
+This works but there are some drawbacks as well like the time it takes to get a spoken response. This is why I made a startup scene where you can select which version you would like to use
+![[Pasted image 20230526134306.png]]
+
+This way the user can choose on their own which fits best for their use case.
+
 #### Advice
 #### Manage & Control 
 

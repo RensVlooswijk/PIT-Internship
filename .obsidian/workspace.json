@@ -13,24 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documents/Learning Outcomes Explained.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "465d11668bc7519f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "95fb4203fe99dc4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
@@ -164,22 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95fb4203fe99dc4d",
+  "active": "73b2c7dec721e2b4",
   "lastOpenFiles": [
-    "Documents/Learning Outcomes Explained.md",
+    "Pasted image 20230526134306.png",
+    "Pasted image 20230526124257.png",
+    "Pasted image 20230526133223.png",
+    "Pasted image 20230526130611.png",
+    "Pasted image 20230526124609.png",
     "README.md",
+    "Documents/Learning Outcomes Explained.md",
+    "Inworld.Ai.md",
+    "TableTalk/Library/ShaderCache.db-journal",
+    "TableTalk/Temp/UnityTempFile-af52a4bc8293c164cbbd22142a4debbf",
+    "TableTalk/Temp/__Backupscenes/0.backup",
+    "TableTalk/Temp/UnityTempFile-039a31841ef36de45b4aef6d1e6e7568",
+    "TableTalk/Temp/__Backupscenes",
+    "TableTalk/Library/Artifacts/3a/3aa7e28d14f5d44640f2734e9dd7c93c",
+    "TableTalk/Library/TempArtifacts/Extra/f4d7008243bbd984c91c7eeeffd2c21d",
+    "TableTalk/Library/TempArtifacts/Primary/a9a6963505ddf7f4d886008c6dc86122",
+    "TableTalk/Temp/UnityTempFile-3cb3c3bff254c62428b02b1759facff7",
+    "TableTalk/Library/Artifacts/b0/b092b8e66bc015515c5e9d53756f57f3",
     "Documents/ChatGPT API.md",
     "Documents/Wit.Ai.md",
-    "TableTalk/Library/TempArtifacts/Primary/a9a6963505ddf7f4d886008c6dc86122",
-    "TableTalk/Temp/UnityTempFile-5085e6cc2c4ef9c4cb97fb05bbd0218c",
-    "TableTalk/Temp/DefaultLayout2021.wlt",
-    "TableTalk/Temp/ProcessJobs",
-    "TableTalk/Library/EditorInstance.json",
-    "TableTalk/Logs/shadercompiler-UnityShaderCompiler.exe0.log",
-    "TableTalk/Library/TempArtifacts/Primary/6b911390c5825014e8377183a7837d3f",
-    "TableTalk/Temp/ADB-Refresh1887d74264943d94182f851c3e8081a6",
-    "TableTalk/Library/Bee/buildprogram0.traceevents",
-    "TableTalk/Temp/ADB-Refresh13437b5b901e5704ba4353c1b8a543b5",
     "Documents/README.md",
     "Documents/11Labs.md",
     "Documents/InworldAi.md",
