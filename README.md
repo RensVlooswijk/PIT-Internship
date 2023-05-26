@@ -76,7 +76,7 @@ To see my realization of the project you can of course see the entire project wi
 It starts with the multiple options I had to realize the project. Check out this link [too see all my research](/documents.md) . But when I started with this project I found a tool called Inworld.Ai. which I then used to create a demo scene.
 ![[Pasted image 20230526130611.png]]
 
-This however was not optimal as a final product as you can read in my [inworld.ai research](documents/Inworld.Ai.md) . So I set out to find a different method. Which ended up being a combination of different API's.
+However this was not optimal as a final product as you can read in my [inworld.ai research](documents/Inworld.Ai.md) . So I set out to find a different method. Which ended up being a combination of different API's.
 It works as followed: When the player starts to speak I start an audio recording which ends when the players stops speaking. I then save this file and send it to the [Whisper API](docuements/Whisper.md) which transcribes what is said. This API then sends back a text file that I in turn send to the [ChatGPT API](documents/ChatGPT API.md) . This then formulates an answer based on how I prompted the GPT chat beforehand. Finally I will send this answer to the [11Labs API](documents/11Labs.md) which will speak the text in a voice to my choosing.
 ![[Pasted image 20230526133223.png]]
 
@@ -86,8 +86,15 @@ This works but there are some drawbacks as well like the time it takes to get a 
 This way the user can choose on their own which fits best for their use case.
 
 #### Advice
-#### Manage & Control 
+As for the advice, I receive weekly feedback from my stakeholder and school assessor. Which is very useful. Furthermore whenever I was not sure or have a question about something I made I went to other students and my internship coordinators.
+Also, when I hand something in for school I received feedback which I then implemented before I handed it in again.
+![[Pasted image 20230526140100.png]]
 
+#### Manage & Control 
+Finally for the manage and control parts of my professional duties I have done several things. The first being a project plan. At the start of my internship I created multiple iterations of a project plan. I also kept track of my progress using Trello in combination with the Agile work methods.
+![[Pasted image 20230526140459.png]]![[Pasted image 20230526140508.png]]
+
+And lastly I used GitHub as my version control tool. Whenever I added something new I pushed it to my repository to keep track.
 
 ### 2. Situation Orientation
 > You apply your previously acquired knowledge and skills in an authentic context to deliver relevant results for the project and company.
