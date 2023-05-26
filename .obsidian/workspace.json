@@ -31,11 +31,9 @@
             "id": "a4b8752c8d33ebc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "PortfolioAssets/EndProductTree.png"
               }
             }
           }
@@ -105,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "PortfolioAssets/EndProductTree.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "PortfolioAssets/EndProductTree.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "PortfolioAssets/EndProductTree.png"
               }
             }
           }
@@ -168,17 +166,18 @@
   },
   "active": "a4b8752c8d33ebc4",
   "lastOpenFiles": [
-    "Pasted image 20230526140508.png",
-    "Pasted image 20230526140459.png",
-    "Pasted image 20230526140100.png",
-    "Pasted image 20230526135735.png",
-    "Documents/Learning Outcomes Explained.md",
+    "PortfolioAssets/TrelloDone.png",
+    "PortfolioAssets/TrelloBacklog.png",
+    "PortfolioAssets/FeedbackLogProjectPlanv2.png",
+    "PortfolioAssets/FeedbackLogProjectPlan.png",
+    "PortfolioAssets/MenuScene.png",
+    "PortfolioAssets/StartRecordingCode.png",
+    "PortfolioAssets/InworldAIDemoPhoto.png",
+    "PortfolioAssets/EndProductTree.png",
+    "PortfolioAssets/Requirements.png",
     "README.md",
-    "Pasted image 20230526124257.png",
-    "Pasted image 20230526134306.png",
-    "Pasted image 20230526133223.png",
-    "Pasted image 20230526130611.png",
-    "Pasted image 20230526124609.png",
+    "PortfolioAssets",
+    "Documents/Learning Outcomes Explained.md",
     "Inworld.Ai.md",
     "TableTalk/Library/ShaderCache.db-journal",
     "TableTalk/Temp/UnityTempFile-af52a4bc8293c164cbbd22142a4debbf",
@@ -189,7 +188,6 @@
     "TableTalk/Library/TempArtifacts/Extra/f4d7008243bbd984c91c7eeeffd2c21d",
     "TableTalk/Library/TempArtifacts/Primary/a9a6963505ddf7f4d886008c6dc86122",
     "TableTalk/Temp/UnityTempFile-3cb3c3bff254c62428b02b1759facff7",
-    "TableTalk/Library/Artifacts/b0/b092b8e66bc015515c5e9d53756f57f3",
     "Documents/ChatGPT API.md",
     "Documents/Wit.Ai.md",
     "Documents/README.md",
