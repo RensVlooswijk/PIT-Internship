@@ -6,7 +6,6 @@
       {
         "id": "1dec9f549b04450d",
         "type": "tabs",
-        "dimension": 40.35532994923858,
         "children": [
           {
             "id": "73b2c7dec721e2b4",
@@ -14,26 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documents/Learning Outcomes Explained.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "21c64918968c77ba",
-        "type": "tabs",
-        "dimension": 59.64467005076142,
-        "children": [
-          {
-            "id": "a4b8752c8d33ebc4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "PortfolioAssets/EndProductTree.png"
               }
             }
           }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PortfolioAssets/EndProductTree.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PortfolioAssets/EndProductTree.png",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PortfolioAssets/EndProductTree.png"
+                "file": "README.md"
               }
             }
           }
@@ -164,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4b8752c8d33ebc4",
+  "active": "73b2c7dec721e2b4",
   "lastOpenFiles": [
+    "Documents/Learning Outcomes Explained.md",
+    "PortfolioAssets/EndProductTree.png",
     "PortfolioAssets/TrelloDone.png",
     "PortfolioAssets/TrelloBacklog.png",
     "PortfolioAssets/FeedbackLogProjectPlanv2.png",
@@ -173,11 +157,9 @@
     "PortfolioAssets/MenuScene.png",
     "PortfolioAssets/StartRecordingCode.png",
     "PortfolioAssets/InworldAIDemoPhoto.png",
-    "PortfolioAssets/EndProductTree.png",
     "PortfolioAssets/Requirements.png",
     "README.md",
     "PortfolioAssets",
-    "Documents/Learning Outcomes Explained.md",
     "Inworld.Ai.md",
     "TableTalk/Library/ShaderCache.db-journal",
     "TableTalk/Temp/UnityTempFile-af52a4bc8293c164cbbd22142a4debbf",
