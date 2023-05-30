@@ -55,6 +55,8 @@ Main Question: How effective is virtual reality technology in teaching Dutch lan
 3.	How can we evaluate the effectiveness of the virtual reality game in terms of language proficiency and engagement, and what are the best practices for gathering feedback from the students?
 4.	What are the key steps and best practices for creating a successful proof of concept for a new product or technology?
 
+[Return to table of contents](#table-of-contents) 
+
 ## Learning Outcomes
 
 To see more detailed / explained versions of the learning outcomes check out [Learning Outcomes Explained](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/Learning%20Outcomes%20Explained.md#learning-outcomes-explained)
@@ -104,6 +106,8 @@ Finally for the manage and control parts of my professional duties I have done s
 
 And lastly I used GitHub as my version control tool. Whenever I added something new I pushed it to my repository to keep track.
 
+[Return to table of contents](#table-of-contents) 
+
 ### 2. Situation Orientation
 > You apply your previously acquired knowledge and skills in an authentic context to deliver relevant results for the project and company.
 
@@ -113,12 +117,16 @@ Previous acquired knowledge
 everything unity
 API's (semester 3)
 
+[Return to table of contents](#table-of-contents) 
+
 ### 3. Future-Oriented Organization
 > You explore the organizational context of your project, make business, sustainable and ethical considerations and manage all aspects of the execution of the project.
 
 weekly meetings stakeholder
 future internship takeover 
 other teachers with interest
+
+[Return to table of contents](#table-of-contents) 
 
 ### 4. Investigative Problem Solving
 > You take a critical look at your project from different perspectives, identify problems, find an effective approach and arrive at appropriate solutions.
@@ -141,7 +149,7 @@ different teachers with relevance into my project
 future internship student possible project takeover
 multiple Demos for all interns
 
-[Back to table of contents](#table-of-contents) 
+[Return to table of contents](#table-of-contents) 
 
 ### Built With
 
