@@ -150,7 +150,7 @@ multiple Demos for all interns
 ## Features
 
 ## Research
-To see my tool option research check out my [Option Research documents](https://github.com/RensVlooswijk/PIT-Internship/tree/Dev/Research%20Documents)
+[Click here to see all my research documents](https://github.com/RensVlooswijk/PIT-Internship/tree/Dev/Research%20Documents)
 
 <!-- TODO: List what specific 'user problems' that this application solves. -->
 
