@@ -126,7 +126,7 @@ And lastly I used GitHub as my version control tool. Whenever I added something 
 ### 2. Situation Orientation
 > You apply your previously acquired knowledge and skills in an authentic context to deliver relevant results for the project and company.
 
-For my situation orientation I have applied a lot of knowledge and skills that I aquired in previous semesters. In semester 3 for example, we learned what an API was and how to use them. I used this knowledge to create the dynamically layered method using the [whisper](/Documents/Whisper.md), [ChatGPT](/Documents/ChaptGPT%20API.md) and [11labs](/Documents/11Labs.md) API's. 
+For my situation orientation I have applied a lot of knowledge and skills that I aquired in previous semesters. In semester 3 for example, we learned what an API was and how to use them. I used this knowledge to create the dynamically layered method using the [whisper](/Documents/Whisper.md), [ChatGPT](/Documents/ChatGPT%20API.md) and [11labs](/Documents/11Labs.md) API's. 
 
 
 Previous acquired knowledge 
