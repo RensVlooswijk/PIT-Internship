@@ -58,8 +58,12 @@ Develop a virtual reality game to teach Dutch language to refugees at ROC Tilbur
 ### Main Question: 
 > How effective is virtual reality technology in teaching Dutch language to the students, and what are the best practices for designing and developing a virtual reality game for this purpose?
 
+A lot of research has been done with the goal of answering a similar question. Because from the moment VR headsets were publically available people have seen its potention in education. But for this specific use-case there is no concrete answer. This is why I made a prove of concept and a minimal viable product, To see if the refugee students of "het schakelcollege" would benefit from using virtual reality in their education. And my answer is Yes, it helps. Atleast the MVP I made. The students really enjoyed it and were really engaged. The only problem with my research is that it is a combination of both VR and AI. Because in this case I am not 100% sure the VR was contributing a lot or if it was all by the game/AI itself.
+
 #### 1.	
 > What is the current state of research on the use of virtual reality technology in language learning, and how does it compare to traditional language learning methods in terms of >effectiveness and engagement?
+
+As I said before there as been a lot of research papers about VR in education. 
 
 ### 2.	
 > What are the specific challenges and considerations when using virtual reality technology for language learning, particularly for the students?
