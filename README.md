@@ -1,10 +1,10 @@
 # **PIT-Internship**
-![image](https://github.com/RensVlooswijk/PIT-Internship/assets/73878099/ba547b3b-3439-435d-baee-490ffea84e8d)
+![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/PIT%20logo.jpeg)
 
 ##  Portfolio HBO-ICT
 ### Fontys Hogeschool
 
-![fontys-39-logo-png-transparent (Smaller)](https://github.com/RensVlooswijk/PIT-Internship/assets/73878099/8fe01e90-0c82-432f-902b-62310e27a4ac)
+![fontys-39-logo-png-transparent (Smaller)](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/fontys-39-logo-png-transparent%20(Small)%20(Extra%20Small).png)
 
 | Student + Company Info | |
 | ------------- | ------------- |
