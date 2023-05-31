@@ -4,7 +4,7 @@
 ##  Portfolio HBO-ICT
 ### Fontys Hogeschool
 
-![fontys-39-logo-png-transparent (Smaller)](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/fontys-39-logo-png-transparent%20(Small).png)
+![fontys-39-logo-png-transparent (Smaller)](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/fontys-39-logo-png-transparent%20(Smaller).png)
 
 | Student + Company Info | |
 | ------------- | ------------- |
@@ -89,26 +89,26 @@ I have actively worked on this learning outcome, and I have categorized it into 
 #### Analysis
 For the analysis part of my professional duties I started by creating a [project plan](Project Plan) which included multiple aspects of preparation like my requirements"
 
-![image](https://github.com/RensVlooswijk/PIT-Internship/assets/73878099/c1899be9-6667-4ffc-b9b2-ce6355f2486b)
+![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/Requirements.png)
 
 And an idea of the finished product:
 
-![image](https://github.com/RensVlooswijk/PIT-Internship/assets/73878099/2b588c6d-adb0-4748-b693-09e2f8d18dd2)
+![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/EndProductTree.png)
 
 #### Realize
 To see my realization of the project you can of course see the entire project within this GitHub page. But for my portfolio I will give a short summary of the things I have done.
 It starts with the multiple options I had to realize the project. Check out this link [too see all my research](/Documents) . But when I started with this project I found a tool called Inworld.Ai. which I then used to create a demo scene.
 
-![image](https://github.com/RensVlooswijk/PIT-Internship/assets/73878099/3713ca74-cb9e-41c0-8a25-414b367dc611)
+![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/InworldAIDemoPhoto.png)
 
 However this was not optimal as a final product as you can read in my [inworld.ai research](Documents/InworldAi.md) . So I set out to find a different method. Which ended up being a combination of different API's.
 It works as followed: When the player starts to speak I start an audio recording which ends when the players stops speaking. I then save this file and send it to the [Whisper API](Docuements/Whisper.md) which transcribes what is said. This API then sends back a text file that I in turn send to the [ChatGPT API](Documents/ChatGPT%20API.md) . This then formulates an answer based on how I prompted the GPT chat beforehand. Finally I will send this answer to the [11Labs API](Documents/11Labs.md) which will speak the text in a voice to my choosing.
 
-![image](https://github.com/RensVlooswijk/PIT-Internship/assets/73878099/bc25da7e-383e-4274-8652-8d82ba9d70bf)
+![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/StartRecordingCode.png)
 
 This works but there are some drawbacks as well like the time it takes to get a spoken response. This is why I made a startup scene where you can select which version you would like to use
 
-![image](https://github.com/RensVlooswijk/PIT-Internship/assets/73878099/1d31ddfb-6c0c-44de-9de5-e3bff33761f3)
+![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/MenuScene.png)
 
 This way the user can choose on their own which fits best for their use case.
 
@@ -116,12 +116,12 @@ This way the user can choose on their own which fits best for their use case.
 As for the advice, I receive weekly feedback from my stakeholder and school assessor. Which is very useful. Furthermore whenever I was not sure or have a question about something I made I went to other students and my internship coordinators.
 Also, when I hand something in for school I received feedback which I then implemented before I handed it in again.
 
-![image](https://github.com/RensVlooswijk/PIT-Internship/assets/73878099/703771de-8e96-4fc4-81d3-e6ae7cf1cea1)
+![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/FeedbackLogProjectPlanv2.png)
 
 #### Manage & Control 
 Finally for the manage and control parts of my professional duties I have done several things. The first being a project plan. At the start of my internship I created multiple iterations of a project plan. I also kept track of my progress using Trello in combination with the Agile work methods.
 
-![image](https://github.com/RensVlooswijk/PIT-Internship/assets/73878099/a12629de-be5d-4d53-9e77-411537387819)![image](https://github.com/RensVlooswijk/PIT-Internship/assets/73878099/f07d5bbd-311e-44af-acf5-ea8f66b13262)
+![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/TrelloBacklog.png)![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/TrelloDone.png)
 
 And lastly I used GitHub as my version control tool. Whenever I added something new I pushed it to my repository to keep track.
 
