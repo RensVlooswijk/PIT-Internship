@@ -39,7 +39,7 @@
 - [Acknowledgements](#acknowledgements)
 
 ## The Assignment
-![image](https://github.com/RensVlooswijk/PIT-Internship/assets/73878099/c4c3a80f-3b3b-427b-a6b1-655c95d8fe66)
+![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/csm_pit-visual_41fefac88a.png)
 
 ### Context
 
