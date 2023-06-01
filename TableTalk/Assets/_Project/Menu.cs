@@ -25,7 +25,7 @@ public class Menu : MonoBehaviour
     }
 
     public void ChatGPTStart(){
-        SceneManager.LoadScene("ChatGPT");
+        SceneManager.LoadScene("Demo");
     }
 
     public void QuitGame()
