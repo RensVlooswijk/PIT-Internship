@@ -60,19 +60,35 @@ Develop a virtual reality game to teach Dutch language to refugees at ROC Tilbur
 
 A lot of research has been done with the goal of answering a similar question. Because from the moment VR headsets were publically available people have seen its potention in education. But for this specific use-case there is no concrete answer. This is why I made a prove of concept and a minimal viable product, To see if the refugee students of "het schakelcollege" would benefit from using virtual reality in their education. And my answer is Yes, it helps. Atleast the MVP I made. The students really enjoyed it and were really engaged. The only problem with my research is that it is a combination of both VR and AI. Because in this case I am not 100% sure the VR was contributing a lot or if it was all by the game/AI itself.
 
+### Sub Questions:
+
 #### 1.	
 > What is the current state of research on the use of virtual reality technology in language learning, and how does it compare to traditional language learning methods in terms of >effectiveness and engagement?
 
-As I said before there as been a lot of research papers about VR in education. 
+The use of Virtual Reality (VR) in language learning is a growing field. It provides an immersive environment where learners can practice language skills in contextually rich and interactive scenarios. The current state of research suggests that VR can enhance engagement and motivation, providing opportunities for authentic communication and practice that can be difficult to achieve in a traditional classroom setting. However, the effectiveness of VR compared to traditional methods depends on various factors, including the quality of the VR content, the learner's comfort with the technology, and how well the VR activities are integrated with other aspects of the language learning curriculum.
 
 ### 2.	
 > What are the specific challenges and considerations when using virtual reality technology for language learning, particularly for the students?
 
+There are several challenges when using VR for language learning. Some students may experience discomfort or motion sickness when using VR. Accessibility can also be an issue, as not all students may have access to the necessary hardware. There's also the challenge of creating meaningful and engaging VR content for language learning. It's important that VR activities are not just gimmicks, but provide genuine learning opportunities that align with the students' learning goals and the overall curriculum.
+
 ### 3.	
 > How can we evaluate the effectiveness of the virtual reality game in terms of language proficiency and engagement, and what are the best practices for gathering feedback from the students?
 
+To evaluate the effectiveness of the VR game in terms of language proficiency, you could conduct pre- and post-tests to measure improvements in specific language skills. For engagement, you could observe students while they're using the VR game and note their level of interaction and immersion. You could also use questionnaires or interviews to gather feedback on their experiences and perceptions of the VR game. It's important to gather both quantitative data (such as test scores or usage stats) and qualitative data (such as student feedback or observational data) to get a comprehensive understanding of the VR game's effectiveness.
+
 ### 4.	
 > What are the key steps and best practices for creating a successful proof of concept for a new product or technology?
+
+Creating a successful proof of concept involves several key steps:
+
+- Identify the problem: Make sure you have a clear understanding of the problem you're trying to solve and how your new product or technology can address it.  
+- Define success criteria: Determine what outcomes would indicate success for your proof of concept.  
+- Develop a prototype: Create a simplified version of your product or technology that focuses on testing the core functionality.  
+- Test and gather feedback: Use your prototype to test your assumptions and gather feedback from potential users.  
+- Analyze results and make decisions: Based on the feedback and results of your tests, make decisions about whether and how to proceed with development.
+
+Best practices include involving potential users in the testing and feedback process, being open to negative feedback and ready to make changes, and focusing on learning and improvement rather than trying to get everything perfect in the initial version.
 
 [Return to table of contents](#table-of-contents) 
 
@@ -144,6 +160,18 @@ API's (semester 3)
 ### 3. Future-Oriented Organization
 > You explore the organizational context of your project, make business, sustainable and ethical considerations and manage all aspects of the execution of the project.
 
+1. Explored the organizational context of your project
+2. Made business, sustainable, and ethical considerations
+3. Managed all aspects of the execution of the project
+
+Here are some suggestions based on the information you've shared in your portfolio so far:
+
+1. **Organizational Context**: Discuss how you understood and navigated the structure and culture of ROC Tilburg and the Practoraat Interactieve Technologie department. This could include understanding the needs of your target users (refugee students learning Dutch), as well as understanding the technical and pedagogical resources available within the organization. You can also mention any adjustments you had to make based on the organization's priorities, constraints, or feedback.
+    
+2. **Business, Sustainable, and Ethical Considerations**: Elaborate on the long-term vision for your project. How might it scale or evolve in the future? How might it impact the organization's operations, cost, or revenue? Additionally, consider sustainability: how might the project impact the environment, and how did you try to minimize this impact? For the ethical aspect, discuss how you ensured the project respects users' privacy, safety, and dignity. For example, did you carefully handle the data you collected during user testing?
+    
+3. **Project Management**: Show evidence that you successfully planned, executed, and controlled your project. This can include your project plan, timeline, and any project management tools you used (like Trello). Also, discuss any challenges you faced during the project and how you overcame them.
+
 weekly meetings stakeholder
 future internship takeover 
 other teachers with interest
@@ -153,16 +181,22 @@ other teachers with interest
 ### 4. Investigative Problem Solving
 > You take a critical look at your project from different perspectives, identify problems, find an effective approach and arrive at appropriate solutions.
 
+Your portfolio shows that you took a critical look at the project from different perspectives. You identified problems related to the language learning of refugee students and formulated an effective approach to address these problems. Your solution involves developing a VR game to improve the Dutch language proficiency of the students. You also looked at different options to solve the issue, which included tools like Inworld, Windows speech recognition, and a combination of Whisper, ChatGPT, and 11labs APIs​[1](https://github.com/RensVlooswijk/PIT-Internship)​.
+
 different options of solutions (inworld, Windows speech recognition, whisper + chatgpt + 11labs)
 
 ### 5. Personal Leadership 
 > You are entrepreneurial around your projects and personal development, you pay attention to your own learning ability and keep in mind what kind of IT professional and/or what type of >positions you aspire to.
+
+Your portfolio demonstrates that you showed initiative and entrepreneurial spirit throughout your project. You offered help when needed, attended all conferences and events related to your field, and actively participated in discussions and meetings. You also demonstrated a commitment to your personal learning and development, which is evident from your active participation in various events like the VR expo, IT festival, and XR event​.
 
 offered to help when asked in chat by Erdinc (often)
 went to all conferences / events (beursen) VR expo, IT festival, XR event voluntarily
 
 ### 6. Targeted Interaction 
 > You determine which partners play a role in your project, collaborate constructively with them and communicate appropriately to achieve the desired impact.
+
+The portfolio illustrates your ability to identify key partners and stakeholders in your project, and to collaborate with them constructively. You had weekly meetings with your stakeholder and assessor, and you interacted with your internship manager and other teachers relevant to your project. You also demonstrated the ability to communicate effectively to achieve the desired impact, which is evident from your interaction with the future internship student and the demo presentations you gave to all interns​.
 
 Weekly meeting stakeholder
 weekly meeting assessor
