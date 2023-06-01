@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638204278175242227
-    m_Hash: 1861968028
+      ticks: 638212081421784895
+    m_Hash: 3862169298
   m_LockFileStatus:
     m_FilePath: C:/School/Stage/Pit/PIT-Internship/TableTalk/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638204278759182121
-    m_Hash: 3496468106
+      ticks: 638212081421851645
+    m_Hash: 1289618942
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -131,7 +131,7 @@ m_ResolvedPackages:
     version: 1.1.31
   resolvedDependencies:
   - name: com.unity.test-framework
-    version: 1.1.31
+    version: 1.1.33
   - name: com.unity.ext.nunit
     version: 1.0.6
   - name: com.unity.modules.imgui
@@ -182,12 +182,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 2.8.9
     nextVersion: 
-- packageId: com.unity.collab-proxy@2.0.1
+- packageId: com.unity.collab-proxy@2.0.4
   testable: 0
   isDirectDependency: 1
-  version: 2.0.1
+  version: 2.0.4
   source: 1
-  resolvedPath: C:\School\Stage\Pit\PIT-Internship\TableTalk\Library\PackageCache\com.unity.collab-proxy@2.0.1
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\TableTalk\Library\PackageCache\com.unity.collab-proxy@2.0.4
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -197,9 +197,9 @@ m_ResolvedPackages:
     url: 
   category: Editor
   type: asset
-  description: The package gives you the ability to use the Unity Version Control
-    in the Unity editor. To use Unity Version Control, a subscription is required.
-    Learn more about how you can get started for free by visiting plasticscm.com.
+  description: The package gives you the ability to use Unity Version Control in
+    the Unity editor. To use Unity Version Control, a subscription is required. Learn
+    more about how you can get started for free by visiting plasticscm.com.
   status: 0
   errors: []
   versions:
@@ -305,13 +305,13 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 638125977010000000
+  datePublishedTicks: 638176024310000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-    revision: 8740b4e630f877841cfa8e22ddfbcb237b70a9e6
+    revision: dc15ef2ed609e8c19d0525a46c5bf7dd78df8432
     path: 
   unityLifecycle:
     version: 2.0.1
@@ -360,9 +360,9 @@ m_ResolvedPackages:
     version: default
   resolvedDependencies:
   - name: com.unity.ide.visualstudio
-    version: 2.0.17
+    version: 2.0.18
   - name: com.unity.test-framework
-    version: 1.1.31
+    version: 1.1.33
   - name: com.unity.ext.nunit
     version: 1.0.6
   - name: com.unity.modules.imgui
@@ -370,7 +370,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   - name: com.unity.ide.rider
-    version: 3.0.18
+    version: 3.0.22
   - name: com.unity.ide.vscode
     version: 1.2.5
   - name: com.unity.editorcoroutines
@@ -438,7 +438,7 @@ m_ResolvedPackages:
   - name: com.unity.xr.oculus
     version: 3.2.3
   - name: com.unity.xr.management
-    version: 4.2.0
+    version: 4.2.1
   - name: com.unity.modules.subsystems
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
@@ -456,7 +456,7 @@ m_ResolvedPackages:
   - name: com.unity.xr.openxr
     version: 1.7.0
   - name: com.unity.inputsystem
-    version: 1.5.0
+    version: 1.5.1
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
@@ -487,12 +487,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-- packageId: com.unity.ide.rider@3.0.18
+- packageId: com.unity.ide.rider@3.0.22
   testable: 0
   isDirectDependency: 1
-  version: 3.0.18
+  version: 3.0.22
   source: 1
-  resolvedPath: C:\School\Stage\Pit\PIT-Internship\TableTalk\Library\PackageCache\com.unity.ide.rider@3.0.18
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\TableTalk\Library\PackageCache\com.unity.ide.rider@3.0.22
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -545,11 +545,13 @@ m_ResolvedPackages:
     - 3.0.18
     - 3.0.20
     - 3.0.21
+    - 3.0.22
     compatible:
     - 3.0.18
     - 3.0.20
     - 3.0.21
-    verified: 3.0.21
+    - 3.0.22
+    verified: 3.0.22
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -567,23 +569,23 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 638088746970000000
+  datePublishedTicks: 638211305930000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.rider@3.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
-    revision: b40b39e6834c2915637f431d002d1f3dd8ec9ce5
+    revision: 1f4f2178384a8da373435c9912afcca7d6bb823a
     path: 
   unityLifecycle:
     version: 3.0.18
     nextVersion: 
-- packageId: com.unity.ide.visualstudio@2.0.17
+- packageId: com.unity.ide.visualstudio@2.0.18
   testable: 0
   isDirectDependency: 1
-  version: 2.0.17
+  version: 2.0.18
   source: 1
-  resolvedPath: C:\School\Stage\Pit\PIT-Internship\TableTalk\Library\PackageCache\com.unity.ide.visualstudio@2.0.17
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\TableTalk\Library\PackageCache\com.unity.ide.visualstudio@2.0.18
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -630,7 +632,7 @@ m_ResolvedPackages:
     version: 1.1.9
   resolvedDependencies:
   - name: com.unity.test-framework
-    version: 1.1.31
+    version: 1.1.33
   - name: com.unity.ext.nunit
     version: 1.0.6
   - name: com.unity.modules.imgui
@@ -648,13 +650,13 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 638059987360000000
+  datePublishedTicks: 638173205920000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.ide.visualstudio@2.0/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
-    revision: 1f126893bfb18ea9661fb15771613e841467073c
+    revision: 9d3c07127cbe1916b8abbfd18f71fb8d9df8008c
     path: 
   unityLifecycle:
     version: 2.0.17
@@ -721,12 +723,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.2.5
     nextVersion: 
-- packageId: com.unity.inputsystem@1.5.0
+- packageId: com.unity.inputsystem@1.5.1
   testable: 0
   isDirectDependency: 1
-  version: 1.5.0
+  version: 1.5.1
   source: 1
-  resolvedPath: C:\School\Stage\Pit\PIT-Internship\TableTalk\Library\PackageCache\com.unity.inputsystem@1.5.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\TableTalk\Library\PackageCache\com.unity.inputsystem@1.5.1
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -780,9 +782,11 @@ m_ResolvedPackages:
     - 1.4.4
     - 1.5.0
     - 1.5.1
+    - 1.6.1
     compatible:
     - 1.5.0
     - 1.5.1
+    - 1.6.1
     verified: 1.5.1
   dependencies:
   - name: com.unity.modules.uielements
@@ -817,23 +821,23 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 638102370830000000
+  datePublishedTicks: 638152610980000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.5/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.com/Unity-Technologies/InputSystem.git
-    revision: eb5279b52c65b1ba176b373a6ebf170fbc564273
+    revision: 3062b2c3402b5f7f435d79acbd6011a621bfeb3e
     path: 
   unityLifecycle:
     version: 1.5.0
     nextVersion: 
-- packageId: com.unity.learn.iet-framework@3.1.1
+- packageId: com.unity.learn.iet-framework@3.1.3
   testable: 0
   isDirectDependency: 1
-  version: 3.1.1
+  version: 3.1.3
   source: 1
-  resolvedPath: C:\School\Stage\Pit\PIT-Internship\TableTalk\Library\PackageCache\com.unity.learn.iet-framework@3.1.1
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\TableTalk\Library\PackageCache\com.unity.learn.iet-framework@3.1.3
   assetPath: Packages/com.unity.learn.iet-framework
   name: com.unity.learn.iet-framework
   displayName: Tutorial Framework
@@ -929,13 +933,13 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637986692310000000
+  datePublishedTicks: 638064373090000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/iet-package.git
-    revision: 72747f66cf61e0f22da00baa7b25bde17b14c3dd
+    revision: 803438c4505769ffe25d5e411a59a8f2c8d8831a
     path: 
   unityLifecycle:
     version: 3.1.1
@@ -1238,12 +1242,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 12.1.10
     nextVersion: 
-- packageId: com.unity.test-framework@1.1.31
+- packageId: com.unity.test-framework@1.1.33
   testable: 0
   isDirectDependency: 1
-  version: 1.1.31
+  version: 1.1.33
   source: 1
-  resolvedPath: C:\School\Stage\Pit\PIT-Internship\TableTalk\Library\PackageCache\com.unity.test-framework@1.1.31
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\TableTalk\Library\PackageCache\com.unity.test-framework@1.1.33
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1343,13 +1347,13 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 637804266210000000
+  datePublishedTicks: 637938212700000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.com/Unity-Technologies/com.unity.test-framework.git
-    revision: 438b0defc147c9be5c969ca79ff03a722b4590ed
+    revision: 34a4d423d64926635eb36d3bb86276179cc186e1
     path: 
   unityLifecycle:
     version: 1.1.31
@@ -1523,12 +1527,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 3.0.6
     nextVersion: 
-- packageId: com.unity.timeline@1.6.4
+- packageId: com.unity.timeline@1.6.5
   testable: 0
   isDirectDependency: 1
-  version: 1.6.4
+  version: 1.6.5
   source: 1
-  resolvedPath: C:\School\Stage\Pit\PIT-Internship\TableTalk\Library\PackageCache\com.unity.timeline@1.6.4
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\TableTalk\Library\PackageCache\com.unity.timeline@1.6.5
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1671,13 +1675,13 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 637789039180000000
-  documentationUrl: 
+  datePublishedTicks: 638182037450000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.timeline@1.6/manual/index.html
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
-    revision: d7e1eb6805737974459309b7d6e7db58635dd167
+    revision: 4ed67a7e62ce940db3d44dc5eca8fade1c664aed
     path: 
   unityLifecycle:
     version: 1.6.4
@@ -1833,12 +1837,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.8.0
     nextVersion: 
-- packageId: com.unity.xr.management@4.2.0
+- packageId: com.unity.xr.management@4.2.1
   testable: 0
   isDirectDependency: 1
-  version: 4.2.0
+  version: 4.2.1
   source: 1
-  resolvedPath: C:\School\Stage\Pit\PIT-Internship\TableTalk\Library\PackageCache\com.unity.xr.management@4.2.0
+  resolvedPath: C:\School\Stage\Pit\PIT-Internship\TableTalk\Library\PackageCache\com.unity.xr.management@4.2.1
   assetPath: Packages/com.unity.xr.management
   name: com.unity.xr.management
   displayName: XR Plugin Management
@@ -1956,13 +1960,13 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 637704350680000000
+  datePublishedTicks: 637769778170000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/xr.sdk.management.git
-    revision: c8fb6583d6d04516909a8d2ab999a1dbe90ade50
+    revision: 9c99228887ff65cc0729434b3b9371d22b707cb9
     path: 
   unityLifecycle:
     version: 4.2.0
@@ -4770,7 +4774,7 @@ m_ResolvedPackages:
     version: 4.2.0
   resolvedDependencies:
   - name: com.unity.xr.management
-    version: 4.2.0
+    version: 4.2.1
   - name: com.unity.modules.subsystems
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
@@ -4869,7 +4873,7 @@ m_ResolvedPackages:
     version: 1.4.4
   resolvedDependencies:
   - name: com.unity.xr.management
-    version: 4.2.0
+    version: 4.2.1
   - name: com.unity.modules.subsystems
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
@@ -4885,7 +4889,7 @@ m_ResolvedPackages:
   - name: com.unity.subsystemregistration
     version: 1.1.0
   - name: com.unity.inputsystem
-    version: 1.5.0
+    version: 1.5.1
   - name: com.unity.modules.uielements
     version: 1.0.0
   - name: com.unity.modules.ui
@@ -5048,7 +5052,7 @@ m_ResolvedPackages:
     version: 1.0.1
   resolvedDependencies:
   - name: com.unity.test-framework
-    version: 1.1.31
+    version: 1.1.33
   - name: com.unity.ext.nunit
     version: 1.0.6
   - name: com.unity.modules.imgui
