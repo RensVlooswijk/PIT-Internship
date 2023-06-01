@@ -1,94 +1,626 @@
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
-,{ "pid":12345, "tid":0, "ts":1685611444892191, "dur":1141, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444893340, "dur":11300, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
-,{ "pid":12345, "tid":0, "ts":1685611444904764, "dur":55, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
-,{ "pid":12345, "tid":0, "ts":1685611444904819, "dur":532, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
-,{ "pid":12345, "tid":0, "ts":1685611444905373, "dur":8363, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444913736, "dur":6, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444916048, "dur":195, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444916243, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444916255, "dur":452, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444916707, "dur":16, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444916723, "dur":402, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917125, "dur":16, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917141, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917143, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917157, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917159, "dur":20, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917179, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917180, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917191, "dur":70, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917261, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917267, "dur":128, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917395, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917406, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917408, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917413, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917414, "dur":13, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917427, "dur":311, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917738, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917746, "dur":28, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917774, "dur":22, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917796, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917799, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917808, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917811, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917823, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917826, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444917834, "dur":287, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444918121, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444918133, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444918136, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444918141, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444918143, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444918150, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444918152, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444918157, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444918160, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444918166, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444918166, "dur":54, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444918235, "dur":1358, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
-,{ "pid":12345, "tid":1, "ts":1685611444905369, "dur":8384, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1685611444913756, "dur":2270, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1685611444905458, "dur":8478, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1685611444913937, "dur":1139, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1685611444915076, "dur":1532, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1685611444905382, "dur":8475, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1685611444913862, "dur":3230, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1685611444905412, "dur":8455, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1685611444913869, "dur":2649, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1685611444905446, "dur":8446, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1685611444913894, "dur":2668, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1685611444905486, "dur":8721, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1685611444914209, "dur":2657, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1685611444905521, "dur":8837, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1685611444914360, "dur":2873, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1685611444905544, "dur":8941, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1685611444914487, "dur":2880, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1685611444905569, "dur":9010, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":9, "ts":1685611444914581, "dur":1476, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1685611444905609, "dur":9027, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":10, "ts":1685611444914638, "dur":2316, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1685611444905639, "dur":9035, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":11, "ts":1685611444914675, "dur":2998, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1685611444905665, "dur":9028, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":12, "ts":1685611444914694, "dur":3046, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":13, "ts":1685611444905696, "dur":9016, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":13, "ts":1685611444914713, "dur":2265, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":14, "ts":1685611444905735, "dur":9015, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":14, "ts":1685611444914751, "dur":2568, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":15, "ts":1685611444905761, "dur":9029, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":15, "ts":1685611444914792, "dur":2106, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":16, "ts":1685611444905790, "dur":9009, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":16, "ts":1685611444914800, "dur":3208, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":17, "ts":1685611444905835, "dur":9031, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":17, "ts":1685611444914867, "dur":1128, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":17, "ts":1685611444915995, "dur":1188, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":18, "ts":1685611444905845, "dur":9116, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":18, "ts":1685611444914963, "dur":2157, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":19, "ts":1685611444905870, "dur":9154, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":19, "ts":1685611444915026, "dur":2589, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":20, "ts":1685611444905895, "dur":9146, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":20, "ts":1685611444915042, "dur":1884, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1685611444921313, "dur":670, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid":12345, "tid":0, "ts":1685614346570557, "dur":1493, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614346572057, "dur":1564, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1685614346573667, "dur":27, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1685614346573694, "dur":490, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1685614346574201, "dur":568, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614346574770, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203356, "dur":64, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203420, "dur":154, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203574, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203577, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203583, "dur":85, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203668, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203673, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203676, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203684, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203686, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203691, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203693, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203698, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203699, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203704, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203705, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203712, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203713, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203717, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203718, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203723, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203725, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203730, "dur":70, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203800, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203807, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203808, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203813, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203815, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203819, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203820, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203825, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203827, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203831, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203832, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203839, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203840, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203844, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203845, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203851, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203852, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354203856, "dur":1, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354205252, "dur":4, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354205263, "dur":5157, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1685614346574086, "dur":692, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1685614346574781, "dur":16457, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1685614346591248, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/y2vqe/pch-cpp-16067570623199251648.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1685614346591251, "dur":348, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1685614346591602, "dur":16104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019Pch Library/Bee/artifacts/WinPlayerBuildProgram/y2vqe/pch-cpp-16067570623199251648.pch (+obj)" }}
+,{ "pid":12345, "tid":1, "ts":1685614346607706, "dur":145, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1685614346607852, "dur":13465, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/38lbm/mq27_adler32.obj" }}
+,{ "pid":12345, "tid":1, "ts":1685614346621317, "dur":786, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1685614346622104, "dur":450, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/38lbm/7gum_gzlib.obj" }}
+,{ "pid":12345, "tid":1, "ts":1685614346622555, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1685614346622607, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/tlhgc/fmzk_al_handler.obj" }}
+,{ "pid":12345, "tid":1, "ts":1685614346622677, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1685614346622715, "dur":384, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/iqt7_bit_cost.obj" }}
+,{ "pid":12345, "tid":1, "ts":1685614346623099, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1685614346623209, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/Plugins/x86_64/dracodec_unity.dll" }}
+,{ "pid":12345, "tid":1, "ts":1685614346623265, "dur":387, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1685614346623652, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1685614346623688, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1685614346635685, "dur":1383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"TableTalk_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1685614346637092, "dur":7566243, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685614346574278, "dur":521, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685614346574799, "dur":16606, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685614346591405, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/m8lf_Win322.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1685614346591407, "dur":163, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685614346591576, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/rsjl_c-api2.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1685614346591577, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685614346591720, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/s9qf_Mono0.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1685614346591721, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685614346591762, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/z3qe_System0.lump.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1685614346591763, "dur":507, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685614346592271, "dur":6495, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/rcjo_stem0.lump.obj" }}
+,{ "pid":12345, "tid":2, "ts":1685614346598766, "dur":251, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685614346599018, "dur":5917, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/o1q9_ting0.lump.obj" }}
+,{ "pid":12345, "tid":2, "ts":1685614346604936, "dur":1227, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685614346606164, "dur":1110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/tlk5_data1.lump.obj" }}
+,{ "pid":12345, "tid":2, "ts":1685614346607275, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685614346607326, "dur":957, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/qesy_stem0.lump.obj" }}
+,{ "pid":12345, "tid":2, "ts":1685614346608283, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685614346608334, "dur":1981, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/01vh_stem1.lump.obj" }}
+,{ "pid":12345, "tid":2, "ts":1685614346610315, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685614346610367, "dur":1206, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/dfo0_.Net0.lump.obj" }}
+,{ "pid":12345, "tid":2, "ts":1685614346611573, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685614346611643, "dur":13877, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/fqzq_in322.lump.obj" }}
+,{ "pid":12345, "tid":2, "ts":1685614346625521, "dur":121, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685614346625644, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":2, "ts":1685614346625699, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1685614346625703, "dur":3920, "ph":"X", "name": "CopyFiles",  "args": { "detail":"TableTalk_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":2, "ts":1685614346629649, "dur":7573688, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346574601, "dur":270, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346574871, "dur":16372, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346591248, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/24vw_m.Security0.lump.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1685614346591251, "dur":478, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346591755, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/nn33_em.Runtime0.lump.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1685614346591757, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346591885, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/rh7y_utils2.lump.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1685614346591887, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346591995, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/44q6_System0.lump.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1685614346591996, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346592086, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/iwpw_Generic1.lump.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1685614346592087, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346592147, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/a5f0_Posix2.lump.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1685614346592148, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346592236, "dur":13390, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/48vv_osix2.lump.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346605626, "dur":785, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346606412, "dur":569, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/oc64_stem0.lump.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346606981, "dur":880, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346607862, "dur":4148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/k8ni_stem0.lump.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346612011, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346612060, "dur":1137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/fqps_references.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346613198, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346613317, "dur":497, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/allf_nterlocked.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346613814, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346613938, "dur":590, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/tc6a_oryMapImpl.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346614529, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346614574, "dur":268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/l2my_temWatcher.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346614842, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346614880, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/wv73_derFactory.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346615041, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346615083, "dur":233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/tdbh_Evidence.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346615316, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346615439, "dur":254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/evff_ningHelper.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346615693, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346615738, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/16368547023511356171.rsp" }}
+,{ "pid":12345, "tid":3, "ts":1685614346615747, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346615831, "dur":558, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/nz0b_onServices.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346616389, "dur":134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346616524, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/y2vqe/GameAssembly.dll.dummy.def" }}
+,{ "pid":12345, "tid":3, "ts":1685614346616525, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346616563, "dur":588, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/wjxf_imeHelpers.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346617151, "dur":43, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346617195, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/3fjr_utf8_util.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346617336, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346617375, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/kuyh_memory.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346617487, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346617614, "dur":238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/8vk4_teral_cost.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346617852, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346617924, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/3ced_histogram.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346618078, "dur":134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346618212, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/z7zh_opy_encode.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346618413, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346618468, "dur":393, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/dxlm_encode.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346618861, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346618900, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/exso_ersistence.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346619053, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346619095, "dur":255, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/fxzp_iveMethods.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346619350, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346619387, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/slj5_s_fragment.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346619551, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346619593, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/yvvs_command.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346619747, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346619785, "dur":163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/tgsc_cluster.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346619948, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346619981, "dur":395, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/a6ac_bit_stream.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346620376, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346620467, "dur":697, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/38lbm/byl5_uncompr.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346621164, "dur":596, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346621760, "dur":465, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/38lbm/hlfg_gzwrite.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346622225, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346622270, "dur":435, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/38lbm/e8ea_gzclose.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346622705, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346622742, "dur":344, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/fsha_erences_hq.obj" }}
+,{ "pid":12345, "tid":3, "ts":1685614346623086, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346623148, "dur":171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1685614346623319, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346623393, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/UnitySubsystems/UnityOpenXR/UnitySubsystemsManifest.json" }}
+,{ "pid":12345, "tid":3, "ts":1685614346623531, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346623629, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":3, "ts":1685614346623689, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1685614346625440, "dur":3955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"TableTalk_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":3, "ts":1685614346629420, "dur":7573961, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1685614346574267, "dur":526, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1685614346574793, "dur":16616, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1685614346591410, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/m8lf_Win321.lump.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1685614346591411, "dur":184, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1685614346591597, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/som9_System1.lump.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1685614346591598, "dur":299, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1685614346591898, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/98wh_vm0.lump.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1685614346591899, "dur":303, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1685614346592204, "dur":17785, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/wcad_h_vm0.lump.obj" }}
+,{ "pid":12345, "tid":4, "ts":1685614346609989, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1685614346610035, "dur":996, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/n0q6_rity0.lump.obj" }}
+,{ "pid":12345, "tid":4, "ts":1685614346611032, "dur":188, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1685614346611222, "dur":14656, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/lskr_in324.lump.obj" }}
+,{ "pid":12345, "tid":4, "ts":1685614346625879, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1685614346625948, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1685614346626050, "dur":259, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1685614346626313, "dur":7577071, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1685614346574297, "dur":512, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1685614346574809, "dur":16565, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1685614346591375, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/m8lf_Win323.lump.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1685614346591378, "dur":194, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1685614346591578, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/1feo_System0.lump.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1685614346591579, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1685614346591618, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/38lbm/_dummy_for_header_discovery" }}
+,{ "pid":12345, "tid":5, "ts":1685614346591618, "dur":302, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1685614346591922, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/98wh_vm2.lump.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1685614346591923, "dur":257, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1685614346592182, "dur":16826, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/i7b6_h_vm2.lump.obj" }}
+,{ "pid":12345, "tid":5, "ts":1685614346609008, "dur":409, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1685614346609419, "dur":14235, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/m70e_v_gc0.lump.obj" }}
+,{ "pid":12345, "tid":5, "ts":1685614346623654, "dur":174, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1685614346623829, "dur":1364, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1685614346625193, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1685614346625280, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1685614346625309, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1685614346625312, "dur":4805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"TableTalk_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1685614346630137, "dur":7573230, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1685614346574327, "dur":485, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1685614346574812, "dur":16561, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1685614346591374, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/m8lf_Win324.lump.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1685614346591375, "dur":239, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1685614346591616, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/tlhgc/_dummy_for_header_discovery" }}
+,{ "pid":12345, "tid":6, "ts":1685614346591617, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1685614346591697, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/491r_System0.lump.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1685614346591698, "dur":272, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1685614346591973, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/98wh_vm5.lump.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1685614346591978, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1685614346592065, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/xzat_tests3.lump.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1685614346592066, "dur":225, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1685614346592293, "dur":4914, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/wj1k_ests3.lump.obj" }}
+,{ "pid":12345, "tid":6, "ts":1685614346597207, "dur":593, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1685614346597801, "dur":912, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/pta9_yPAL0.lump.obj" }}
+,{ "pid":12345, "tid":6, "ts":1685614346598713, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1685614346598773, "dur":23512, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/lvkr_Pool0.lump.obj" }}
+,{ "pid":12345, "tid":6, "ts":1685614346622286, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1685614346622404, "dur":818, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/38lbm/8abx_deflate.obj" }}
+,{ "pid":12345, "tid":6, "ts":1685614346623222, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1685614346623319, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/Plugins/x86_64/UnityOpenXR.dll" }}
+,{ "pid":12345, "tid":6, "ts":1685614346623368, "dur":161, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1685614346623530, "dur":598, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":6, "ts":1685614346624132, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1685614346624135, "dur":28805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"TableTalk_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":6, "ts":1685614346652987, "dur":7550382, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685614346574348, "dur":471, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685614346574819, "dur":16551, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685614346591371, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/ymkv_os1.lump.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1685614346591448, "dur":259, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685614346591709, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/i8rv_gc0.lump.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1685614346591710, "dur":47, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685614346591759, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/a0qm_System0.lump.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1685614346591760, "dur":314, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685614346592074, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/omkk_ThreadPool0.lump.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1685614346592075, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685614346592118, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/s213_Lumin0.lump.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1685614346592119, "dur":143, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685614346592263, "dur":9187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/r2l3_umin0.lump.obj" }}
+,{ "pid":12345, "tid":7, "ts":1685614346601450, "dur":137, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685614346601588, "dur":454, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/fd0k_stem0.lump.obj" }}
+,{ "pid":12345, "tid":7, "ts":1685614346602043, "dur":44, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685614346602088, "dur":4821, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/98ni_2cpp0.lump.obj" }}
+,{ "pid":12345, "tid":7, "ts":1685614346606910, "dur":171, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685614346607082, "dur":1144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/8t3v_tils2.lump.obj" }}
+,{ "pid":12345, "tid":7, "ts":1685614346608227, "dur":193, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685614346608421, "dur":2143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/2a5t_stem2.lump.obj" }}
+,{ "pid":12345, "tid":7, "ts":1685614346610564, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685614346610654, "dur":11327, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/9saq_v_os1.lump.obj" }}
+,{ "pid":12345, "tid":7, "ts":1685614346621982, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685614346622043, "dur":437, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/38lbm/6hsf_gzread.obj" }}
+,{ "pid":12345, "tid":7, "ts":1685614346622480, "dur":532, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685614346623014, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles baselib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1685614346623051, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685614346623185, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/Plugins/x86_64/openxr_loader.dll" }}
+,{ "pid":12345, "tid":7, "ts":1685614346623245, "dur":252, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685614346623497, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1685614346623590, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1685614346624719, "dur":2471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"TableTalk_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1685614346627329, "dur":7576041, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1685614346574378, "dur":444, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1685614346574822, "dur":16543, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1685614346591366, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/l103_WinRT0.lump.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1685614346591448, "dur":367, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1685614346591816, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/1feo_System2.lump.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1685614346591817, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1685614346591943, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/98wh_vm3.lump.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1685614346591944, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1685614346591995, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/60ey_Android0.lump.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1685614346591996, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1685614346592052, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/xzat_tests2.lump.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1685614346592052, "dur":199, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1685614346592252, "dur":13317, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/t0q2_ests2.lump.obj" }}
+,{ "pid":12345, "tid":8, "ts":1685614346605569, "dur":445, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1685614346606014, "dur":1364, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/qrr3_roid0.lump.obj" }}
+,{ "pid":12345, "tid":8, "ts":1685614346607378, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1685614346607429, "dur":1499, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/9oa6_stem0.lump.obj" }}
+,{ "pid":12345, "tid":8, "ts":1685614346608929, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1685614346609017, "dur":15657, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/in5u_inRT1.lump.obj" }}
+,{ "pid":12345, "tid":8, "ts":1685614346624675, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1685614346624732, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/level1.resS" }}
+,{ "pid":12345, "tid":8, "ts":1685614346624770, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1685614346624773, "dur":4383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"TableTalk_Data/level1.resS" }}
+,{ "pid":12345, "tid":8, "ts":1685614346629198, "dur":7574118, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346574399, "dur":430, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346574829, "dur":16515, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346591345, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/l103_WinRT1.lump.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1685614346591348, "dur":458, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346591807, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/1feo_System1.lump.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1685614346591808, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346591845, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/rh7y_utils1.lump.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1685614346591846, "dur":172, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346592019, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/rsjl_c-api3.lump.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1685614346592020, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346592070, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/vxnx_LibraryPAL0.lump.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1685614346592071, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346592120, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/3yr5_OSX0.lump.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1685614346592121, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346592238, "dur":4545, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/6j8n__OSX0.lump.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346596783, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346596843, "dur":9817, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/ny51_ests0.lump.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346606660, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346606744, "dur":2221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/o9w6_h_vm4.lump.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346608965, "dur":254, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346609221, "dur":1239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/w8jt_stem0.lump.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346610460, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346610536, "dur":1819, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/2tkl_-api2.lump.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346612356, "dur":216, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346612573, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/g6zz_huffman.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346612730, "dur":46, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346612777, "dur":235, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/gy3l_bit_reader.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346613012, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346613062, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/yznb_transform.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346613159, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346613285, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/p69r_constants.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346613425, "dur":46, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346613471, "dur":313, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/kkng_ThreadImpl.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346613784, "dur":149, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346613934, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/258x_onary_hash.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346614077, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346614117, "dur":271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/2st5_Semaphore.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346614388, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346614429, "dur":442, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/woj0_Dns.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346614872, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346614914, "dur":235, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/lynb_iveMethods.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346615149, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346615185, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/u701_ceProvider.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346615351, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346615477, "dur":271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/j4rr_RealProxy.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346615748, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346615808, "dur":390, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/84fb_Context.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346616199, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346616294, "dur":255, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/yuw1_ngServices.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346616550, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346616591, "dur":574, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/0dgi_imeImports.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346617165, "dur":47, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346617213, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/e7z6_tatic_dict.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346617333, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346617372, "dur":574, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/bgl9_metablock.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346617946, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346618052, "dur":241, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/km9f_fast_log.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346618293, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346618338, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/8uzp_coder_dict.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346618514, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346618557, "dur":480, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/zd24_UnityTls.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346619037, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346619082, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/x0ry_t_two_pass.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346619266, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346619302, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/poh9_Interop.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346619409, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346619446, "dur":532, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/ye2b_i-debugger.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346619978, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346620019, "dur":629, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/38lbm/tayc_zutil.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346620648, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346620699, "dur":565, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/38lbm/dnr6_inftrees.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346621264, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346621326, "dur":1021, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/38lbm/9928_infback.obj" }}
+,{ "pid":12345, "tid":9, "ts":1685614346622348, "dur":513, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346622862, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":9, "ts":1685614346622863, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346622905, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/app.info" }}
+,{ "pid":12345, "tid":9, "ts":1685614346622908, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346622992, "dur":537, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":9, "ts":1685614346623529, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346623635, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1685614346623687, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1685614346625187, "dur":5640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"TableTalk_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1685614346630956, "dur":7572405, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1685614346574429, "dur":408, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1685614346574837, "dur":16495, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1685614346591333, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/rh7y_utils0.lump.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1685614346591335, "dur":417, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1685614346591755, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/som9_System2.lump.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1685614346591757, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1685614346591820, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/98wh_vm6.lump.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1685614346591821, "dur":163, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1685614346591986, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/dy5v_metadata1.lump.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1685614346591986, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1685614346592024, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/xzat_tests0.lump.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1685614346592025, "dur":150, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1685614346592176, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/dy5v_metadata2.lump.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1685614346592177, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1685614346592277, "dur":4630, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/w4un_data2.lump.obj" }}
+,{ "pid":12345, "tid":10, "ts":1685614346596907, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1685614346597011, "dur":8779, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/v7nm_tils0.lump.obj" }}
+,{ "pid":12345, "tid":10, "ts":1685614346605791, "dur":285, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1685614346606078, "dur":15143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/zvkv_h_vm1.lump.obj" }}
+,{ "pid":12345, "tid":10, "ts":1685614346621222, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1685614346621274, "dur":831, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/38lbm/i15a_inffast.obj" }}
+,{ "pid":12345, "tid":10, "ts":1685614346622105, "dur":474, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1685614346622580, "dur":254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/wpa7_k_splitter.obj" }}
+,{ "pid":12345, "tid":10, "ts":1685614346622834, "dur":660, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1685614346623494, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/UnitySubsystems/OculusXRPlugin/UnitySubsystemsManifest.json" }}
+,{ "pid":12345, "tid":10, "ts":1685614346623538, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1685614346623601, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1685614346623654, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1685614346624810, "dur":43990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"TableTalk_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1685614346668845, "dur":7534354, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1685614346574446, "dur":394, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1685614346574840, "dur":16485, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1685614346591326, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/dy5v_metadata0.lump.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1685614346591329, "dur":377, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1685614346591707, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/ddj0_codegen0.lump.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1685614346591708, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1685614346591758, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/som9_System3.lump.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1685614346591759, "dur":581, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1685614346592341, "dur":15653, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/5tfc_stem3.lump.obj" }}
+,{ "pid":12345, "tid":11, "ts":1685614346607995, "dur":196, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1685614346608192, "dur":1105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/n5kg_time0.lump.obj" }}
+,{ "pid":12345, "tid":11, "ts":1685614346609297, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1685614346609346, "dur":1368, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/lzbo_Mono0.lump.obj" }}
+,{ "pid":12345, "tid":11, "ts":1685614346610715, "dur":162, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1685614346610878, "dur":14055, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/tvxx_in320.lump.obj" }}
+,{ "pid":12345, "tid":11, "ts":1685614346624933, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1685614346625042, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/level0" }}
+,{ "pid":12345, "tid":11, "ts":1685614346625077, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1685614346625079, "dur":3800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"TableTalk_Data/level0" }}
+,{ "pid":12345, "tid":11, "ts":1685614346628907, "dur":7574411, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1685614346574474, "dur":370, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1685614346574844, "dur":16452, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1685614346591297, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/jwp2_System.Net0.lump.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1685614346591298, "dur":1102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1685614346592401, "dur":12463, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/geex_.Net0.lump.obj" }}
+,{ "pid":12345, "tid":12, "ts":1685614346604865, "dur":660, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1685614346605526, "dur":808, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/5cv3_-api3.lump.obj" }}
+,{ "pid":12345, "tid":12, "ts":1685614346606334, "dur":46, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1685614346606380, "dur":895, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/5atd_tils1.lump.obj" }}
+,{ "pid":12345, "tid":12, "ts":1685614346607275, "dur":47, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1685614346607323, "dur":1488, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/a4yz_h_vm6.lump.obj" }}
+,{ "pid":12345, "tid":12, "ts":1685614346608812, "dur":169, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1685614346608983, "dur":15816, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/f4uc_inRT0.lump.obj" }}
+,{ "pid":12345, "tid":12, "ts":1685614346624800, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1685614346624873, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/level1" }}
+,{ "pid":12345, "tid":12, "ts":1685614346624907, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1685614346624912, "dur":3765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"TableTalk_Data/level1" }}
+,{ "pid":12345, "tid":12, "ts":1685614346628714, "dur":7574609, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1685614346574497, "dur":354, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1685614346574851, "dur":16400, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1685614346591252, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/fd8z_System0.lump.cpp" }}
+,{ "pid":12345, "tid":13, "ts":1685614346591417, "dur":600, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1685614346592018, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/lywu_libil2cpp0.lump.cpp" }}
+,{ "pid":12345, "tid":13, "ts":1685614346592020, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1685614346592077, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/iwpw_Generic0.lump.cpp" }}
+,{ "pid":12345, "tid":13, "ts":1685614346592077, "dur":272, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1685614346592350, "dur":4304, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/degl_eric0.lump.obj" }}
+,{ "pid":12345, "tid":13, "ts":1685614346596654, "dur":251, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1685614346596906, "dur":11013, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/gxq3_eric1.lump.obj" }}
+,{ "pid":12345, "tid":13, "ts":1685614346607920, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1685614346608026, "dur":3429, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/zrub_stem1.lump.obj" }}
+,{ "pid":12345, "tid":13, "ts":1685614346611455, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1685614346611534, "dur":12711, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/we8f_in321.lump.obj" }}
+,{ "pid":12345, "tid":13, "ts":1685614346624245, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1685614346624312, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/level2" }}
+,{ "pid":12345, "tid":13, "ts":1685614346624345, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1685614346624348, "dur":3104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"TableTalk_Data/level2" }}
+,{ "pid":12345, "tid":13, "ts":1685614346627485, "dur":7575915, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685614346574542, "dur":319, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685614346574861, "dur":16429, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685614346591290, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/0nh5_System0.lump.cpp" }}
+,{ "pid":12345, "tid":14, "ts":1685614346591395, "dur":550, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685614346591947, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/98wh_vm4.lump.cpp" }}
+,{ "pid":12345, "tid":14, "ts":1685614346591948, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685614346592002, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/98wh_vm1.lump.cpp" }}
+,{ "pid":12345, "tid":14, "ts":1685614346592003, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685614346592044, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/xzat_tests1.lump.cpp" }}
+,{ "pid":12345, "tid":14, "ts":1685614346592045, "dur":131, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685614346592177, "dur":30261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/qhgk_ests1.lump.obj" }}
+,{ "pid":12345, "tid":14, "ts":1685614346622439, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685614346622578, "dur":982, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/38lbm/k2id_crc32.obj" }}
+,{ "pid":12345, "tid":14, "ts":1685614346623560, "dur":154, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685614346623714, "dur":254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":14, "ts":1685614346623969, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685614346624061, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/resources.assets" }}
+,{ "pid":12345, "tid":14, "ts":1685614346624110, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1685614346624116, "dur":41140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"TableTalk_Data/resources.assets" }}
+,{ "pid":12345, "tid":14, "ts":1685614346665277, "dur":7537985, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685614346574521, "dur":333, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685614346574854, "dur":16439, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685614346591294, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/bd2n_System.Net0.lump.cpp" }}
+,{ "pid":12345, "tid":15, "ts":1685614346591297, "dur":426, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685614346591725, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/som9_System0.lump.cpp" }}
+,{ "pid":12345, "tid":15, "ts":1685614346591726, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685614346591777, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/_dummy_for_header_discovery" }}
+,{ "pid":12345, "tid":15, "ts":1685614346591777, "dur":140, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685614346591918, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/a5f0_Posix3.lump.cpp" }}
+,{ "pid":12345, "tid":15, "ts":1685614346591919, "dur":476, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685614346592395, "dur":15085, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/nkn6_osix3.lump.obj" }}
+,{ "pid":12345, "tid":15, "ts":1685614346607480, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685614346607531, "dur":1197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/3k6z_stem2.lump.obj" }}
+,{ "pid":12345, "tid":15, "ts":1685614346608728, "dur":804, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685614346609533, "dur":1157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/y8m3_egen0.lump.obj" }}
+,{ "pid":12345, "tid":15, "ts":1685614346610690, "dur":47, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685614346610738, "dur":1346, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/q29m_data0.lump.obj" }}
+,{ "pid":12345, "tid":15, "ts":1685614346612084, "dur":43, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685614346612127, "dur":544, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/s4pq_state.obj" }}
+,{ "pid":12345, "tid":15, "ts":1685614346612671, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685614346612723, "dur":343, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/xcke_decode.obj" }}
+,{ "pid":12345, "tid":15, "ts":1685614346613067, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685614346613109, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/7txz_platform.obj" }}
+,{ "pid":12345, "tid":15, "ts":1685614346613231, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685614346613270, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/dtrs_context.obj" }}
+,{ "pid":12345, "tid":15, "ts":1685614346613323, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685614346613360, "dur":7125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/qn7y_sEmulation.obj" }}
+,{ "pid":12345, "tid":15, "ts":1685614346620485, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685614346620538, "dur":528, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/38lbm/yv9a_trees.obj" }}
+,{ "pid":12345, "tid":15, "ts":1685614346621066, "dur":46, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685614346621113, "dur":1635, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/38lbm/4uff_inflate.obj" }}
+,{ "pid":12345, "tid":15, "ts":1685614346622748, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685614346622856, "dur":4, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/School/Stage/Pit/PIT-Internship/TableTalk/Library/Bee/artifacts/WinPlayerBuildProgram/il2cppOutput/build/baselib.dll" }}
+,{ "pid":12345, "tid":15, "ts":1685614346622861, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685614346622935, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles WinPixEventRuntime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1685614346623034, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685614346623151, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles UnityPlayer.dll" }}
+,{ "pid":12345, "tid":15, "ts":1685614346623224, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685614346623284, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/Plugins/x86_64/grpc_csharp_ext.dll" }}
+,{ "pid":12345, "tid":15, "ts":1685614346623316, "dur":181, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685614346623498, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1685614346623544, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1685614346624049, "dur":3523, "ph":"X", "name": "CopyFiles",  "args": { "detail":"TableTalk_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1685614346627605, "dur":7575722, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1685614346574565, "dur":301, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1685614346574866, "dur":16420, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1685614346591286, "dur":198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/q7r0_System0.lump.cpp" }}
+,{ "pid":12345, "tid":16, "ts":1685614346591484, "dur":434, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1685614346591919, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/rsjl_c-api0.lump.cpp" }}
+,{ "pid":12345, "tid":16, "ts":1685614346591920, "dur":465, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1685614346592385, "dur":4807, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/gzis_-api0.lump.obj" }}
+,{ "pid":12345, "tid":16, "ts":1685614346597193, "dur":154, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1685614346597349, "dur":7747, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/z8he_eric2.lump.obj" }}
+,{ "pid":12345, "tid":16, "ts":1685614346605097, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1685614346605147, "dur":1625, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/tkok_stem0.lump.obj" }}
+,{ "pid":12345, "tid":16, "ts":1685614346606772, "dur":134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1685614346606907, "dur":4464, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/lqmo_h_vm3.lump.obj" }}
+,{ "pid":12345, "tid":16, "ts":1685614346611371, "dur":195, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1685614346611568, "dur":13270, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/i998_in323.lump.obj" }}
+,{ "pid":12345, "tid":16, "ts":1685614346624838, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1685614346624912, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/level0.resS" }}
+,{ "pid":12345, "tid":16, "ts":1685614346624949, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1685614346624952, "dur":3609, "ph":"X", "name": "CopyFiles",  "args": { "detail":"TableTalk_Data/level0.resS" }}
+,{ "pid":12345, "tid":16, "ts":1685614346628591, "dur":7574734, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1685614346574163, "dur":622, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1685614346574787, "dur":627, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1685614346575414, "dur":16008, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1685614346591424, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/m8lf_Win320.lump.cpp" }}
+,{ "pid":12345, "tid":17, "ts":1685614346591425, "dur":227, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1685614346591653, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/rsjl_c-api1.lump.cpp" }}
+,{ "pid":12345, "tid":17, "ts":1685614346591654, "dur":732, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1685614346592386, "dur":12637, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/zaa3_-api1.lump.obj" }}
+,{ "pid":12345, "tid":17, "ts":1685614346605024, "dur":680, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1685614346605706, "dur":2600, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/rs7o_h_vm5.lump.obj" }}
+,{ "pid":12345, "tid":17, "ts":1685614346608306, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1685614346608376, "dur":1352, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/q3xo_osix4.lump.obj" }}
+,{ "pid":12345, "tid":17, "ts":1685614346609729, "dur":232, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1685614346609963, "dur":733, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/mz12_tils0.lump.obj" }}
+,{ "pid":12345, "tid":17, "ts":1685614346610697, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1685614346610751, "dur":17340, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/tlhgc/msx5_gc.obj" }}
+,{ "pid":12345, "tid":17, "ts":1685614346628092, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1685614346628184, "dur":7575165, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1685614346574621, "dur":253, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1685614346574874, "dur":16367, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1685614346591248, "dur":1692855, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker C:/School/Stage/Pit/PIT-Internship/TableTalk/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":18, "ts":1685614348284106, "dur":102, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1685614348285096, "dur":5911988, "ph":"X", "name": "UnityLinker",  "args": { "detail":"C:/School/Stage/Pit/PIT-Internship/TableTalk/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":19, "ts":1685614346574644, "dur":237, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1685614346574881, "dur":16625, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1685614346591507, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/ymkv_os0.lump.cpp" }}
+,{ "pid":12345, "tid":19, "ts":1685614346591509, "dur":479, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1685614346591989, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/x4d1_vm-utils0.lump.cpp" }}
+,{ "pid":12345, "tid":19, "ts":1685614346591990, "dur":141, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1685614346592132, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/a5f0_Posix1.lump.cpp" }}
+,{ "pid":12345, "tid":19, "ts":1685614346592133, "dur":188, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1685614346592322, "dur":14458, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/1pld_osix1.lump.obj" }}
+,{ "pid":12345, "tid":19, "ts":1685614346606780, "dur":349, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1685614346607130, "dur":16952, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/qhjf_v_os0.lump.obj" }}
+,{ "pid":12345, "tid":19, "ts":1685614346624083, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1685614346624194, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/level2.resS" }}
+,{ "pid":12345, "tid":19, "ts":1685614346624242, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1685614346624245, "dur":2900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"TableTalk_Data/level2.resS" }}
+,{ "pid":12345, "tid":19, "ts":1685614346627214, "dur":7576140, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1685614346574664, "dur":220, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1685614346574884, "dur":16463, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1685614346591348, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/y2vqe/_dummy_for_header_discovery" }}
+,{ "pid":12345, "tid":20, "ts":1685614346591349, "dur":279, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1685614346591629, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/a5f0_Posix4.lump.cpp" }}
+,{ "pid":12345, "tid":20, "ts":1685614346591630, "dur":189, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1685614346591821, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/tmv6_e.Remoting0.lump.cpp" }}
+,{ "pid":12345, "tid":20, "ts":1685614346591822, "dur":264, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1685614346592087, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/iwpw_Generic2.lump.cpp" }}
+,{ "pid":12345, "tid":20, "ts":1685614346592088, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1685614346592126, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"MakeLump Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/a5f0_Posix0.lump.cpp" }}
+,{ "pid":12345, "tid":20, "ts":1685614346592127, "dur":238, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1685614346592367, "dur":18551, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/y6av_osix0.lump.obj" }}
+,{ "pid":12345, "tid":20, "ts":1685614346610918, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1685614346610998, "dur":1987, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/xilz_stem0.lump.obj" }}
+,{ "pid":12345, "tid":20, "ts":1685614346612986, "dur":176, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1685614346613163, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/qqmf_dictionary.obj" }}
+,{ "pid":12345, "tid":20, "ts":1685614346613288, "dur":222, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1685614346613511, "dur":163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/7hh9_cketBridge.obj" }}
+,{ "pid":12345, "tid":20, "ts":1685614346613674, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1685614346613726, "dur":7152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_Win64_VS2019 Library/Bee/artifacts/WinPlayerBuildProgram/ijd4d/lavy_osixHelper.obj" }}
+,{ "pid":12345, "tid":20, "ts":1685614346620878, "dur":2071, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1685614346622950, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk.exe" }}
+,{ "pid":12345, "tid":20, "ts":1685614346623004, "dur":872, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1685614346623878, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles TableTalk_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":20, "ts":1685614346623922, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1685614346636216, "dur":14429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"TableTalk_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":20, "ts":1685614346650672, "dur":7552643, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1685614354212899, "dur":1290, "ph":"X", "name": "ProfilerWriteOutput" }
 ,
