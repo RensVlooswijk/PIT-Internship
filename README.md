@@ -63,22 +63,24 @@ A lot of research has been done with the goal of answering a similar question. B
 ### Sub Questions:
 
 #### 1.	
-> What is the current state of research on the use of virtual reality technology in language learning, and how does it compare to traditional language learning methods in terms of >effectiveness and engagement?
+> What is the current state of research on the use of virtual reality technology in language learning, and how does it compare to traditional language learning methods in terms of effectiveness and engagement?
 
-The use of Virtual Reality (VR) in language learning is a growing field. It provides an immersive environment where learners can practice language skills in contextually rich and interactive scenarios. The current state of research suggests that VR can enhance engagement and motivation, providing opportunities for authentic communication and practice that can be difficult to achieve in a traditional classroom setting. However, the effectiveness of VR compared to traditional methods depends on various factors, including the quality of the VR content, the learner's comfort with the technology, and how well the VR activities are integrated with other aspects of the language learning curriculum.
+Currently VR in education is a growing field, both in general and as a language learning tool. However it is still very much evolving and improving. Also its effectiveness is not set in stone yet. But it seems to be a large improvement (mostly in engagement) compared to learning from books. 
 
 ### 2.	
 > What are the specific challenges and considerations when using virtual reality technology for language learning, particularly for the students?
 
-There are several challenges when using VR for language learning. Some students may experience discomfort or motion sickness when using VR. Accessibility can also be an issue, as not all students may have access to the necessary hardware. There's also the challenge of creating meaningful and engaging VR content for language learning. It's important that VR activities are not just gimmicks, but provide genuine learning opportunities that align with the students' learning goals and the overall curriculum.
+Besides the general flaws of VR like motion sickness for some students, I think the main challenge would be the lack of actual human interaction. Because while VR can simulate environments it currently is not able to fully replicate the nuances of human interaction (mostly non-verbal). In VR body language is often simplified and thus cant show the complexity of real-world interactions. So a student would have difficulty picking up non verbal clues. However for learning a second language this is not as important so in this use case there are no real downsides.
 
 ### 3.	
 > How can we evaluate the effectiveness of the virtual reality game in terms of language proficiency and engagement, and what are the best practices for gathering feedback from the students?
 
-To evaluate the effectiveness of the VR game in terms of language proficiency, you could conduct pre- and post-tests to measure improvements in specific language skills. For engagement, you could observe students while they're using the VR game and note their level of interaction and immersion. You could also use questionnaires or interviews to gather feedback on their experiences and perceptions of the VR game. It's important to gather both quantitative data (such as test scores or usage stats) and qualitative data (such as student feedback or observational data) to get a comprehensive understanding of the VR game's effectiveness.
+The most obvious way would be user test and ask feedback in a questionnaire format. This is also what I did. (to see my questionnaire please click [this link](https://forms.gle/emxx9nvhDpR23vZc7)). Although I am not convinced this is the best method to check the effectiveness of VR in language learning. During my internship I came across another method that I liked a lot. Using this method you would get 2 students to fill in a quiz about a subject neither have actual knowledge about. Then you would let one of them play the VR game and one person study with a book. Then they would take the quiz again and you would see if VR is effective. You could also let one person do both.
 
 ### 4.	
 > What are the key steps and best practices for creating a successful proof of concept for a new product or technology?
+
+
 
 Creating a successful proof of concept involves several key steps:
 
@@ -148,7 +150,7 @@ And lastly I used GitHub as my version control tool. Whenever I added something 
 
 For my situation orientation I have applied a lot of knowledge and skills that I aquired in previous semesters. In semester 3 for example, we learned what an API was and how to use them. I used this knowledge to create the dynamically layered method using the [whisper](/Documents/Whisper.md), [ChatGPT](/Documents/ChatGPT%20API.md) and [11labs](/Documents/11Labs.md) API's. 
 
-
+ 
 Previous acquired knowledge 
 (one page design) 
 (design challenge)
