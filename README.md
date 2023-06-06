@@ -167,21 +167,13 @@ Then there was my 3rd semester (Software) in which I learned a lot about what an
 ### 3. Future-Oriented Organization
 > You explore the organizational context of your project, make business, sustainable and ethical considerations and manage all aspects of the execution of the project.
 
-1. Explored the organizational context of your project
-2. Made business, sustainable, and ethical considerations
-3. Managed all aspects of the execution of the project
+During my internship, I 
 
-Here are some suggestions based on the information you've shared in your portfolio so far:
+Throughout my internship, I successfully navigated the organizational context of ROC Tilburg and PIT. I kept in close contact with stakeholders via weekly meetings and accommodated their needs in my project. This was validated by the interest shown by teachers at "het Schakelcollege."
 
-1. **Organizational Context**: Discuss how you understood and navigated the structure and culture of ROC Tilburg and the Practoraat Interactieve Technologie department. This could include understanding the needs of your target users (refugee students learning Dutch), as well as understanding the technical and pedagogical resources available within the organization. You can also mention any adjustments you had to make based on the organization's priorities, constraints, or feedback.
-    
-2. **Business, Sustainable, and Ethical Considerations**: Elaborate on the long-term vision for your project. How might it scale or evolve in the future? How might it impact the organization's operations, cost, or revenue? Additionally, consider sustainability: how might the project impact the environment, and how did you try to minimize this impact? For the ethical aspect, discuss how you ensured the project respects users' privacy, safety, and dignity. For example, did you carefully handle the data you collected during user testing?
-    
-3. **Project Management**: Show evidence that you successfully planned, executed, and controlled your project. This can include your project plan, timeline, and any project management tools you used (like Trello). Also, discuss any challenges you faced during the project and how you overcame them.
+The VR language learning game was designed with business, sustainability, and ethical considerations in mind. Its scalability and use of existing tech infrastructure position it well for future growth, while data from user testing was handled with careful attention to privacy and safety.
 
-weekly meetings stakeholder
-future internship takeover 
-other teachers with interest
+Effective project management was key to my work, as I adhered to a project plan, tracked progress, and managed tasks diligently. I also prepared a comprehensive transfer report to ensure a smooth transition for the next intern, demonstrating a future-oriented approach.
 
 [Return to table of contents](#table-of-contents) 
 
