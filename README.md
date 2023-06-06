@@ -148,14 +148,19 @@ And lastly I used GitHub as my version control tool. Whenever I added something 
 ### 2. Situation Orientation
 > You apply your previously acquired knowledge and skills in an authentic context to deliver relevant results for the project and company.
 
-For my situation orientation I have applied a lot of knowledge and skills that I aquired in previous semesters. In semester 3 for example, we learned what an API was and how to use them. I used this knowledge to create the dynamically layered method using the [whisper](/Documents/Whisper.md), [ChatGPT](/Documents/ChatGPT%20API.md) and [11labs](/Documents/11Labs.md) API's. 
+For my situation orientation I have applied a lot of knowledge and skills that I acquired in previous semesters. In semester 3 for example, we learned what an API was and how to use them. I used this knowledge to create the dynamically layered method using the [whisper](/Documents/Whisper.md), [ChatGPT](/Documents/ChatGPT%20API.md) and [11labs](/Documents/11Labs.md) API's. 
 
- 
-Previous acquired knowledge 
-(one page design) 
-(design challenge)
-everything unity
-API's (semester 3)
+During my internship at PIT, I've applied a wide range of knowledge and skills that I've acquired during my previous semesters to create a working unity project with advanced technical aspects.
+
+#### Game Design and Unity Development:
+
+In my 4th semester I did the Game Design & Technology specialization. In which I learned the main principles and methods of creating a game. Like a [One Page Design](/documents/OnePageDesign) and a [Design Challenge](/documents/DesignChallenge). This allowed me to properly plan out my project and this helped me to create this VR / educational / enjoyable product.
+
+This was complimented by my foundation of Unity game development I got during this semester. This was essential in the creation of my game in every aspect.
+
+#### API Integration:
+
+Then there was my 3rd semester (Software) in which I learned a lot about what an API is and how to use them. This knowledge was put to good use too in this project. I used the [Whisper API](/documents/WhisperAPI) for voice recognition, the [ChatGPT API](/documents/ChatGPT) for generating AI responses, and the [11Labs API](/documents/11Labs) for converting text responses to speech. By combining these APIs, I was able to create a game experience where the students can have real-time conversations with AI characters.
 
 [Return to table of contents](#table-of-contents) 
 
