@@ -238,8 +238,12 @@ Also, during my internship I really liked to lead a project and or arrange to go
 
 For this learning outcome we made a good start by planning a weekly meeting with my stakeholder, assessor and internship manager. This really helped smooth my project along during the entirety of my internship. This also helped me improve my communication skills tremendously.
 
+![images](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/Meeting%20(Small).png)
+
 I kept the people involved up to date as much as possible and all the communication was friendly and constructive. There were also other teacher that I had contact with, for example English teachers since they heard about my project and thought it could be useful for them as well.
 Then there was the communication with my possible successor. Since this project is not finished when I end my internship, it can be continued by a new intern. This is why I had to conversation with a potential intern at PIT who was interested in my project. And last but not least I gave multiple demo's to all the other interns to share experiences and ideas.
+
+![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/DemoXrEvent%20(Small).jpg)
 
 [Return to table of contents](#table-of-contents) 
 
