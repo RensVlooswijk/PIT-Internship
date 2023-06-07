@@ -204,6 +204,9 @@ Furthermore, my vision of the project was always forward-looking, as I was const
 **Managing the Project**:
 I feel like I managed my project effectively by using all the proper tools like Trello and GitHub. I also showed my project on several occasions to my stakeholders and used their feedback to troubleshoot the issues.
 
+![Image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/GitHubGraph.png)
+![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/GithubContributions.png)
+
 [Return to table of contents](#table-of-contents) 
 
 ### 4. Investigative Problem Solving
