@@ -1,4 +1,5 @@
 **PIT-Internship**
+
 ![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/pit_logo_blokje.png)
 
 ## Internship Portfolio HBO-ICT
@@ -132,7 +133,7 @@ And an idea of the finished product:
 #### Design
 Before I started working in unity I first worked on a design. Both actual visual design and product design. Like the product tree as seen above any my [One Page Design Document](/Documents/One%20Page%20Design%20Document.md). And I created some sketches of what I thought the end product should look like:
 
-![Image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/WaiterSketch4.png)![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/SketchWaiter3.png) ![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/WaiterSketch1.png)
+![Image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/WaiterSketch4%20(Custom).png)![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/SketchWaiter3%20(Custom).png) ![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/WaiterSketch1%20(Custom).png)
 
 The end product does not look exactly the same as I predicted ofcourse but it did help me shape an idea in my head and work towards that.
 
