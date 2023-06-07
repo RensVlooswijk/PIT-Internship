@@ -227,7 +227,7 @@ multiple Demos for all interns
 
 ## Research overview
 As seen throughout this portfolio I have conducted mulitple researches with each a corresponding research document.
-[Click here to see an overview of all my research documents](/Documents)
+[Click here to see an overview of all my research documents](/Documents/README.md)
 
 ## Conclusion
 
