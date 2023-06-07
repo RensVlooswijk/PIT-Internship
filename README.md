@@ -195,13 +195,14 @@ Then there was my 3rd semester (Software) in which I learned a lot about what an
 ### 3. Future-Oriented Organization
 > You explore the organizational context of your project, make business, sustainable and ethical considerations and manage all aspects of the execution of the project.
 
-During my internship, I 
+**Exploring Organizational Context**:
+The first day I started as an intern I was given a presentation and explanation of the organizational context of both ROC Tilburg and PIT. This helped me know who to go for if I needed help. I also kept close contact with the people that were important for me within the organization, like Erdinç, Daan and Rudy, through weekly meetings.
 
-Throughout my internship, I successfully navigated the organizational context of ROC Tilburg and PIT. I kept in close contact with stakeholders via weekly meetings and accommodated their needs in my project. This was validated by the interest shown by teachers at "het Schakelcollege."
+**Business, Sustainable, and Ethical Considerations**:
+Furthermore, my vision of the project was always forward-looking, as I was constantly looking for new technologies and had scalability in mind. I also created a internship takeover document so that my project can be taken over after my internship ends. During the project I also considered the cost-effectiveness, as I made sure to use API's and tools that were free, cheap and or scalable.
 
-The VR language learning game was designed with business, sustainability, and ethical considerations in mind. Its scalability and use of existing tech infrastructure position it well for future growth, while data from user testing was handled with careful attention to privacy and safety.
-
-Effective project management was key to my work, as I adhered to a project plan, tracked progress, and managed tasks diligently. I also prepared a comprehensive transfer report to ensure a smooth transition for the next intern, demonstrating a future-oriented approach.
+**Managing the Project**:
+I feel like I managed my project effectively by using all the proper tools like Trello and GitHub. I also showed my project on several occasions to my stakeholders and used their feedback to troubleshoot the issues.
 
 [Return to table of contents](#table-of-contents) 
 
