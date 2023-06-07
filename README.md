@@ -1,8 +1,8 @@
-# **PIT-Internship**
+	# **PIT-Internship**
 ![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/pit_logo_blokje.png)
 
-##  Portfolio HBO-ICT
-### Fontys Hogeschool
+## Internship Portfolio HBO-ICT
+### Fontys University of applied sciences
 
 ![fontys-39-logo-png-transparent (Smaller)](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/fontys-39-logo-png-transparent%20(Smaller).png)
 
@@ -16,6 +16,13 @@
 | Adress | Locomotiefboulevard 101-119, 5041SE Tilburg |
 | Company Supervisor | Erdinc Sacan |
 | School Supervisor | Lisette Overkamp-Penterman |
+
+Goedgekeurd en getekend door de stagebegeleider: 
+Datum: 
+Handtekening:
+<div style="border: 1px solid darkblue; width: 50%; height: 200px; margin: 0 auto;">
+  
+</div>
 
 ## Table of Contents
 
@@ -80,17 +87,15 @@ The most obvious way would be user test and ask feedback in a questionnaire form
 ### 4.	
 > What are the key steps and best practices for creating a successful proof of concept for a new product or technology?
 
+To create a successful proof of concept you need to involve several steps:
 
+- Identify the problem: Start by making sure you have a good understanding of the problem that you are trying to solve, and how your project can address it.
+- Definition of success: In semester 3 we learned about the definition of done, which is really similar. But it means to know beforehand when your proof of concept is successful.
+- Develop a prototype: Create a simple but working version of your project that only focuses on the main functionality.
+- Test and gather feedback: Follow this up by using the prototype to test your project and get feedback.
+- Analyze results and make decisions: And finally you need to make decisions about whether you want to proceed based on given feedback.
 
-Creating a successful proof of concept involves several key steps:
-
-- Identify the problem: Make sure you have a clear understanding of the problem you're trying to solve and how your new product or technology can address it.  
-- Define success criteria: Determine what outcomes would indicate success for your proof of concept.  
-- Develop a prototype: Create a simplified version of your product or technology that focuses on testing the core functionality.  
-- Test and gather feedback: Use your prototype to test your assumptions and gather feedback from potential users.  
-- Analyze results and make decisions: Based on the feedback and results of your tests, make decisions about whether and how to proceed with development.
-
-Best practices include involving potential users in the testing and feedback process, being open to negative feedback and ready to make changes, and focusing on learning and improvement rather than trying to get everything perfect in the initial version.
+These are the steps I found to be the most useful for me. This helped me create a proper proof of concept. After which I started with a MVP but there was not enough time in my semester to complete that as much as I originally wanted. 
 
 [Return to table of contents](#table-of-contents) 
 
@@ -180,9 +185,13 @@ Effective project management was key to my work, as I adhered to a project plan,
 ### 4. Investigative Problem Solving
 > You take a critical look at your project from different perspectives, identify problems, find an effective approach and arrive at appropriate solutions.
 
+
+
 Your portfolio shows that you took a critical look at the project from different perspectives. You identified problems related to the language learning of refugee students and formulated an effective approach to address these problems. Your solution involves developing a VR game to improve the Dutch language proficiency of the students. You also looked at different options to solve the issue, which included tools like Inworld, Windows speech recognition, and a combination of Whisper, ChatGPT, and 11labs APIs​[1](https://github.com/RensVlooswijk/PIT-Internship)​.
 
 different options of solutions (inworld, Windows speech recognition, whisper + chatgpt + 11labs)
+
+[Return to table of contents](#table-of-contents) 
 
 ### 5. Personal Leadership 
 > You are entrepreneurial around your projects and personal development, you pay attention to your own learning ability and keep in mind what kind of IT professional and/or what type of >positions you aspire to.
@@ -191,6 +200,8 @@ Your portfolio demonstrates that you showed initiative and entrepreneurial spiri
 
 offered to help when asked in chat by Erdinc (often)
 went to all conferences / events (beursen) VR expo, IT festival, XR event voluntarily
+
+[Return to table of contents](#table-of-contents) 
 
 ### 6. Targeted Interaction 
 > You determine which partners play a role in your project, collaborate constructively with them and communicate appropriately to achieve the desired impact.
