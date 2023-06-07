@@ -223,6 +223,12 @@ During my internship this posed some problems. The main one of course being: wha
 
 This learning outcome I tackled by doing as much as possible for my internship company outside of my main project. Like go to events like the [Fontys XR event](), [Fontys VR Expo]() and the [AI IT Festival](). I thought these events were very educational and my internship appreciated me going. I also spend 1 day a week at Aero, a student team for the TU, for my internship. Furthermore if there were questions about a new tool which needed to be tested I was eager to do so most of the time, Especially if it was AI related. 
 
+![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/AeroLogo.png)
+
+![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/FontysXREvent%20(Small).jpg)
+
+![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/fontys-it-festival%20(Small).jpg)
+
 Also, during my internship I really liked to lead a project and or arrange to go to these events with other interns, and this inspired me to run for president/board member for my study association [Salve Mundi](salvemundi.nl) for next year.
 
 [Return to table of contents](#table-of-contents) 
