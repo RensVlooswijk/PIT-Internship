@@ -122,7 +122,7 @@ And an idea of the finished product:
 To see my realization of the project you can of course see the entire project within this GitHub page. But for my portfolio I will give a short summary of the things I have done.
 It starts with the multiple options I had to realize the project. Check out this link [too see all my research](/Documents) . But when I started with this project I found a tool called Inworld.Ai. which I then used to create a demo scene.
 
-![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/InworldAIDemoPhoto.png)
+![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/InworldDemoAsAGif.gif)
 
 However this was not optimal as a final product as you can read in my [inworld.ai research](Documents/InworldAi.md) . So I set out to find a different method. Which ended up being a combination of different API's.
 It works as followed: When the player starts to speak I start an audio recording which ends when the players stops speaking. I then save this file and send it to the [Whisper API](Docuements/Whisper.md) which transcribes what is said. This API then sends back a text file that I in turn send to the [ChatGPT API](Documents/ChatGPT%20API.md) . This then formulates an answer based on how I prompted the GPT chat beforehand. Finally I will send this answer to the [11Labs API](Documents/11Labs.md) which will speak the text in a voice to my choosing.
