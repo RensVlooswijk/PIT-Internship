@@ -1,4 +1,4 @@
-	# **PIT-Internship**
+**PIT-Internship**
 ![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/pit_logo_blokje.png)
 
 ## Internship Portfolio HBO-ICT
@@ -17,9 +17,9 @@
 | Company Supervisor | Erdinc Sacan |
 | School Supervisor | Lisette Overkamp-Penterman |
 
-Goedgekeurd en getekend door de stagebegeleider: 
-Datum: 
-Handtekening:
+Approved and signed by internship supervisor: 
+Date: 
+Signature:
 <div style="border: 1px solid darkblue; width: 50%; height: 200px; margin: 0 auto;">
   
 </div>
@@ -36,7 +36,7 @@ Handtekening:
 - [Learning Outcomes](#learning-outcomes)
      - [Professional duties](#1-professional-duties)
      - [Situation-orientation](#2-situation-orientation)
-     - [Future-Oriented Organisation](#3-future-oriented-organisation)
+     - [Future-Oriented Organization](#3-future-oriented-organisation)
      - [Investigative Problem Solving](#4-investigative-problem-solving)
      - [Personal Leadership](#5-personal-leadership)
      - [Targeted Interaction](#6-targeted-interaction)
