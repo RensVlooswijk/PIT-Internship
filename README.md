@@ -204,6 +204,9 @@ Furthermore, my vision of the project was always forward-looking, as I was const
 **Managing the Project**:
 I feel like I managed my project effectively by using all the proper tools like Trello and GitHub. I also showed my project on several occasions to my stakeholders and used their feedback to troubleshoot the issues.
 
+![Image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/GitHubGraph.png)
+![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/GithubContributions.png)
+
 [Return to table of contents](#table-of-contents) 
 
 ### 4. Investigative Problem Solving
@@ -211,7 +214,7 @@ I feel like I managed my project effectively by using all the proper tools like 
 
 When I first came to PIT I had conversations with some of the teachers, and one of the projects they had to offer really stood out to me. There had already been a problem analysis so I didn't have to identify the problems (of the real life problem) anymore. However I took a critical look at the solutions that were possible. After this we decided on a VR game where you can have a dynamic conversation. 
 
-During my internship this posed some problems. The main one of course being: what is the best way to create a conversational non-player character (NPC). This inspired my next research sessions, the [Option Research](/Documents). During my research I found multiple ways to solve my problem including: Inworld AI, Windows Speech recognition and a combination of API's. Then I followed this up with separate research on each option and came to some conclusions and solutions which can be found in said option research. It also further shows my problem identifying this semester since with each possible option there were pro's and con's .
+During my internship this posed some problems. The main one of course being: what is the best way to create a conversational non-player character (NPC). This inspired my next research sessions, the [Option Research](/Documents/OptionResearch.md). During my research I found multiple ways to solve my problem including: Inworld AI, Windows Speech recognition and a combination of API's. Then I followed this up with separate research on each option and came to some conclusions and solutions which can be found in said option research. It also further shows my problem identifying this semester since with each possible option there were pro's and con's .
 
 [Return to table of contents](#table-of-contents) 
 
