@@ -62,6 +62,8 @@ Develop a virtual reality game to teach Dutch language to refugees at ROC Tilbur
 
 ## Research Questions
 
+![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/DotFramework.jpg)
+
 | Research Question | DOT Framework Categories | Method | Actions Taken | Expected Product |
 | --- | --- | --- | --- | --- |
 | **Main Question:** How effective is VR technology in teaching Dutch language to the students, and what are the best practices for designing and developing a VR game for this purpose? | Field, Showroom | Prototype Creation, User Testing | I designed and developed a prototype VR game, conducted user testing with students, and gathered their feedback. | A Proof of Concept VR Game, User Test Data |
@@ -127,6 +129,13 @@ And an idea of the finished product:
 
 ![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/EndProductTree.png)
 
+#### Design
+Before I started working in unity I first worked on a design. Both actual visual design and product design. Like the product tree as seen above any my [One Page Design Document](/Documents/One%20Page%20Design%20Document.md). And I created some sketches of what I thought the end product should look like:
+
+![Image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/WaiterSketch4.png)![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/SketchWaiter3.png) ![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/WaiterSketch1.png)
+
+The end product does not look exactly the same as I predicted ofcourse but it did help me shape an idea in my head and work towards that.
+
 #### Realize
 To see my realization of the project you can of course see the entire project within this GitHub page. But for my portfolio I will give a short summary of the things I have done.
 It starts with the multiple options I had to realize the project. Check out this link [too see all my research](/Documents) . But when I started with this project I found a tool called Inworld.Ai. which I then used to create a demo scene.
@@ -170,11 +179,15 @@ During my internship at PIT, I've applied a wide range of knowledge and skills t
 
 In my 4th semester I did the Game Design & Technology specialization. In which I learned the main principles and methods of creating a game. Like a [One Page Design](/Documents/One%20Page%20Design%20Document.md) and a [Design Challenge](/documents/DesignChallenge). This allowed me to properly plan out my project and this helped me to create this VR / educational / enjoyable product.
 
+![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/Schermafbeelding%202023-06-07%20134349.png)
+
 This was complimented by my foundation of Unity game development I got during this semester. This was essential in the creation of my game in every aspect.
 
 #### API Integration:
 
 Then there was my 3rd semester (Software) in which I learned a lot about what an API is and how to use them. This knowledge was put to good use too in this project. I used the [Whisper API](Docuements/Whisper.md) for voice recognition, the [ChatGPT API](Documents/ChatGPT%20API.md) for generating AI responses, and the [11Labs API](/Documents/11Labs.md) for converting text responses to speech. By combining these APIs, I was able to create a game experience where the students can have real-time conversations with AI characters.
+
+![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/swagger.gif)
 
 [Return to table of contents](#table-of-contents) 
 
