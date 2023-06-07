@@ -57,15 +57,24 @@ The goal of the project is to provide a virtual environment for students to prac
 
 The benefits of the project include improved language skills, increased confidence while speaking, and the ability to practice speaking Dutch anytime and anywhere. The VR restaurant game will offer students the possibility of having realistic conversations with a virtual waiter and provide an immersive learning experience. The product or project result will offer the capability of practicing language skills in a virtual environment and provide the facility of real-time 
 
-### The Assignemnt
+### The Assignment
 Develop a virtual reality game to teach Dutch language to refugees at ROC Tilburg, improving language proficiency, engagement, motivation, and success, aging 18 to 50.
 
 ## Research Questions
 
+| Research Question | DOT Framework Categories | Method | Actions Taken | Expected Product |
+| --- | --- | --- | --- | --- |
+| **Main Question:** How effective is VR technology in teaching Dutch language to the students, and what are the best practices for designing and developing a VR game for this purpose? | Field, Showroom | Prototype Creation, User Testing | I designed and developed a prototype VR game, conducted user testing with students, and gathered their feedback. | A Proof of Concept VR Game, User Test Data |
+| **Sub Question 1:** What is the current state of research on the use of VR technology in language learning, and how does it compare to traditional language learning methods? | Library | Literature Review | I conducted a literature review of existing research on VR in language learning and compared it with traditional methods. | Literature Review Document |
+| **Sub Question 2:** What are the challenges and considerations when using VR technology for language learning, particularly for the students? | Field | Literature Review, User Feedback | I identified potential challenges through literature and feedback from user testing, then incorporated solutions in the game design. | Research documents for each of the problems I encountered |
+| **Sub Question 3:** How can we evaluate the effectiveness of the VR game in terms of language proficiency and engagement, and what are the best practices for gathering feedback from the students? | Field, Lab | User Testing, Feedback Collection | I conducted user testing and collected feedback through a questionnaire, which informed further refinements of the VR game. | User Test Data, Feedback Collection Methodology |
+| **Sub Question 4:** What are the key steps and best practices for creating a successful proof of concept for a new product or technology? | Workshop | Prototype Development, User Feedback, Analysis | I followed key steps for creating a successful proof of concept, which included prototype development, user testing, and analysis of feedback. | Proof of Concept Guide |
+
+
 ### Main Question: 
 > How effective is virtual reality technology in teaching Dutch language to the students, and what are the best practices for designing and developing a virtual reality game for this purpose?
 
-A lot of research has been done with the goal of answering a similar question. Because from the moment VR headsets were publically available people have seen its potention in education. But for this specific use-case there is no concrete answer. This is why I made a prove of concept and a minimal viable product, To see if the refugee students of "het schakelcollege" would benefit from using virtual reality in their education. And my answer is Yes, it helps. Atleast the MVP I made. The students really enjoyed it and were really engaged. The only problem with my research is that it is a combination of both VR and AI. Because in this case I am not 100% sure the VR was contributing a lot or if it was all by the game/AI itself.
+A lot of research has been done with the goal of answering a similar question. Because from the moment VR headsets were publicly available people have seen its potential in education. But for this specific use-case there is no concrete answer. This is why I made a prove of concept and a minimal viable product, To see if the refugee students of "het Schakelcollege" would benefit from using virtual reality in their education. And my answer is Yes, it helps. At least the MVP I made. The students really enjoyed it and were really engaged. The only problem with my research is that it is a combination of both VR and AI. Because in this case I am not 100% sure the VR was contributing a lot or if it was all by the game/AI itself.
 
 ### Sub Questions:
 
@@ -185,26 +194,25 @@ Effective project management was key to my work, as I adhered to a project plan,
 ### 4. Investigative Problem Solving
 > You take a critical look at your project from different perspectives, identify problems, find an effective approach and arrive at appropriate solutions.
 
+When I first came to PIT I had conversations with some of the teachers, and one of the projects they had to offer really stood out to me. There had already been a problem analysis so I didn't have to identify the problems (of the real life problem) anymore. However I took a critical look at the solutions that were possible. After this we decided on a VR game where you can have a dynamic conversation. 
 
-
-Your portfolio shows that you took a critical look at the project from different perspectives. You identified problems related to the language learning of refugee students and formulated an effective approach to address these problems. Your solution involves developing a VR game to improve the Dutch language proficiency of the students. You also looked at different options to solve the issue, which included tools like Inworld, Windows speech recognition, and a combination of Whisper, ChatGPT, and 11labs APIs​[1](https://github.com/RensVlooswijk/PIT-Internship)​.
-
-different options of solutions (inworld, Windows speech recognition, whisper + chatgpt + 11labs)
+During my internship this posed some problems. The main one of course being: what is the best way to create a conversational non-player character (NPC). This inspired my next research sessions, the [Option Research](/Documents). During my research I found multiple ways to solve my problem including: Inworld AI, Windows Speech recognition and a combination of API's. Then I followed this up with separate research on each option and came to some conclusions and solutions which can be found in said option research. It also further shows my problem identifying this semester since with each possible option there were pro's and con's .
 
 [Return to table of contents](#table-of-contents) 
 
 ### 5. Personal Leadership 
-> You are entrepreneurial around your projects and personal development, you pay attention to your own learning ability and keep in mind what kind of IT professional and/or what type of >positions you aspire to.
+> You are entrepreneurial around your projects and personal development, you pay attention to your own learning ability and keep in mind what kind of IT professional and/or what type of positions you aspire to.
 
-Your portfolio demonstrates that you showed initiative and entrepreneurial spirit throughout your project. You offered help when needed, attended all conferences and events related to your field, and actively participated in discussions and meetings. You also demonstrated a commitment to your personal learning and development, which is evident from your active participation in various events like the VR expo, IT festival, and XR event​.
+This learning outcome I tackled by doing as much as possible for my internship company outside of my main project. Like go to events like the [Fontys XR event](), [Fontys VR Expo]() and the [AI IT Festival](). I thought these events were very educational and my internship appreciated me going. I also spend 1 day a week at Aero, a student team for the TU, for my internship. Furthermore if there were questions about a new tool which needed to be tested I was eager to do so most of the time, Especially if it was AI related. 
 
-offered to help when asked in chat by Erdinc (often)
-went to all conferences / events (beursen) VR expo, IT festival, XR event voluntarily
+Also, during my internship I really liked to lead a project and or arrange to go to these events with other interns, and this inspired me to run for president/board member for my study association [Salve Mundi](salvemundi.nl) for next year.
 
 [Return to table of contents](#table-of-contents) 
 
 ### 6. Targeted Interaction 
 > You determine which partners play a role in your project, collaborate constructively with them and communicate appropriately to achieve the desired impact.
+
+
 
 The portfolio illustrates your ability to identify key partners and stakeholders in your project, and to collaborate with them constructively. You had weekly meetings with your stakeholder and assessor, and you interacted with your internship manager and other teachers relevant to your project. You also demonstrated the ability to communicate effectively to achieve the desired impact, which is evident from your interaction with the future internship student and the demo presentations you gave to all interns​.
 
@@ -217,12 +225,6 @@ multiple Demos for all interns
 
 [Return to table of contents](#table-of-contents) 
 
-### Built With
-
-<!-- TODO: List any MAJOR libraries/frameworks (e.g. React, Tailwind) with links to their homepages. -->
-
-## Features
-
 ## Research overview
 As seen throughout this portfolio I have conducted mulitple researches with each a corresponding research document.
 [Click here to see an overview of all my research documents](/Documents)
@@ -230,12 +232,4 @@ As seen throughout this portfolio I have conducted mulitple researches with each
 ## Conclusion
 
 ## Review
-
-## Contact
-
-<!-- TODO: Include icons and links to your RELEVANT, PROFESSIONAL 'DEV-ORIENTED' social media. LinkedIn and dev.to are minimum. -->
-
-## Acknowledgements
-
-<!-- TODO: List any blog posts, tutorials or plugins that you may have used to complete the project. Only list those that had a significant impact. Obviously, we all 'Google' stuff while working on our things, but maybe something in particular stood out as a 'major contributor' to your skill set for this project. -->
 

@@ -148,6 +148,12 @@
   },
   "active": "73b2c7dec721e2b4",
   "lastOpenFiles": [
+    "().md",
+    "README.md",
+    "PortfolioAssets/WaiterSketch4",
+    "PortfolioAssets/SketchWaiter3",
+    "PortfolioAssets/SketchWaiter2",
+    "PortfolioAssets/WaiterSketch1",
     "PortfolioAssets/InworldDemoAsAGif.gif",
     "TableTalk/Temp/UnityTempFile-0ed90ba5b42582140903b04083767f54",
     "PortfolioAssets/InworldDemoVideo.mp4",
@@ -155,10 +161,6 @@
     "TableTalk/Temp/UnityTempFile-73e0253b46ce0fa44911a6259597d809",
     "TableTalk/Library/ShaderCache.db-journal",
     "TableTalk/Temp/UnityTempFile-ce95e289fcd9f3c4b8146ea360627303",
-    "TableTalk/Library/Artifacts/3a/3aa7e28d14f5d44640f2734e9dd7c93c",
-    "TableTalk/Library/TempArtifacts/Extra/6257cba6fa7aeba448977fecc9616023",
-    "TableTalk/Temp/UnityTempFile-1c5cd45d0422a9447985842c2036bdce",
-    "TableTalk/Temp/UnityTempFile-e6cb0203afab950439d90caaad3fc46f",
     "TableTalk/Assets/Inworld.AI/DefaultInworldUser/Thumbnails/walter_waiter_table_talk_.png",
     "TableTalk/Assets/Inworld.AI/DefaultInworldUser/Thumbnails/timmy_test_table_talk_.png",
     "TableTalk/Temp/Export Package/6b7529449d75ffb488e71b2a1af0fee5/e1042320140e3904082e09e7a8735ba7/preview.png",
@@ -168,7 +170,6 @@
     "TableTalk/Temp/Export Package/6b7529449d75ffb488e71b2a1af0fee5/88761fb7dc3b12d499c0da9a64348c1b/preview.png",
     "TableTalk/Temp/Export Package/6b7529449d75ffb488e71b2a1af0fee5/763c1d4efb0d6004f8e56e9c73afac82/preview.png",
     "TableTalk/Temp/Export Package/6b7529449d75ffb488e71b2a1af0fee5/620bc6d17d2a35a47a5994bab7d557c4/preview.png",
-    "TableTalk/Temp/Export Package/6b7529449d75ffb488e71b2a1af0fee5/25f5761366687624b8726da5bd157233/preview.png",
     "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/TableOfContents.md",
     "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/QuickStartGuide.md",
     "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/ReconnectCB.md",
@@ -192,7 +193,6 @@
     "TableTalk/Library/PackageCache/com.unity.timeline@1.6.5/Documentation~/wf_nested.md",
     "TableTalk/Library/PackageCache/com.unity.timeline@1.6.5/Documentation~/wf_mask.md",
     "TableTalk/Library/PackageCache/com.unity.timeline@1.6.5/Documentation~/wf_conv_infinite.md",
-    "TableTalk/Library/PackageCache/com.unity.timeline@1.6.5/Documentation~/wf_char_anim.md",
-    "TableTalk/Library/PackageCache/com.unity.timeline@1.6.5/Documentation~/uss_styles.md"
+    "TableTalk/Library/PackageCache/com.unity.timeline@1.6.5/Documentation~/wf_char_anim.md"
   ]
 }
