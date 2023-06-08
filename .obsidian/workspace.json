@@ -148,6 +148,14 @@
   },
   "active": "73b2c7dec721e2b4",
   "lastOpenFiles": [
+    "Documents/ChatGPT API.md",
+    "Documents/Windows Speech Recognition.md",
+    "Documents/11Labs.md",
+    "README.md",
+    "Documents/Whisper.md",
+    "Documents/README.md",
+    "Documents/Learning Outcomes Explained.md",
+    "Documents/InworldAi.md",
     "PortfolioAssets/DemoXrEvent (Small).jpg",
     "PortfolioAssets/DemoXrEvent.jpg",
     "PortfolioAssets/Meeting (Small).png",
@@ -160,7 +168,6 @@
     "PortfolioAssets/fontys-it-festival.jpg.crdownload",
     "PortfolioAssets/GitHubGraph.png",
     "PortfolioAssets/Schermafbeelding 2023-06-07 141715 (Custom).png",
-    "PortfolioAssets/GithubContributions.png",
     "PortfolioAssets/swagger.gif.crdownload",
     "PortfolioAssets/Logo-workshop.png.crdownload",
     "PortfolioAssets/Logo-showroom.png.crdownload",
@@ -171,7 +178,6 @@
     "TableTalk/Temp/UnityTempFile-5a7ddb0bf9a2e734e8afe9d503810961",
     "Documents/OptionResearch.md",
     "().md",
-    "README.md",
     "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/TableOfContents.md",
     "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/QuickStartGuide.md",
     "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/ReconnectCB.md",
@@ -187,12 +193,6 @@
     "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/ExistingRepo.md",
     "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/AccessRemoteProjects.md",
     "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Third Party Notices.md",
-    "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/LICENSE.md",
-    "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/README.md",
-    "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/CHANGELOG.md",
-    "TableTalk/Library/PackageCache/com.unity.timeline@1.6.5/Documentation~/wf_instance.md",
-    "TableTalk/Library/PackageCache/com.unity.timeline@1.6.5/Documentation~/wf_rec_anim.md",
-    "TableTalk/Library/PackageCache/com.unity.timeline@1.6.5/Documentation~/wf_nested.md",
-    "TableTalk/Library/PackageCache/com.unity.timeline@1.6.5/Documentation~/wf_mask.md"
+    "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/LICENSE.md"
   ]
 }

@@ -113,7 +113,7 @@ These are the steps I found to be the most useful for me. This helped me create 
 
 ## Learning Outcomes
 
-To see more detailed / explained versions of the learning outcomes check out [Learning Outcomes Explained](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/Learning%20Outcomes%20Explained.md#learning-outcomes-explained)
+To see more detailed versions of the learning outcomes check out [Learning Outcomes Explained](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/Learning%20Outcomes%20Explained.md#learning-outcomes-explained)
 
 ### 1. Professional Duties
 > You carry out the professional duties on a junior bachelor level resulting in professional products in line with the IT-area you are working in.
@@ -247,9 +247,13 @@ Then there was the communication with my possible successor. Since this project 
 
 [Return to table of contents](#table-of-contents) 
 
-## Research overview
+## Document overview
 As seen throughout this portfolio I have created multiple (research) documents. 
 [Click here to see an overview of all my (research) documents](/Documents/README.md)
+
+## Product summary
+
+In conclusion, I created a game for refugee students that are learning Dutch. When you start the game you are presented by 2 options, InworldAI and ChatGPT (so the teacher can pick what works best for them). If you click InworldAI you stand in a restaurant where you can walk around. In the restaurant there is a waiter, whenever you go near him you can start speaking (in English) and he will respond. If you click ChatGPT it is almost the same, except it is less polished and some of the character features are missing, but the answers can be in almost any language (including Dutch).
 
 ## Conclusion
 
