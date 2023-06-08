@@ -255,7 +255,24 @@ As seen throughout this portfolio I have created multiple (research) documents.
 
 In conclusion, I created a game for refugee students that are learning Dutch. When you start the game you are presented by 2 options, InworldAI and ChatGPT (so the teacher can pick what works best for them). If you click InworldAI you stand in a restaurant where you can walk around. In the restaurant there is a waiter, whenever you go near him you can start speaking (in English) and he will respond. If you click ChatGPT it is almost the same, except it is less polished and some of the character features are missing, but the answers can be in almost any language (including Dutch).
 
-## Conclusion
+## Conclusion:
 
-## Review
 
+
+The project "Language Learning through Virtual Reality" embarked on a challenging yet enriching journey of using innovative technology in the context of language education. It showcased an effective integration of Virtual Reality and AI to foster an engaging, immersive environment for learning the Dutch language by refugee students.
+
+Throughout the project, the careful alignment of the chosen technology with the users' needs and the organizational context was commendable. The emphasis on authentic, user-centric experiences in the design phase was instrumental in creating a solution that is both enjoyable and effective.
+
+From a technical standpoint, the application of skills such as working with Unity and various APIs, alongside a clear understanding of VR and AI's potential in education, showed a strong grasp of the necessary skills and knowledge. The ability to balance these technical aspects with project management, stakeholder engagement, and business and ethical considerations indicates a well-rounded understanding of how to execute a project successfully in a real-world context.
+
+The systematic approach to tackling research questions, making use of various methods such as user testing and questionnaires, contributed significantly to the project's robustness. Additionally, the iterative approach of refining the proof of concept and developing a minimum viable product proved beneficial.
+
+## Review:
+
+In terms of improvement, the scope for more rigorous validation of results exists. Future iterations of the project could employ more in-depth methods of testing the effectiveness of VR and AI in language learning. While the project was successful within its given scope, a broader and more detailed study could provide more concrete data on VR's effectiveness versus traditional language learning tools.
+
+The portfolio itself is meticulously organized and clearly outlines the progression of the project. It demonstrates the depth of the work done, from conceptualization to execution. The detailed documentations of API research, project plans, design documents, and reflection on learning outcomes all add to its comprehensiveness.
+
+The evidence of stakeholder engagement, the process of developing the VR solution, and the insights gained from user feedback are all well documented and provide a clear narrative of the project's journey. This not only makes the portfolio a valuable record of the project but also a resource for anyone wishing to build upon this work in the future.
+
+Overall, the portfolio and project are a testament to the effective use of VR and AI in a pedagogical context, a demonstration of the individual's ability to successfully execute a complex, multi-faceted project, and an inspiration for further innovation in the field.

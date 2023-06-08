@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Documents/OptionResearch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Documents/OptionResearch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Documents/OptionResearch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Documents/OptionResearch.md"
               }
             }
           }
@@ -148,11 +148,22 @@
   },
   "active": "73b2c7dec721e2b4",
   "lastOpenFiles": [
-    "Documents/ChatGPT API.md",
-    "Documents/Windows Speech Recognition.md",
+    "Documents/Transfer Document.md",
     "Documents/11Labs.md",
     "README.md",
     "Documents/Whisper.md",
+    "TableTalk/Library/TempArtifacts/Primary/a9a6963505ddf7f4d886008c6dc86122",
+    "TableTalk/Temp/UnityTempFile-cb4e3f160ab9cfa45a6de57d3cff24e9",
+    "TableTalk/Temp/UnityTempFile-f618a9e9e1d672d4ab2128f7d7660e2f",
+    "TableTalk/Temp/FSTimeGet-2400a38682a658548aa050bf4b3d4623",
+    "TableTalk/Temp/FSTimeGet-8e209f5a3f092bc499e04b552e52847c",
+    "TableTalk/Logs/AssetImportWorker1.log",
+    "TableTalk/Logs/AssetImportWorker0.log",
+    "TableTalk/Temp/DefaultLayout2021.wlt",
+    "TableTalk/Temp/ProcessJobs",
+    "TableTalk/Library/EditorInstance.json",
+    "Documents/ChatGPT API.md",
+    "Documents/Windows Speech Recognition.md",
     "Documents/README.md",
     "Documents/Learning Outcomes Explained.md",
     "Documents/InworldAi.md",
@@ -160,22 +171,12 @@
     "PortfolioAssets/DemoXrEvent.jpg",
     "PortfolioAssets/Meeting (Small).png",
     "PortfolioAssets/AeroLogo.png",
-    "PortfolioAssets/AeroLogo.png.crdownload",
     "PortfolioAssets/FontysXREvent (Small).jpg",
     "PortfolioAssets/FontysXREvent.jpg",
     "PortfolioAssets/fontys-it-festival (Small).jpg",
     "PortfolioAssets/fontys-it-festival.jpg",
-    "PortfolioAssets/fontys-it-festival.jpg.crdownload",
     "PortfolioAssets/GitHubGraph.png",
     "PortfolioAssets/Schermafbeelding 2023-06-07 141715 (Custom).png",
-    "PortfolioAssets/swagger.gif.crdownload",
-    "PortfolioAssets/Logo-workshop.png.crdownload",
-    "PortfolioAssets/Logo-showroom.png.crdownload",
-    "PortfolioAssets/Logo-lab.png.crdownload",
-    "PortfolioAssets/Logo-field.png.crdownload",
-    "PortfolioAssets/Logo-library.png.crdownload",
-    "PortfolioAssets/DotFramework.jpg.crdownload",
-    "TableTalk/Temp/UnityTempFile-5a7ddb0bf9a2e734e8afe9d503810961",
     "Documents/OptionResearch.md",
     "().md",
     "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/TableOfContents.md",
@@ -192,7 +193,6 @@
     "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/CreateProjects.md",
     "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/ExistingRepo.md",
     "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/AccessRemoteProjects.md",
-    "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Third Party Notices.md",
-    "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/LICENSE.md"
+    "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Third Party Notices.md"
   ]
 }
