@@ -263,37 +263,30 @@ In conclusion, I created a game for refugee students that are learning Dutch. Wh
 ## Conclusion:
 
 For more detailed information about this project, its future scope, and how it can be taken forward, please refer to my [transfer document](/Documents/Transfer%20Document).
-But in as far for the learning outcomes. 
-**Professional Duties**
-
-The "Language Learning through Virtual Reality" project showcased professional duties at a junior bachelor level. The design and implementation of the VR solution, detailed API research, and careful project planning are all indicative of this.
-
-**Situation-Orientation**
-
-The project effectively applied previously acquired knowledge and skills in a real-world context, making it highly relevant to language learning for refugees.
-
-**Future-Oriented Organisation**
-
-There was a good understanding of the project's organizational context. The project had business, sustainability, and ethical aspects in mind, from the choice of APIs to the creation of a transfer document for project continuity.
-
-**Investigative Problem Solving**
-
-The project showed a critical problem-solving approach. An example was the decision to switch to the Whisper API due to limitations with the 11Labs API, showing adaptability and problem-solving skills.
-
-**Personal Leadership**
-
-A clear entrepreneurial spirit drove the project, with feedback sought and used to improve the project, reflecting strong personal leadership and learning awareness.
-
-**Targeted Interaction**
-
-Effective interaction was maintained with various stakeholders, ensuring the end product met user needs. High interaction management resulted in a project with significant impact.
-
-Potential improvements for future iterations include more in-depth testing of VR's effectiveness in language learning and a greater focus on sustainability factors, such as VR applications' energy usage.
+But overall this project has been very educational and has a lot of potential. I hope that with this portfolio I have made good contribution too interactive technologies in education.
 
 ## Review:
 
-The portfolio presents a meticulous approach, with detailed documentation of each step, including API research, project plans, design documents, and reflection on learning outcomes. It's a comprehensive record of the project, which could be used as a resource for future work.
+In general my internship has gone very smooth. I haven't had any major problems and everybody has been very helpful and nice. But of course I haven't only made good decisions. A lot could have been improved. I would like to review the rest of my portfolio according to the [learning outcomes](learning%20Outcomes%20Explained.md).
 
-Stakeholder engagement, VR solution development, and user feedback insights are well-documented. This provides a clear narrative of the project's progression, making the portfolio valuable for anyone wishing to expand upon this work.
+##### Professional Duties
+To start I made a project plan, which I had reviewed multiple times and I was very happy with the end result. But the Design could have been way better. Because before I started on my main project I hadn't really made a proper design on what I was going to make. In retrospect this would have been very helpful as well. Another issue of my professional duties was the project management. At the start I made multiple project and different vaults and different GitHub pages which became very cluttered very fast. But other than that it all went really well.
 
-Overall, the project meets all the learning outcomes, demonstrating an ability to perform professional duties, apply knowledge, organize with a future-oriented perspective, solve problems, lead personally, and interact effectively.
+**Situation-Orientation**
+As for my situational orientation, I used a lot of previously acquired knowledge since I did Game Design & Technology beforehand. This all came in very handy and I am glad I did so. Although my use of GitHub was less than optimal, the used tools and programs overall were the right ones.
+
+**Future-Oriented Organization**
+
+Then for future oriented organization, At the start of my internship I introduced myself to as many people of my internship as possible which was a good decision and I would recommend doing that too. Also the future aspect was covered very well in my eyes, As I had a conversation with possible new interns and could explain my project, and I made a [Transfer Document](Documents/Transfer%20Document) however the project management was not optimal. And if I were to do it again I would start by making a proper project architecture.
+
+**Investigative Problem Solving**
+
+For investigative problem solving I also made good calls and mistakes. I did proper research into possible solutions and then used this research to decide on a method to use. But I could have been more open minded towards other solutions that did not include AI. Since I am a fan of AI and would love to use it in my project I was very biased to using AI as a solution, this may have been a good thing but I should have been more open minded nonetheless.  
+
+**Personal Leadership**
+
+I feel like I handled personal leadership very well too. Because I have learned a lot on how it is done and feel like I have had a lot of personal development. I am very glad I went to as many events as I could since they were really helpful and interesting. But on the other side I never really thought about what kind of IT professional I want to be (which I should do).
+
+**Targeted Interaction**
+
+And lastly my targeted interactions, I determined which partners would play a role in my project early on and I am glad I did. But as my internship went along I lost sight of a few of them. And I would have liked to have more interactions with the actual students. 

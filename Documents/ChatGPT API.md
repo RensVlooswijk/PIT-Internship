@@ -23,6 +23,9 @@ ChatGPT has, as far as I found, no real limitations in and of itself. However wh
 
 ---
 
+## Personal experience
+I integrated ChatGPT into my MVP and this was a good decision since it is an amazing tool that can be improved again and again. However in its current state it is not the best solution for a conversational NPC.
+
 ## Conclusion
 In conclusion, The ChatGPT API is amazing and very useful for a lot of things. This is why I will be using it in my final project. However there are still some downsides for now, for which I will have to find workarounds. 
 
