@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documents/Transfer Document.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Transfer Document.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Transfer Document.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Transfer Document.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,7 +148,9 @@
   },
   "active": "73b2c7dec721e2b4",
   "lastOpenFiles": [
+    "Documents/Whisper.md",
     "README.md",
+    "Documents/Transfer Document.md",
     "Documents/Learning Outcomes Explained.md",
     "Documents/11Labs.md",
     "TableTalk/Temp/UnityTempFile-f08f27462e3cecf4bbef935a487c4bca",
@@ -162,8 +164,6 @@
     "TableTalk/Library/TempArtifacts/Extra/c166b1788cfd6b74a873289d482ab042",
     "TableTalk/Library/Artifacts/2f/2f081853cb2e6631eff3ebe443f2e047",
     "Documents/OptionResearch.md",
-    "Documents/Transfer Document.md",
-    "Documents/Whisper.md",
     "Documents/ChatGPT API.md",
     "Documents/Windows Speech Recognition.md",
     "Documents/README.md",

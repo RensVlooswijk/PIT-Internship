@@ -198,6 +198,8 @@ Then there was my 3rd semester (Software) in which I learned a lot about what an
 ### 3. Future-Oriented Organization
 > You explore the organizational context of your project, make business, sustainable and ethical considerations and manage all aspects of the execution of the project.
 
+First of all I created an [internship takeover document](/Documents/Transfer%20Document) so that my project can be taken over after my internship ends. As for the rest:
+
 **Exploring Organizational Context**:
 The first day I started as an intern I was given a presentation and explanation of the organizational context of both ROC Tilburg and PIT. This helped me know who to go for if I needed help. I also kept close contact with the people that were important for me within the organization, like Erdinç, Daan and Rudy, through weekly meetings.
 
@@ -260,6 +262,8 @@ In conclusion, I created a game for refugee students that are learning Dutch. Wh
 
 ## Conclusion:
 
+For more detailed information about this project, its future scope, and how it can be taken forward, please refer to my [transfer document](/Documents/Transfer%20Document).
+But in as far for the learning outcomes. 
 **Professional Duties**
 
 The "Language Learning through Virtual Reality" project showcased professional duties at a junior bachelor level. The design and implementation of the VR solution, detailed API research, and careful project planning are all indicative of this.
