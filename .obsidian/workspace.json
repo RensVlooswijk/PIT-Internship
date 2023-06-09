@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documents/OptionResearch.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/OptionResearch.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/OptionResearch.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/OptionResearch.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,20 +148,21 @@
   },
   "active": "73b2c7dec721e2b4",
   "lastOpenFiles": [
-    "Documents/Transfer Document.md",
     "Documents/11Labs.md",
     "README.md",
+    "TableTalk/Temp/UnityTempFile-f08f27462e3cecf4bbef935a487c4bca",
+    "TableTalk/Temp/UnityTempFile-6922ec8c3623c8146aae979a6235a658",
+    "TableTalk/Library/ShaderCache.db-journal",
+    "TableTalk/Temp/UnityTempFile-571ef6f1525cc7943bae11a3102e9d83",
+    "TableTalk/Library/Search/propertyDatabase.db_55810d3a7cdd4f279f611eef3a8f3aa4_temp",
+    "TableTalk/Library/Search/propertyDatabase.db_aa97608cf1874fe9b246dd11e9fe3166_temp",
+    "TableTalk/Library/Artifacts/63/636d50a235b9f0718ed8b873007fb09b",
+    "TableTalk/Library/Artifacts/f1/f13ad1230c8c8c6a07fa213cdd10fa5a",
+    "TableTalk/Library/TempArtifacts/Extra/c166b1788cfd6b74a873289d482ab042",
+    "TableTalk/Library/Artifacts/2f/2f081853cb2e6631eff3ebe443f2e047",
+    "Documents/OptionResearch.md",
+    "Documents/Transfer Document.md",
     "Documents/Whisper.md",
-    "TableTalk/Library/TempArtifacts/Primary/a9a6963505ddf7f4d886008c6dc86122",
-    "TableTalk/Temp/UnityTempFile-cb4e3f160ab9cfa45a6de57d3cff24e9",
-    "TableTalk/Temp/UnityTempFile-f618a9e9e1d672d4ab2128f7d7660e2f",
-    "TableTalk/Temp/FSTimeGet-2400a38682a658548aa050bf4b3d4623",
-    "TableTalk/Temp/FSTimeGet-8e209f5a3f092bc499e04b552e52847c",
-    "TableTalk/Logs/AssetImportWorker1.log",
-    "TableTalk/Logs/AssetImportWorker0.log",
-    "TableTalk/Temp/DefaultLayout2021.wlt",
-    "TableTalk/Temp/ProcessJobs",
-    "TableTalk/Library/EditorInstance.json",
     "Documents/ChatGPT API.md",
     "Documents/Windows Speech Recognition.md",
     "Documents/README.md",
@@ -177,7 +178,6 @@
     "PortfolioAssets/fontys-it-festival.jpg",
     "PortfolioAssets/GitHubGraph.png",
     "PortfolioAssets/Schermafbeelding 2023-06-07 141715 (Custom).png",
-    "Documents/OptionResearch.md",
     "().md",
     "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/TableOfContents.md",
     "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/QuickStartGuide.md",
@@ -192,7 +192,6 @@
     "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/AddMembers.md",
     "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/CreateProjects.md",
     "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/ExistingRepo.md",
-    "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/AccessRemoteProjects.md",
-    "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Third Party Notices.md"
+    "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/AccessRemoteProjects.md"
   ]
 }

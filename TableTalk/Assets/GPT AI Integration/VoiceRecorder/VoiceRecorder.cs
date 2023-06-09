@@ -135,33 +135,39 @@ namespace OpenAI.Integrations.ElevenLabs
             audioSource.Play();
         }
 
-        public async Task TranscriptRecording()
+       public async Task TranscriptRecording()
+{
+    Debug.Log("TranscriptRecording: Starting");
+    Debug.Log($"TranscriptRecording: AudioSource clip null? {audioSource.clip == null}");
+    var transcript = await SendTranscriptRequest(
+        audioSource.clip, // The audio file to be transcribed
+        "Hello, welcome to my lecture." // For details on Whisper API prompting, see: https://platform.openai.com/docs/guides/speech-to-text/prompting
+    );
+    if (transcript.IsSuccess)
+    {
+        Debug.Log($"TranscriptRecording: InputField null? {input == null}");
+        input.text = transcript.Result.text;
+        Debug.Log("TranscriptRecording: OpenAIDemo GetComponent null? " + (GetComponent<OpenAIDemo>() == null));
+        OpenAIDemo openAIDemo = GetComponent<OpenAIDemo>();
+        await openAIDemo.SendOpenAIRequest();
+        Debug.Log("TranscriptRecording: ELSpeaker GetComponent null? " + (GetComponent<ELSpeaker>() == null));
+        ELSpeaker ELSpeaker = GetComponent<ELSpeaker>();
+        ELSpeaker.SpeakSentenceFromInput();
+        Debug.Log("Playing response audio...");
+        GetComponent<AudioSource>().volume = 1;
+        // Check if the ELSpeaker is playing and wait until it stops playing
+        while (ELSpeaker.responsePlaying)
         {
-            var transcript = await SendTranscriptRequest(
-                audioSource.clip, // The audio file to be transcribed
-                "Hello, welcome to my lecture." // For details on Whisper API prompting, see: https://platform.openai.com/docs/guides/speech-to-text/prompting
-            );
-            if (transcript.IsSuccess)
-            {
-                input.text = transcript.Result.text;
-                OpenAIDemo openAIDemo = GetComponent<OpenAIDemo>();
-                await openAIDemo.SendOpenAIRequest();
-                ELSpeaker ELSpeaker = GetComponent<ELSpeaker>();
-                ELSpeaker.SpeakSentenceFromInput();
-                Debug.Log("Playing response audio...");
-                GetComponent<AudioSource>().volume = 1;
-                // Check if the ELSpeaker is playing and wait until it stops playing
-                while (ELSpeaker.responsePlaying)
-                {
-                    await Task.Yield();
-                }
-            }
-            else
-            {
-                input.text =
-                    $"ERROR: StatusCode: {transcript.HttpResponse.responseCode} - {transcript.HttpResponse.error}";
-            }
+            await Task.Yield();
         }
+    }
+    else
+    {
+        input.text =
+            $"ERROR: StatusCode: {transcript.HttpResponse.responseCode} - {transcript.HttpResponse.error}";
+    }
+}
+
 
         public async Task<ApiResult<TranscriptionV1>> SendTranscriptRequest(
             AudioClip clip,
