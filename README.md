@@ -260,22 +260,36 @@ In conclusion, I created a game for refugee students that are learning Dutch. Wh
 
 ## Conclusion:
 
+**Professional Duties**
 
+The "Language Learning through Virtual Reality" project showcased professional duties at a junior bachelor level. The design and implementation of the VR solution, detailed API research, and careful project planning are all indicative of this.
 
-The project "Language Learning through Virtual Reality" embarked on a challenging yet enriching journey of using innovative technology in the context of language education. It showcased an effective integration of Virtual Reality and AI to foster an engaging, immersive environment for learning the Dutch language by refugee students.
+**Situation-Orientation**
 
-Throughout the project, the careful alignment of the chosen technology with the users' needs and the organizational context was commendable. The emphasis on authentic, user-centric experiences in the design phase was instrumental in creating a solution that is both enjoyable and effective.
+The project effectively applied previously acquired knowledge and skills in a real-world context, making it highly relevant to language learning for refugees.
 
-From a technical standpoint, the application of skills such as working with Unity and various APIs, alongside a clear understanding of VR and AI's potential in education, showed a strong grasp of the necessary skills and knowledge. The ability to balance these technical aspects with project management, stakeholder engagement, and business and ethical considerations indicates a well-rounded understanding of how to execute a project successfully in a real-world context.
+**Future-Oriented Organisation**
 
-The systematic approach to tackling research questions, making use of various methods such as user testing and questionnaires, contributed significantly to the project's robustness. Additionally, the iterative approach of refining the proof of concept and developing a minimum viable product proved beneficial.
+There was a good understanding of the project's organizational context. The project had business, sustainability, and ethical aspects in mind, from the choice of APIs to the creation of a transfer document for project continuity.
+
+**Investigative Problem Solving**
+
+The project showed a critical problem-solving approach. An example was the decision to switch to the Whisper API due to limitations with the 11Labs API, showing adaptability and problem-solving skills.
+
+**Personal Leadership**
+
+A clear entrepreneurial spirit drove the project, with feedback sought and used to improve the project, reflecting strong personal leadership and learning awareness.
+
+**Targeted Interaction**
+
+Effective interaction was maintained with various stakeholders, ensuring the end product met user needs. High interaction management resulted in a project with significant impact.
+
+Potential improvements for future iterations include more in-depth testing of VR's effectiveness in language learning and a greater focus on sustainability factors, such as VR applications' energy usage.
 
 ## Review:
 
-In terms of improvement, the scope for more rigorous validation of results exists. Future iterations of the project could employ more in-depth methods of testing the effectiveness of VR and AI in language learning. While the project was successful within its given scope, a broader and more detailed study could provide more concrete data on VR's effectiveness versus traditional language learning tools.
+The portfolio presents a meticulous approach, with detailed documentation of each step, including API research, project plans, design documents, and reflection on learning outcomes. It's a comprehensive record of the project, which could be used as a resource for future work.
 
-The portfolio itself is meticulously organized and clearly outlines the progression of the project. It demonstrates the depth of the work done, from conceptualization to execution. The detailed documentations of API research, project plans, design documents, and reflection on learning outcomes all add to its comprehensiveness.
+Stakeholder engagement, VR solution development, and user feedback insights are well-documented. This provides a clear narrative of the project's progression, making the portfolio valuable for anyone wishing to expand upon this work.
 
-The evidence of stakeholder engagement, the process of developing the VR solution, and the insights gained from user feedback are all well documented and provide a clear narrative of the project's journey. This not only makes the portfolio a valuable record of the project but also a resource for anyone wishing to build upon this work in the future.
-
-Overall, the portfolio and project are a testament to the effective use of VR and AI in a pedagogical context, a demonstration of the individual's ability to successfully execute a complex, multi-faceted project, and an inspiration for further innovation in the field.
+Overall, the project meets all the learning outcomes, demonstrating an ability to perform professional duties, apply knowledge, organize with a future-oriented perspective, solve problems, lead personally, and interact effectively.
