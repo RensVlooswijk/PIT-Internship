@@ -39,7 +39,7 @@ While Inworld.AI offers several impressive features, one significant limitation 
 ## Use Cases
 
 Inworld.AI can be used in various applications, including:
-![UseCaseImage](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/UseCasesInworldAI%20(Small).png)
+![UseCaseImage](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/UseCasesInworldWhite.png)
 
 ### Games
 
