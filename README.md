@@ -113,7 +113,7 @@ These are the steps I found to be the most useful for me. This helped me create 
 
 ## Learning Outcomes
 
-To see more detailed versions of the learning outcomes check out [Learning Outcomes Explained](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/Learning%20Outcomes%20Explained.md#learning-outcomes-explained)
+To see more detailed versions of the learning outcomes check out [Learning Outcomes Explained](/Documents/Learning%20Outcomes%20Explained.md)
 
 ### 1. Professional Duties
 > You carry out the professional duties on a junior bachelor level resulting in professional products in line with the IT-area you are working in.
