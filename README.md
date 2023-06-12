@@ -149,7 +149,7 @@ It works as followed: When the player starts to speak I start an audio recording
 ![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/StartRecordingCode.png)
 
 This works but there are some drawbacks as well like the time it takes to get a spoken response.
-Because it has to go to 3 different API's it takes some time. Whenever the user starts to speak a recording starts. When this is finished it gets send to the [Whisper API](Whisper.md), In my test the API takes 2 seconds to send back a response. Then I send this text to the [ChatGPT API](ChatGPT%20API.md) which also takes 2 seconds to give back a response. Then it only takes the [11Labs API](11Labs.md) 1 second to start playing its response. This may sound fast to some people but when combined it takes 5 seconds after you have spoken for someone to speak back. Which does not sound very natural.
+Because it has to go to 3 different API's it takes some time. Whenever the user starts to speak a recording starts. When this is finished it gets send to the [Whisper API](/Documents/Whisper.md), In my test the API takes 2 seconds to send back a response. Then I send this text to the [ChatGPT API](ChatGPT%20API.md) which also takes 2 seconds to give back a response. Then it only takes the [11Labs API](11Labs.md) 1 second to start playing its response. This may sound fast to some people but when combined it takes 5 seconds after you have spoken for someone to speak back. Which does not sound very natural.
 
 This is why I made a startup scene where you can select which version you would like to use.
 
