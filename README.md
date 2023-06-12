@@ -52,10 +52,9 @@ Signature:
      - [Investigative Problem Solving](#4-investigative-problem-solving)
      - [Personal Leadership](#5-personal-leadership)
      - [Targeted Interaction](#6-targeted-interaction)
-- [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+- [Product Summary](#product-summary)
+- [Conclusion](#conclusion)
+- [Review](#Review)
 
 ## The Assignment
 ![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/csm_pit-visual_41fefac88a.png)
@@ -160,7 +159,7 @@ It works as followed: When the player starts to speak I start an audio recording
 ![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/StartRecordingCode.png)
 
 This works but there are some drawbacks as well like the time it takes to get a spoken response.
-Because it has to go to 3 different API's it takes some time. Whenever the user starts to speak a recording starts. When this is finished it gets send to the [Whisper API](/Documents/Whisper.md), In my test the API takes 2 seconds to send back a response. Then I send this text to the [ChatGPT API](ChatGPT%20API.md) which also takes 2 seconds to give back a response. Then it only takes the [11Labs API](11Labs.md) 1 second to start playing its response. This may sound fast to some people but when combined it takes 5 seconds after you have spoken for someone to speak back. Which does not sound very natural.
+Because it has to go to 3 different API's it takes some time. Whenever the user starts to speak a recording starts. When this is finished it gets send to the [Whisper API](/Documents/Whisper.md), In my test the API takes 2 seconds to send back a response. Then I send this text to the [ChatGPT API](/Documents/ChatGPT%20API.md) which also takes 2 seconds to give back a response. Then it only takes the [11Labs API](/Documents/11Labs.md) 1 second to start playing its response. This may sound fast to some people but when combined it takes 5 seconds after you have spoken for someone to speak back. Which does not sound very natural.
 
 This is why I made a startup scene where you can select which version you would like to use.
 
@@ -192,7 +191,7 @@ During my internship at PIT, I've applied a wide range of knowledge and skills t
 
 #### Game Design and Unity Development:
 
-In my 4th semester I did the Game Design & Technology specialization. In which I learned the main principles and methods of creating a game. Like a [One Page Design](/Documents/One%20Page%20Design%20Document.md) and a [Design Challenge](/documents/DesignChallenge). This allowed me to properly plan out my project and this helped me to create this VR / educational / enjoyable product.
+In my 4th semester I did the Game Design & Technology specialization. In which I learned the main principles and methods of creating a game. Like a [One Page Design](/Documents/One%20Page%20Design%20Document.md) and a [Design Challenge](/Documents/DesignChallenge). This allowed me to properly plan out my project and this helped me to create this VR / educational / enjoyable product.
 
 ![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/Schermafbeelding%202023-06-07%20134349.png)
 
@@ -209,7 +208,7 @@ Then there was my 3rd semester (Software) in which I learned a lot about what an
 ### 3. Future-Oriented Organization
 > You explore the organizational context of your project, make business, sustainable and ethical considerations and manage all aspects of the execution of the project.
 
-First of all I created an [internship takeover document](/Documents/Transfer%20Document) so that my project can be taken over after my internship ends. As for the rest:
+First of all I created an [internship takeover document](/Documents/Transfer%20Document.md) so that my project can be taken over after my internship ends. As for the rest:
 
 **Exploring Organizational Context**:
 The first day I started as an intern I was given a presentation and explanation of the organizational context of both ROC Tilburg and PIT. This helped me know who to go for if I needed help. I also kept close contact with the people that were important for me within the organization, like Erdinç, Daan and Rudy, through weekly meetings.
@@ -273,12 +272,12 @@ In conclusion, I created a game for refugee students that are learning Dutch. Wh
 
 ## Conclusion:
 
-For more detailed information about this project, its future scope, and how it can be taken forward, please refer to my [transfer document](/Documents/Transfer%20Document).
+For more detailed information about this project, its future scope, and how it can be taken forward, please refer to my [transfer document](/Documents/Transfer%20Document,md).
 But overall this project has been very educational and has a lot of potential. I hope that with this portfolio I have made good contribution too interactive technologies in education.
 
 ## Review:
 
-In general my internship has gone very smooth. I haven't had any major problems and everybody has been very helpful and nice. But of course I haven't only made good decisions. A lot could have been improved. I would like to review the rest of my portfolio according to the [learning outcomes](learning%20Outcomes%20Explained.md).
+In general my internship has gone very smooth. I haven't had any major problems and everybody has been very helpful and nice. But of course I haven't only made good decisions. A lot could have been improved. I would like to review the rest of my portfolio according to the [learning outcomes](/Documents/Learning%20Outcomes%20Explained.md).
 
 ##### Professional Duties
 To start I made a project plan, which I had reviewed multiple times and I was very happy with the end result. But the Design could have been way better. Because before I started on my main project I hadn't really made a proper design on what I was going to make. In retrospect this would have been very helpful as well. Another issue of my professional duties was the project management. At the start I made multiple project and different vaults and different GitHub pages which became very cluttered very fast. But other than that it all went really well.
@@ -288,7 +287,7 @@ As for my situational orientation, I used a lot of previously acquired knowledge
 
 **Future-Oriented Organization**
 
-Then for future oriented organization, At the start of my internship I introduced myself to as many people of my internship as possible which was a good decision and I would recommend doing that too. Also the future aspect was covered very well in my eyes, As I had a conversation with possible new interns and could explain my project, and I made a [Transfer Document](Documents/Transfer%20Document) however the project management was not optimal. And if I were to do it again I would start by making a proper project architecture.
+Then for future oriented organization, At the start of my internship I introduced myself to as many people of my internship as possible which was a good decision and I would recommend doing that too. Also the future aspect was covered very well in my eyes, As I had a conversation with possible new interns and could explain my project, and I made a [Transfer Document](Documents/Transfer%20Document.md) however the project management was not optimal. And if I were to do it again I would start by making a proper project architecture.
 
 **Investigative Problem Solving**
 
