@@ -28,9 +28,10 @@
 
 Approved and signed by internship supervisor: 
 
-Date: 
+Date: 12-6-2023
 
 Signature:
+![Image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/ErdincHandtekening.png)
 
 <div style="border: 1px solid darkblue; width: 50%; height: 200px; margin: 0 auto;">
   
