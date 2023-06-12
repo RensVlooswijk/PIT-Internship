@@ -270,10 +270,14 @@ As seen throughout this portfolio I have created multiple (research) documents.
 
 In conclusion, I created a game for refugee students that are learning Dutch. When you start the game you are presented by 2 options, InworldAI and ChatGPT (so the teacher can pick what works best for them). If you click InworldAI you stand in a restaurant where you can walk around. In the restaurant there is a waiter, whenever you go near him you can start speaking (in English) and he will respond. If you click ChatGPT it is almost the same, except it is less polished and some of the character features are missing, but the answers can be in almost any language (including Dutch).
 
+[Return to table of contents](#table-of-contents) 
+
 ## Conclusion:
 
 For more detailed information about this project, its future scope, and how it can be taken forward, please refer to my [transfer document](/Documents/Transfer%20Document,md).
 But overall this project has been very educational and has a lot of potential. I hope that with this portfolio I have made good contribution too interactive technologies in education.
+
+[Return to table of contents](#table-of-contents) 
 
 ## Review:
 
@@ -300,3 +304,5 @@ I feel like I handled personal leadership very well too. Because I have learned 
 **Targeted Interaction**
 
 And lastly my targeted interactions, I determined which partners would play a role in my project early on and I am glad I did. But as my internship went along I lost sight of a few of them. And I would have liked to have more interactions with the actual students. 
+
+[Return to table of contents](#table-of-contents) 
