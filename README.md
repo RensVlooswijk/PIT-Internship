@@ -7,30 +7,30 @@
 
 ![fontys-39-logo-png-transparent (Smaller)](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/fontys-39-logo-png-transparent%20(Smaller).png)
 
-| Student + Company Info | |
-| ------------- | ------------- |
-| Student Name:  | Rens Vooswijk  |
-| Student Nummer  | 466388  |
-| Project Period | 6-02-2023 - 13-06-2023|
-| Company Name | ROC Tilbrug |
-| Company Department | Practoraat Interactieve Technologie |
-| Adress | Locomotiefboulevard 101-119, 5041SE Tilburg |
-| Company Supervisor | Erdinc Sacan |
-| School Supervisor | Lisette Overkamp-Penterman |
+|              |  |
+|-------------------|-------------|
+| **Student**           |           |
+| Family name, Initials       | Vloowijk, RA             |
+| Student number    | 466388            |
+| Project period    | 6-02-2023 - 13-06-2023            |
+| **Company**          |             |
+| Name company/institution | ROC Tilburg   |
+| Department        | Practoraat Interactieve Technologie            |
+| Address           | Locomotiefboulevard 101, 5041SE Tilburg, Mindlabs            |
+| **Company tutor**     |             |
+| Family name (Company Tutor)  |Erdinç Saçan   |
+| Position          | Practor            |
+| **University tutor**  |            |
+| Family name (University Tutor) |Lisette Overkamp-Penterman   |
+| **Final portfolio**   |             |
+| Title             |Rens Vlooswijk PIT portfolio            |
+| Date              |12-06-2023             |
 
 Approved and signed by internship supervisor: 
 
 Date: 
 
 Signature:
-
-
-
-
-
-
-
-
 
 <div style="border: 1px solid darkblue; width: 50%; height: 200px; margin: 0 auto;">
   
@@ -97,17 +97,17 @@ A lot of research has been done with the goal of answering a similar question. B
 
 Currently VR in education is a growing field, both in general and as a language learning tool. However it is still very much evolving and improving. Also its effectiveness is not set in stone yet. But it seems to be a large improvement (mostly in engagement) compared to learning from books. 
 
-### 2.	
+#### 2.	
 > What are the specific challenges and considerations when using virtual reality technology for language learning, particularly for the students?
 
 Besides the general flaws of VR like motion sickness for some students, I think the main challenge would be the lack of actual human interaction. Because while VR can simulate environments it currently is not able to fully replicate the nuances of human interaction (mostly non-verbal). In VR body language is often simplified and thus cant show the complexity of real-world interactions. So a student would have difficulty picking up non verbal clues. However for learning a second language this is not as important so in this use case there are no real downsides.
 
-### 3.	
+#### 3.	
 > How can we evaluate the effectiveness of the virtual reality game in terms of language proficiency and engagement, and what are the best practices for gathering feedback from the students?
 
 The most obvious way would be user test and ask feedback in a questionnaire format. This is also what I did. (to see my questionnaire please click [this link](https://forms.gle/emxx9nvhDpR23vZc7)). Although I am not convinced this is the best method to check the effectiveness of VR in language learning. During my internship I came across another method that I liked a lot. Using this method you would get 2 students to fill in a quiz about a subject neither have actual knowledge about. Then you would let one of them play the VR game and one person study with a book. Then they would take the quiz again and you would see if VR is effective. You could also let one person do both.
 
-### 4.	
+#### 4.	
 > What are the key steps and best practices for creating a successful proof of concept for a new product or technology?
 
 To create a successful proof of concept you need to involve several steps:
@@ -237,7 +237,7 @@ During my internship this posed some problems. The main one of course being: wha
 ### 5. Personal Leadership 
 > You are entrepreneurial around your projects and personal development, you pay attention to your own learning ability and keep in mind what kind of IT professional and/or what type of positions you aspire to.
 
-This learning outcome I tackled by doing as much as possible for my internship company outside of my main project. Like go to events like the [Fontys XR event](), [Fontys VR Expo]() and the [AI IT Festival](). I thought these events were very educational and my internship appreciated me going. I also spend 1 day a week at Aero, a student team for the TU, for my internship. Furthermore if there were questions about a new tool which needed to be tested I was eager to do so most of the time, Especially if it was AI related. 
+This learning outcome I tackled by doing as much as possible for my internship company outside of my main project. Like go to events like the Fontys XR event, Fontys VR Expo and the AI IT Festival. I thought these events were very educational and my internship appreciated me going. I also spend 1 day a week at Aero, a student team for the TU, for my internship. Furthermore if there were questions about a new tool which needed to be tested I was eager to do so most of the time, Especially if it was AI related. 
 
 ![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/AeroLogo.png)
 
