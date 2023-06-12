@@ -272,6 +272,20 @@ In conclusion, I created a game for refugee students that are learning Dutch. Wh
 
 [Return to table of contents](#table-of-contents) 
 
+## Personal goal reflection
+
+Before I started working on my internship I created some personal goals, things that I really wanted to achieve during my internship.
+These were:
+
+##### Create a functional VR game 
+During my internship I of course made a game, but before I started my personal goal was to make it functional and in VR. I achieved this, but not fully. I made a working and functional game, and  it is possible to play it in VR. But I didn't have time to add all the functions that I originally wanted. And the VR aspect is not really used other than that it is playable in VR.
+
+##### Make the game useful 
+I presented my game to multiple teachers and everybody was very positive about what it could mean for them. This made me realize I made something that could actually be useful to a lot of people. So I also achieved this goal.
+
+##### Acquire general understanding of real companies/work environments
+The only goal I haven't really achieved is the general understanding of real companies. Since PIT is a part of a school and not really a company I didn't really get to see what it was like to work in a real company.
+
 ## Conclusion:
 
 For more detailed information about this project, its future scope, and how it can be taken forward, please refer to my [transfer document](/Documents/Transfer%20Document,md).

@@ -148,6 +148,13 @@
   },
   "active": "73b2c7dec721e2b4",
   "lastOpenFiles": [
+    "TableTalk/Library/ArtifactDB",
+    "TableTalk/Assets/_Project/Scenes/ChatGPT.unity",
+    "TableTalk/Temp/UnityTempFile-ba8c2cd8d3fa95c47b44ada85af33f16",
+    "TableTalk/Temp/UnityTempFile-a8956d50548185a498b0f530d5aa49f8",
+    "TableTalk/Library/TempArtifacts/Primary/a9a6963505ddf7f4d886008c6dc86122",
+    "TableTalk/Library/TempArtifacts/Primary/00000000000000004000000000000000",
+    "TableTalk/Temp/UnityTempFile-1b3a77f66bf22034fa36bddc06f292bd",
     "Documents/11Labs.md",
     "Documents/InworldAi.md",
     "Documents/ChatGPT API.md",
@@ -169,12 +176,6 @@
     "Documents/Whisper.md",
     "Documents/Transfer Document.md",
     "TableTalk/Temp/UnityTempFile-f08f27462e3cecf4bbef935a487c4bca",
-    "TableTalk/Temp/UnityTempFile-6922ec8c3623c8146aae979a6235a658",
-    "TableTalk/Library/ShaderCache.db-journal",
-    "TableTalk/Temp/UnityTempFile-571ef6f1525cc7943bae11a3102e9d83",
-    "TableTalk/Library/Search/propertyDatabase.db_55810d3a7cdd4f279f611eef3a8f3aa4_temp",
-    "TableTalk/Library/Search/propertyDatabase.db_aa97608cf1874fe9b246dd11e9fe3166_temp",
-    "TableTalk/Library/Artifacts/63/636d50a235b9f0718ed8b873007fb09b",
     "Documents/Windows Speech Recognition.md",
     "Documents/README.md",
     "PortfolioAssets/DemoXrEvent (Small).jpg",
@@ -192,7 +193,6 @@
     "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/Get started.md",
     "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/AddMembers.md",
     "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/CreateProjects.md",
-    "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/ExistingRepo.md",
-    "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/AccessRemoteProjects.md"
+    "TableTalk/Library/PackageCache/com.unity.collab-proxy@2.0.4/Documentation~/ExistingRepo.md"
   ]
 }
