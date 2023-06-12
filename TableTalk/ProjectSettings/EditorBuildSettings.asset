@@ -8,13 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Project/Scenes/StartMenu.unity
     guid: dbd157b2cdb52ef46849148e221c9938
-  - enabled: 0
+  - enabled: 1
     path: Assets/_Project/Scenes/ChatGPT.unity
     guid: ac7db2fca7024234ea48cd9a765df76f
   - enabled: 0
     path: Assets/_Project/Scenes/Demo1.unity
     guid: cc4584010f22a2b4e9979faaf5971842
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Project/Scenes/Demo.unity
     guid: dfe2e892fac80c34c80713d7a0024389
   - enabled: 1
