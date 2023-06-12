@@ -19,8 +19,19 @@
 | School Supervisor | Lisette Overkamp-Penterman |
 
 Approved and signed by internship supervisor: 
+
 Date: 
+
 Signature:
+
+
+
+
+
+
+
+
+
 <div style="border: 1px solid darkblue; width: 50%; height: 200px; margin: 0 auto;">
   
 </div>
