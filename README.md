@@ -53,6 +53,7 @@ Signature:
      - [Personal Leadership](#5-personal-leadership)
      - [Targeted Interaction](#6-targeted-interaction)
 - [Product Summary](#product-summary)
+- [Personal goal reflections](#personal-goal-reflection)
 - [Conclusion](#conclusion)
 - [Review](#Review)
 
