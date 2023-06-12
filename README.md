@@ -63,12 +63,12 @@ Signature:
 
 ### Context
 
-Practoraat interactieve technologie is an institution within ROC Tilburg that focuses on interactive technology. The company provides education and training in various fields related to technology, including virtual and augmented reality. Rudy, my stakeholder, and client, is a Dutch teacher at ROC Tilburg for refugee students. The reason for the assignment is that the students of the Dutch teacher have trouble speaking Dutch. They practice this by having conversations with each other, but the teacher needs to be present to correct and help them. This makes it impossible for multiple people to practice at the same time. A VR would help students practice conversations on their own. Since they could practice at home, and it is more interesting. The students have also had a previous VR experience which was received very well.
+Practoraat interactieve technologie is an institution within ROC Tilburg that focuses on interactive technology. The company provides education and training in various fields related to technology, including virtual and augmented reality. Rudy, my stakeholder, and client, is a Dutch teacher at "het schakelcollege" for refugee students and is working together with PIT. The reason for the assignment is that the students of the Dutch teacher have trouble speaking Dutch. They practice this by having conversations with each other, but the teacher needs to be present to correct and help them. This makes it impossible for multiple people to practice at the same time. A VR game would help students practice conversations on their own. Since they would be able to practice at home, and it makes learning more interesting. The students have also had a previous VR experience which was received very well, which made the teachers do more of it.
 
 ### Goal of the project
 The goal of the project is to provide a virtual environment for students to practice their Dutch language skills in a restaurant setting. The problem that needs to be solved is that students require a teacher's presence to correct them during their language practice sessions. This results in limited opportunities for multiple students to practice speaking Dutch at the same time. The desired situation is to have a virtual environment where students can practice their language skills on their own and receive feedback in real-time.
 
-The benefits of the project include improved language skills, increased confidence while speaking, and the ability to practice speaking Dutch anytime and anywhere. The VR restaurant game will offer students the possibility of having realistic conversations with a virtual waiter and provide an immersive learning experience. The product or project result will offer the capability of practicing language skills in a virtual environment and provide the facility of real-time 
+The benefits of the project include improved language skills, increased confidence while speaking, and the ability to practice speaking Dutch anytime and anywhere. The VR restaurant game will offer students the possibility of having realistic conversations with a virtual waiter and provide an immersive learning experience. The product or project result will offer the capability of practicing language skills in a virtual environment and provide the facility of real-time. 
 
 ### The Assignment
 Develop a virtual reality game to teach Dutch language to refugees at ROC Tilburg, improving language proficiency, engagement, motivation, and success, aging 18 to 50.
@@ -134,11 +134,11 @@ To see more detailed versions of the learning outcomes check out [Learning Outco
 I have actively worked on this learning outcome, and I have categorized it into different aspects:
 
 #### Analysis
-For the analysis part of my professional duties I started by creating a [project plan](Project Plan) which included multiple aspects of preparation like my requirements"
+For the analysis part of my professional duties I started by creating a [project plan](Project%20Plan.docx) which included multiple aspects of preparation like my requirements"
 
 ![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/Requirements.png)
 
-And an idea of the finished product:
+And an idea of the finished product would be:
 
 ![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/EndProductTree.png)
 
@@ -151,7 +151,7 @@ The end product does not look exactly the same as I predicted ofcourse but it di
 
 #### Realize
 To see my realization of the project you can of course see the entire project within this GitHub page. But for my portfolio I will give a short summary of the things I have done.
-It starts with the multiple options I had to realize the project. Check out this link [too see all my research](/Documents) . But when I started with this project I found a tool called Inworld.Ai. which I then used to create a demo scene.
+It starts with the multiple options I had to realize the project. Check out this link [too see all my research](/Documents) . But when I started with this project I found a tool called Inworld.Ai. which I then used to create a demo scene (and video, click below).
 
 ![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/InworldDemoAsAGif.gif)
 
@@ -193,7 +193,7 @@ During my internship at PIT, I've applied a wide range of knowledge and skills t
 
 #### Game Design and Unity Development:
 
-In my 4th semester I did the Game Design & Technology specialization. In which I learned the main principles and methods of creating a game. Like a [One Page Design](/Documents/One%20Page%20Design%20Document.md) and a [Design Challenge](/Documents/DesignChallenge). This allowed me to properly plan out my project and this helped me to create this VR / educational / enjoyable product.
+In my 4th semester I did the Game Design & Technology specialization. In which I learned the main principles and methods of creating a game. Like a [One Page Design](/Documents/One%20Page%20Design%20Document.md) and a Design Challenge. This allowed me to properly plan out my project and this helped me to create this VR / educational / enjoyable product.
 
 ![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/Schermafbeelding%202023-06-07%20134349.png)
 
