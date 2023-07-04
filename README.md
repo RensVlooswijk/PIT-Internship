@@ -49,14 +49,15 @@ Signature:
 - [Learning Outcomes](#learning-outcomes)
      - [Professional duties](#1-professional-duties)
      - [Situation-orientation](#2-situation-orientation)
-     - [Future-Oriented Organization](#3-future-oriented-organisation)
+     - [Future-Oriented Organization](#3-future-oriented-organization)
      - [Investigative Problem Solving](#4-investigative-problem-solving)
      - [Personal Leadership](#5-personal-leadership)
      - [Targeted Interaction](#6-targeted-interaction)
 - [Product Summary](#product-summary)
 - [Personal goal reflections](#personal-goal-reflection)
 - [Conclusion](#conclusion)
-- [Review](#Review)
+- [Review](#review)
+- [References](#references)
 
 ## The Assignment
 ![image](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/PortfolioAssets/csm_pit-visual_41fefac88a.png)
@@ -85,6 +86,7 @@ Develop a virtual reality game to teach Dutch language to refugees at ROC Tilbur
 | **Sub Question 3:** How can we evaluate the effectiveness of the VR game in terms of language proficiency and engagement, and what are the best practices for gathering feedback from the students? | Field, Lab | User Testing, Feedback Collection | I conducted user testing and collected feedback through a questionnaire, which informed further refinements of the VR game. | User Test Data, Feedback Collection Methodology |
 | **Sub Question 4:** What are the key steps and best practices for creating a successful proof of concept for a new product or technology? | Workshop | Prototype Development, User Feedback, Analysis | I followed key steps for creating a successful proof of concept, which included prototype development, user testing, and analysis of feedback. | Proof of Concept Guide |
 
+- [The DOT Framework. (2023)](https://ictresearchmethods.nl/The_DOT_Framework)
 
 ### Main Question: 
 > How effective is virtual reality technology in teaching Dutch language to the students, and what are the best practices for designing and developing a virtual reality game for this purpose?
@@ -97,16 +99,21 @@ A lot of research has been done with the goal of answering a similar question. B
 > What is the current state of research on the use of virtual reality technology in language learning, and how does it compare to traditional language learning methods in terms of effectiveness and engagement?
 
 Currently VR in education is a growing field, both in general and as a language learning tool. However it is still very much evolving and improving. Also its effectiveness is not set in stone yet. But it seems to be a large improvement (mostly in engagement) compared to learning from books. 
+- [Sustainability. (2023)](https://www.mdpi.com/2071-1050/14/6/3147)
+- [Frontiers in Psychology. (2023)](https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1153642/full)
 
 #### 2.	
 > What are the specific challenges and considerations when using virtual reality technology for language learning, particularly for the students?
 
 Besides the general flaws of VR like motion sickness for some students, I think the main challenge would be the lack of actual human interaction. Because while VR can simulate environments it currently is not able to fully replicate the nuances of human interaction (mostly non-verbal). In VR body language is often simplified and thus cant show the complexity of real-world interactions. So a student would have difficulty picking up non verbal clues. However for learning a second language this is not as important so in this use case there are no real downsides.
+- [The Affordances and Challenges of Virtual Reality for Language Teaching. (2023)](https://www.researchgate.net/publication/362373300_The_Affordances_and_Challenges_of_Virtual_Reality_for_Language_Teaching)
+- [LinkedIn. (2023). What current challenges limitations vr technology](https://www.linkedin.com/advice/3/what-current-challenges-limitations-vr-technology)
 
 #### 3.	
 > How can we evaluate the effectiveness of the virtual reality game in terms of language proficiency and engagement, and what are the best practices for gathering feedback from the students?
 
 The most obvious way would be user test and ask feedback in a questionnaire format. This is also what I did. (to see my questionnaire please click [this link](https://forms.gle/emxx9nvhDpR23vZc7)). Although I am not convinced this is the best method to check the effectiveness of VR in language learning. During my internship I came across another method that I liked a lot. Using this method you would get 2 students to fill in a quiz about a subject neither have actual knowledge about. Then you would let one of them play the VR game and one person study with a book. Then they would take the quiz again and you would see if VR is effective. You could also let one person do both.
+- [Evaluation of a VR language learning environment: Effect of feedback on learners' flow state. (2023)](https://www.researchgate.net/publication/367615320_Evaluation_of_a_VR_language_learning_environment_Effect_of_feedback_on_learners'_flow_state)
 
 #### 4.	
 > What are the key steps and best practices for creating a successful proof of concept for a new product or technology?
@@ -120,6 +127,8 @@ To create a successful proof of concept you need to involve several steps:
 - Analyze results and make decisions: And finally you need to make decisions about whether you want to proceed based on given feedback.
 
 These are the steps I found to be the most useful for me. This helped me create a proper proof of concept. After which I started with a MVP but there was not enough time in my semester to complete that as much as I originally wanted. 
+- [SoftKraft. (2023). POC Development](https://www.softkraft.co/poc-development/)
+- [Net Solutions. (2023). How to Create a Successful Proof of Concept in Software Development](https://www.netsolutions.com/insights/proof-of-concept-poc/)
 
 [Return to table of contents](#table-of-contents) 
 
@@ -322,3 +331,27 @@ I feel like I handled personal leadership very well too. Because I have learned 
 And lastly my targeted interactions, I determined which partners would play a role in my project early on and I am glad I did. But as my internship went along I lost sight of a few of them. And I would have liked to have more interactions with the actual students. 
 
 [Return to table of contents](#table-of-contents) 
+
+### References
+
+**General References:**
+- [The DOT Framework. (2023)](https://ictresearchmethods.nl/The_DOT_Framework)
+
+**Main Question:**
+- [Effectiveness of virtual reality game in foreign language vocabulary acquisition. (2023)](https://www.researchgate.net/publication/340562955_Effectiveness_of_virtual_reality_game_in_foreign_language_vocabulary_acquisition)
+- [JCALL. (2023)](https://www.degruyter.com/document/doi/10.1515/jccall-2022-0014/html)
+
+**Sub Question 1:**
+- [Sustainability. (2023)](https://www.mdpi.com/2071-1050/14/6/3147)
+- [Frontiers in Psychology. (2023)](https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1153642/full)
+
+**Sub Question 2:**
+- [The Affordances and Challenges of Virtual Reality for Language Teaching. (2023)](https://www.researchgate.net/publication/362373300_The_Affordances_and_Challenges_of_Virtual_Reality_for_Language_Teaching)
+- [LinkedIn. (2023). What current challenges limitations vr technology](https://www.linkedin.com/advice/3/what-current-challenges-limitations-vr-technology)
+
+**Sub Question 3:**
+- [Evaluation of a VR language learning environment: Effect of feedback on learners' flow state. (2023)](https://www.researchgate.net/publication/367615320_Evaluation_of_a_VR_language_learning_environment_Effect_of_feedback_on_learners'_flow_state)
+
+**Sub Question 4:**
+- [SoftKraft. (2023). POC Development](https://www.softkraft.co/poc-development/)
+- [Net Solutions. (2023). How to Create a Successful Proof of Concept in Software Development](https://www.netsolutions.com/insights/proof-of-concept-poc/)
