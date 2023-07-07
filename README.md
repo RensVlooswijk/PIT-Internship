@@ -99,6 +99,7 @@ A lot of research has been done with the goal of answering a similar question. B
 > What is the current state of research on the use of virtual reality technology in language learning, and how does it compare to traditional language learning methods in terms of effectiveness and engagement?
 
 Currently VR in education is a growing field, both in general and as a language learning tool. However it is still very much evolving and improving. Also its effectiveness is not set in stone yet. But it seems to be a large improvement (mostly in engagement) compared to learning from books. 
+to see my full literature study check out [this link](https://github.com/RensVlooswijk/PIT-Internship/blob/Dev/Documents/CurrentStateVRStudy.md)
 - [Sustainability. (2023)](https://www.mdpi.com/2071-1050/14/6/3147)
 - [Frontiers in Psychology. (2023)](https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1153642/full)
 
