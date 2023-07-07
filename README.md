@@ -332,27 +332,3 @@ I feel like I handled personal leadership very well too. Because I have learned 
 And lastly my targeted interactions, I determined which partners would play a role in my project early on and I am glad I did. But as my internship went along I lost sight of a few of them. And I would have liked to have more interactions with the actual students. 
 
 [Return to table of contents](#table-of-contents) 
-
-### References
-
-**General References:**
-- [The DOT Framework. (2023)](https://ictresearchmethods.nl/The_DOT_Framework)
-
-**Main Question:**
-- [Effectiveness of virtual reality game in foreign language vocabulary acquisition. (2023)](https://www.researchgate.net/publication/340562955_Effectiveness_of_virtual_reality_game_in_foreign_language_vocabulary_acquisition)
-- [JCALL. (2023)](https://www.degruyter.com/document/doi/10.1515/jccall-2022-0014/html)
-
-**Sub Question 1:**
-- [Sustainability. (2023)](https://www.mdpi.com/2071-1050/14/6/3147)
-- [Frontiers in Psychology. (2023)](https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1153642/full)
-
-**Sub Question 2:**
-- [The Affordances and Challenges of Virtual Reality for Language Teaching. (2023)](https://www.researchgate.net/publication/362373300_The_Affordances_and_Challenges_of_Virtual_Reality_for_Language_Teaching)
-- [LinkedIn. (2023). What current challenges limitations vr technology](https://www.linkedin.com/advice/3/what-current-challenges-limitations-vr-technology)
-
-**Sub Question 3:**
-- [Evaluation of a VR language learning environment: Effect of feedback on learners' flow state. (2023)](https://www.researchgate.net/publication/367615320_Evaluation_of_a_VR_language_learning_environment_Effect_of_feedback_on_learners'_flow_state)
-
-**Sub Question 4:**
-- [SoftKraft. (2023). POC Development](https://www.softkraft.co/poc-development/)
-- [Net Solutions. (2023). How to Create a Successful Proof of Concept in Software Development](https://www.netsolutions.com/insights/proof-of-concept-poc/)
